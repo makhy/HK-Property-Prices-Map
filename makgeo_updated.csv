@@ -1,0 +1,919 @@
+,PROPERTIES PAGE,property_name,area,address,sell_price,rent_price,bedrooms,living_rooms,years,efficiency_ratio,lat,long
+0,1,Forfar,Kln Tong / Beacon Hill ,Flat B| High Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,5000,85000,4.0,2.0,9.0,75.0,22.3369319,114.1763367
+1,1,King's Park Hill,Homantin/Kingspark ,High Floor|  Apt 70 ( Blk 4 )| King's Park Hill| Homantin/Kingspark ,9800,138000,5.0,2.0,19.0,68.0,22.318507,114.1755339
+2,1,34G Braga Circuit,Kadoorie Hill , 34G Braga Circuit| Kadoorie Hill ,3800,56000,3.0,2.0,63.0,,22.3226411,114.1758902
+3,1,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 04| Beverly Villas| Kln Tong / Beacon Hill ,2380,56000,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+4,1,One Mayfair,Kln Tong / Beacon Hill , Block 7| One Mayfair| Kln Tong / Beacon Hill ,4200,56000,3.0,1.0,7.0,78.0,22.3369319,114.1763367
+5,1,Ultima,Homantin/Kingspark ,Flat B| Middle Floor|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,9000,56000,4.0,2.0,3.0,,22.318507,114.1755339
+6,1,Dunbar Place,Homantin/Kingspark ,Flat B| High Floor|  Dunbar Place| Homantin/Kingspark ,3600,56000,3.0,2.0,5.0,,22.318507,114.1755339
+7,1,Park View Court,Western Mid-Levels ,High Floor|  Block B| Park View Court| Western Mid-Levels ,4200,95000,4.0,2.0,45.0,75.0,22.2816223,114.147865
+8,1,Ellery Terrace,Homantin/Kingspark ,Flat A| High Floor|  Ellery Terr| Ellery Terrace| Homantin/Kingspark ,2500,50000,3.0,2.0,19.0,78.0,22.318507,114.1755339
+9,1,Marple Court,Kln Tong / Beacon Hill ,Flat F|  Marple Court| Kln Tong / Beacon Hill ,1680,38000,2.0,2.0,47.0,80.0,22.3369319,114.1763367
+10,1,Padek Palace,Prince Edward Rd ,Flat C| Middle Floor|  Padek Palace| Prince Edward Rd ,4000,50000,4.0,2.0,15.0,,30.2572132,-81.70670799999999
+11,1,Padek Palace,Prince Edward Rd ,Flat D| High Floor|  Padek Palace| Prince Edward Rd ,4000,50000,6.0,2.0,15.0,,30.2572132,-81.70670799999999
+12,1,Nga Yuen Building,Kln Tong / Beacon Hill ,Low Floor|  Nga Yuen Building| Kln Tong / Beacon Hill ,1850,37000,3.0,2.0,55.0,80.0,22.3369319,114.1763367
+13,1,Hampton Place,Olympic Station ,Flat A| High Floor|  Block 1| Hampton Place| Olympic Station ,1100,23000,2.0,2.0,15.0,75.0,34.050229,-118.2911404
+14,1,Silver Crest,Kln Tong / Beacon Hill , Silver Crest| Kln Tong / Beacon Hill ,9800,200000,4.0,2.0,38.0,92.0,22.3369319,114.1763367
+15,1,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,10800,200000,5.0,3.0,15.0,78.0,22.3369319,114.1763367
+16,1,3 Julia Avenue,Homantin/Kingspark ,Flat C|  Julia Avenue 3| 3 Julia Avenue| Homantin/Kingspark ,1800,200000,2.0,2.0,3.0,,22.318507,114.1755339
+17,1,Padek Palace,Prince Edward Rd ,Flat A| Middle Floor|  Padek Palace| Prince Edward Rd ,1850,35000,3.0,2.0,15.0,75.0,30.2572132,-81.70670799999999
+18,2,Paris Garden,Prince Edward Rd ,Middle Floor|  Paris Garden| Prince Edward Rd ,2010,40000,3.0,2.0,26.0,72.0,30.2572132,-81.70670799999999
+19,2,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,860,25000,1.0,2.0,41.0,78.0,22.3369319,114.1763367
+20,2,Grandeur Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Block 3| Grandeur Villa| Yau Yat Chuen/Shek Kip Mei ,2600,48000,3.0,2.0,27.0,72.0,22.3312462,114.1744039
+21,2,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Tropicana 3 (Block 23)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,3200,65000,3.0,2.0,20.0,77.0,22.3312462,114.1744039
+22,2,Edwardian Heights,Homantin/Kingspark ,Flat B| High Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,1500,30000,3.0,2.0,46.0,76.0,22.318507,114.1755339
+23,2,Le Chateau,Kln Tong / Beacon Hill ,Flat E|  Le Chateau| Kln Tong / Beacon Hill ,2980,30000,4.0,2.0,6.0,80.0,22.3369319,114.1763367
+24,2,May Fair Court,Yau Yat Chuen/Shek Kip Mei , May Fair Court| Yau Yat Chuen/Shek Kip Mei ,2360,30000,3.0,2.0,37.0,82.0,22.3312462,114.1744039
+25,2,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 7| Beverly Villas| Kln Tong / Beacon Hill ,2800,30000,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+26,2,Homantin Hillside,Hung Hom ,Flat A|  Block 1| Homantin Hillside| Hung Hom ,3800,30000,4.0,,3.0,,22.3055658,114.1887233
+27,2,Ultima,Homantin/Kingspark ,Flat C| Middle Floor|  Block 7| Ultima| Homantin/Kingspark ,6900,30000,4.0,2.0,3.0,,22.318507,114.1755339
+28,2,The Colonnades,Argyle Street ,Flat B| Low Floor|  The Colonnades| Argyle Street ,1100,30000,2.0,2.0,30.0,83.0,41.9716799,-87.7484664
+29,2,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 1| Mantin Heights| Homantin/Kingspark ,1600,30000,2.0,2.0,2.0,,22.318507,114.1755339
+30,2,Man Yuen,Homantin/Kingspark ,Low Floor|  Man Yuen| Homantin/Kingspark ,1500,30000,3.0,2.0,51.0,90.0,22.318507,114.1755339
+31,2,Fessenden Court,Kln Tong / Beacon Hill ,Flat A|  Fessenden Court| Kln Tong / Beacon Hill ,1900,30000,3.0,2.0,43.0,83.0,22.3369319,114.1763367
+32,2,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| Low Floor|  Tropicana 6 (Block 21)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,1200,25000,2.0,2.0,20.0,77.0,22.3312462,114.1744039
+33,2,Cheerworld Court,Homantin/Kingspark ,Low Floor|  Cheerworld Court| Homantin/Kingspark ,1650,34000,3.0,2.0,25.0,61.0,22.318507,114.1755339
+34,2,Gay Mansion,Waterloo Road ,Middle Floor|  Gay Mansion| Waterloo Road ,1000,34000,3.0,2.0,53.0,70.0,35.7241964,-97.44084140000001
+35,2,Duchy Heights,Homantin/Kingspark ,Flat A| Middle Floor|  Duchy Heights| Homantin/Kingspark ,1800,34000,3.0,2.0,47.0,80.0,22.318507,114.1755339
+36,3,Paris Garden,Prince Edward Rd ,Middle Floor|  Paris Garden| Prince Edward Rd ,2010,40000,3.0,2.0,26.0,72.0,30.2572132,-81.70670799999999
+37,3,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,860,25000,1.0,2.0,41.0,78.0,22.3369319,114.1763367
+38,3,Grandeur Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Block 3| Grandeur Villa| Yau Yat Chuen/Shek Kip Mei ,2600,48000,3.0,2.0,27.0,72.0,22.3312462,114.1744039
+39,3,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Tropicana 3 (Block 23)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,3200,65000,3.0,2.0,20.0,77.0,22.3312462,114.1744039
+40,3,Edwardian Heights,Homantin/Kingspark ,Flat B| High Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,1500,30000,3.0,2.0,46.0,76.0,22.318507,114.1755339
+41,3,Le Chateau,Kln Tong / Beacon Hill ,Flat E|  Le Chateau| Kln Tong / Beacon Hill ,2980,30000,4.0,2.0,6.0,80.0,22.3369319,114.1763367
+42,3,May Fair Court,Yau Yat Chuen/Shek Kip Mei , May Fair Court| Yau Yat Chuen/Shek Kip Mei ,2360,30000,3.0,2.0,37.0,82.0,22.3312462,114.1744039
+43,3,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 7| Beverly Villas| Kln Tong / Beacon Hill ,2800,30000,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+44,3,Homantin Hillside,Hung Hom ,Flat A|  Block 1| Homantin Hillside| Hung Hom ,3800,30000,4.0,,3.0,,22.3055658,114.1887233
+45,3,Ultima,Homantin/Kingspark ,Flat C| Middle Floor|  Block 7| Ultima| Homantin/Kingspark ,6900,30000,4.0,2.0,3.0,,22.318507,114.1755339
+46,3,The Colonnades,Argyle Street ,Flat B| Low Floor|  The Colonnades| Argyle Street ,1100,30000,2.0,2.0,30.0,83.0,41.9716799,-87.7484664
+47,3,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 1| Mantin Heights| Homantin/Kingspark ,1600,30000,2.0,2.0,2.0,,22.318507,114.1755339
+48,3,Man Yuen,Homantin/Kingspark ,Low Floor|  Man Yuen| Homantin/Kingspark ,1500,30000,3.0,2.0,51.0,90.0,22.318507,114.1755339
+49,3,Fessenden Court,Kln Tong / Beacon Hill ,Flat A|  Fessenden Court| Kln Tong / Beacon Hill ,1900,30000,3.0,2.0,43.0,83.0,22.3369319,114.1763367
+50,3,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| Low Floor|  Tropicana 6 (Block 21)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,1200,25000,2.0,2.0,20.0,77.0,22.3312462,114.1744039
+51,3,Cheerworld Court,Homantin/Kingspark ,Low Floor|  Cheerworld Court| Homantin/Kingspark ,1650,34000,3.0,2.0,25.0,61.0,22.318507,114.1755339
+52,3,Gay Mansion,Waterloo Road ,Middle Floor|  Gay Mansion| Waterloo Road ,1000,34000,3.0,2.0,53.0,70.0,35.7241964,-97.44084140000001
+53,3,Duchy Heights,Homantin/Kingspark ,Flat A| Middle Floor|  Duchy Heights| Homantin/Kingspark ,1800,34000,3.0,2.0,47.0,80.0,22.318507,114.1755339
+54,4,Ultima,Homantin/Kingspark ,Flat A|  Block 7| Ultima| Homantin/Kingspark ,4300,60000,3.0,2.0,3.0,,22.318507,114.1755339
+55,4,One Homantin,Homantin/Kingspark ,Flat C|  Tower 5| One Homantin| Homantin/Kingspark ,1280,60000,2.0,2.0,2.0,,22.318507,114.1755339
+56,4,Mandarin Court,Argyle Street ,High Floor|  Block 1| Mandarin Court| Argyle Street ,1380,60000,3.0,2.0,60.0,80.0,41.9716799,-87.7484664
+57,4,One Beacon Hill,Kln Tong / Beacon Hill ,Flat D| Low Floor|  Block 09| Phase 3| One Beacon Hill| Kln Tong / Beacon Hill ,2980,48000,3.0,2.0,15.0,75.0,22.3369319,114.1763367
+58,4,Harbour Green,Olympic Station ,Flat B| Low Floor|  Block 1| Harbour Green| Olympic Station ,2390,48000,4.0,2.0,12.0,76.0,34.050229,-118.2911404
+59,4,Mantin Heights,Homantin/Kingspark ,Flat B|  Block 1| Mantin Heights| Homantin/Kingspark ,1900,48000,2.0,2.0,2.0,,22.318507,114.1755339
+60,4,Mantin Heights,Homantin/Kingspark ,Flat A|  Block 1| Mantin Heights| Homantin/Kingspark ,1600,48000,2.0,2.0,2.0,,22.318507,114.1755339
+61,4,Parc Palais,Homantin/Kingspark ,Flat C| High Floor|  Block 6| Parc Palais| Homantin/Kingspark ,4500,48000,3.0,2.0,15.0,76.0,22.318507,114.1755339
+62,4,Mantin Heights,Homantin/Kingspark ,Flat C| High Floor|  Block 5| Mantin Heights| Homantin/Kingspark ,1398,48000,2.0,2.0,2.0,,22.318507,114.1755339
+63,4,Stanford Villa,Stanley/Tai Tam/Shek O , Block 3| Stanford Villa| Stanley/Tai Tam/Shek O ,2000,48000,2.0,2.0,24.0,82.0,37.09024,-95.712891
+64,4,Caldecott Hill,Yau Yat Chuen/Shek Kip Mei ,Flat D|  Tower 2| Caldecott Hill| Yau Yat Chuen/Shek Kip Mei ,1600,33000,3.0,2.0,14.0,77.0,22.3312462,114.1744039
+65,4,Tat Chee Court,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Tat Chee Court| Yau Yat Chuen/Shek Kip Mei ,1500,33000,3.0,2.0,33.0,88.0,22.3312462,114.1744039
+66,4,South Court,Kln Tong / Beacon Hill ,Flat F|  South Court| Kln Tong / Beacon Hill ,1998,33000,3.0,2.0,45.0,84.0,22.3369319,114.1763367
+67,4,Carrie Court,Homantin/Kingspark ,Flat C| High Floor|  Carrie Court| Homantin/Kingspark ,1300,33000,3.0,2.0,53.0,78.0,22.318507,114.1755339
+68,4,Alice Court,Kln Tong / Beacon Hill ,Flat C|  Block A| Alice Court| Kln Tong / Beacon Hill ,1080,33000,2.0,2.0,47.0,81.0,22.3369319,114.1763367
+69,4,8 Lasalle,Prince Edward Rd ,Flat B| Middle Floor|  8 Lasalle| Prince Edward Rd ,3960,33000,3.0,2.0,5.0,,30.2572132,-81.70670799999999
+70,4,Celestial Heights,Celestial Heights ,Flat 12| High Floor|  Celestial Avenue 12| Phase 2| Celestial Heights| Celestial Heights ,3100,33000,3.0,2.0,9.0,76.0,22.3194779,114.186131
+71,4,Ocean Shores,Tseung Kwan O ,Flat F| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,1400,27000,,,17.0,74.0,22.3119357,114.2568776
+72,5,Prince's Heights,Prince Edward Rd ,Flat D| Low Floor|  Block 1| Prince's Heights| Prince Edward Rd ,1750,27000,3.0,2.0,47.0,74.0,30.2572132,-81.70670799999999
+73,5,Comfort Court,Kln Tong / Beacon Hill ,Flat B| Low Floor|  Comfort Court| Kln Tong / Beacon Hill ,1888,27000,3.0,2.0,42.0,74.0,22.3369319,114.1763367
+74,5,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 5| Mantin Heights| Homantin/Kingspark ,1800,27000,2.0,2.0,2.0,,22.318507,114.1755339
+75,5,Kadoorie Hill,Prince Edward Rd ,Flat A| Middle Floor|  Kadoorie Hill| Prince Edward Rd ,5350,27000,4.0,2.0,6.0,76.0,30.2572132,-81.70670799999999
+76,5,Celestial Heights,Celestial Heights ,Flat 33| Low Floor|  Celestial Avenue 33| Phase 1| Celestial Heights| Celestial Heights ,2780,27000,3.0,2.0,10.0,77.0,22.3194779,114.186131
+77,5,One Homantin,Homantin/Kingspark ,Flat E|  Tower 1| One Homantin| Homantin/Kingspark ,1350,27000,2.0,2.0,2.0,,22.318507,114.1755339
+78,5,One Homantin,Homantin/Kingspark ,Flat F|  Tower 2| One Homantin| Homantin/Kingspark ,1200,27000,1.0,2.0,2.0,,22.318507,114.1755339
+79,5,The Morgan,Western Mid-Levels ,Flat A|  The Morgan| Western Mid-Levels ,9800,168000,3.0,2.0,2.0,,22.2816223,114.147865
+80,5,The Colonnades,Argyle Street ,Flat E| High Floor|  The Colonnades| Argyle Street ,1200,168000,2.0,2.0,30.0,83.0,41.9716799,-87.7484664
+81,5,The Arch,Kowloon Station ,Flat A| Low Floor|  Tower 2A (Moon Tower)| The Arch| Kowloon Station ,5400,168000,3.0,1.0,13.0,76.0,22.304306,114.161475
+82,5,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 1| Mantin Heights| Homantin/Kingspark ,1680,168000,2.0,2.0,2.0,,22.318507,114.1755339
+83,5,Gar Fook Court,Kln Tong / Beacon Hill ,Flat F|  Gar Fook Court| Kln Tong / Beacon Hill ,800,168000,3.0,2.0,38.0,86.0,22.3369319,114.1763367
+84,5,The Harbourside,Kowloon Station ,Flat E| Low Floor|  Block 2| The Harbourside| Kowloon Station ,3360,43000,2.0,1.0,16.0,72.0,22.304306,114.161475
+85,5,Mantin Heights,Homantin/Kingspark ,Flat B| Low Floor|  Block 1| Mantin Heights| Homantin/Kingspark ,1870,43000,2.0,2.0,2.0,,22.318507,114.1755339
+86,5,Ming Garden,Prince Edward Rd ,Middle Floor|  Ming Garden| Prince Edward Rd ,1590,43000,3.0,2.0,30.0,84.0,30.2572132,-81.70670799999999
+87,5,Yee On Court,Waterloo Road ,High Floor|  Block B| Yee On Court| Waterloo Road ,1200,43000,3.0,2.0,42.0,85.0,35.7241964,-97.44084140000001
+88,5,The Victoria Towers,Tsim Sha Tsui ,Flat D| Middle Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,1500,43000,2.0,1.0,16.0,65.0,22.2988123,114.1721746
+89,5,One Homantin,Homantin/Kingspark ,Flat G| Middle Floor|  Tower 3| One Homantin| Homantin/Kingspark ,1368,43000,2.0,2.0,2.0,,22.318507,114.1755339
+90,6,Prince's Heights,Prince Edward Rd ,Flat D| Low Floor|  Block 1| Prince's Heights| Prince Edward Rd ,1750,43000,3.0,2.0,47.0,74.0,30.2572132,-81.70670799999999
+91,6,Comfort Court,Kln Tong / Beacon Hill ,Flat B| Low Floor|  Comfort Court| Kln Tong / Beacon Hill ,1888,43000,3.0,2.0,42.0,74.0,22.3369319,114.1763367
+92,6,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 5| Mantin Heights| Homantin/Kingspark ,1800,43000,2.0,2.0,2.0,,22.318507,114.1755339
+93,6,Kadoorie Hill,Prince Edward Rd ,Flat A| Middle Floor|  Kadoorie Hill| Prince Edward Rd ,5350,43000,4.0,2.0,6.0,76.0,30.2572132,-81.70670799999999
+94,6,Celestial Heights,Celestial Heights ,Flat 33| Low Floor|  Celestial Avenue 33| Phase 1| Celestial Heights| Celestial Heights ,2780,43000,3.0,2.0,10.0,77.0,22.3194779,114.186131
+95,6,One Homantin,Homantin/Kingspark ,Flat E|  Tower 1| One Homantin| Homantin/Kingspark ,1350,43000,2.0,2.0,2.0,,22.318507,114.1755339
+96,6,One Homantin,Homantin/Kingspark ,Flat F|  Tower 2| One Homantin| Homantin/Kingspark ,1200,43000,1.0,2.0,2.0,,22.318507,114.1755339
+97,6,The Morgan,Western Mid-Levels ,Flat A|  The Morgan| Western Mid-Levels ,9800,168000,3.0,2.0,2.0,,22.2816223,114.147865
+98,6,The Colonnades,Argyle Street ,Flat E| High Floor|  The Colonnades| Argyle Street ,1200,168000,2.0,2.0,30.0,83.0,41.9716799,-87.7484664
+99,6,The Arch,Kowloon Station ,Flat A| Low Floor|  Tower 2A (Moon Tower)| The Arch| Kowloon Station ,5400,168000,3.0,1.0,13.0,76.0,22.304306,114.161475
+100,6,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 1| Mantin Heights| Homantin/Kingspark ,1680,168000,2.0,2.0,2.0,,22.318507,114.1755339
+101,6,Gar Fook Court,Kln Tong / Beacon Hill ,Flat F|  Gar Fook Court| Kln Tong / Beacon Hill ,800,168000,3.0,2.0,38.0,86.0,22.3369319,114.1763367
+102,6,The Harbourside,Kowloon Station ,Flat E| Low Floor|  Block 2| The Harbourside| Kowloon Station ,3360,43000,2.0,1.0,16.0,72.0,22.304306,114.161475
+103,6,Mantin Heights,Homantin/Kingspark ,Flat B| Low Floor|  Block 1| Mantin Heights| Homantin/Kingspark ,1870,43000,2.0,2.0,2.0,,22.318507,114.1755339
+104,6,Ming Garden,Prince Edward Rd ,Middle Floor|  Ming Garden| Prince Edward Rd ,1590,43000,3.0,2.0,30.0,84.0,30.2572132,-81.70670799999999
+105,6,Yee On Court,Waterloo Road ,High Floor|  Block B| Yee On Court| Waterloo Road ,1200,43000,3.0,2.0,42.0,85.0,35.7241964,-97.44084140000001
+106,6,The Victoria Towers,Tsim Sha Tsui ,Flat D| Middle Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,1500,43000,2.0,1.0,16.0,65.0,22.2988123,114.1721746
+107,6,One Homantin,Homantin/Kingspark ,Flat G| Middle Floor|  Tower 3| One Homantin| Homantin/Kingspark ,1368,43000,2.0,2.0,2.0,,22.318507,114.1755339
+108,7,Manhattan Court,Kln Tong / Beacon Hill ,High Floor|  Manhattan Court| Kln Tong / Beacon Hill ,1980,43000,3.0,2.0,43.0,82.0,22.3369319,114.1763367
+109,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat D| High Floor|  Block 3| Meridian Hill| Kln Tong / Beacon Hill ,3300,43000,3.0,2.0,8.0,77.0,22.3369319,114.1763367
+110,7,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat C| High Floor|  Block 3| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,2750,43000,3.0,2.0,13.0,74.0,22.3312462,114.1744039
+111,7,Mantin Heights,Homantin/Kingspark ,Flat F|  Block 2| Mantin Heights| Homantin/Kingspark ,1350,43000,2.0,2.0,2.0,,22.318507,114.1755339
+112,7,Moonlight Mansion,Prince Edward Rd ,Low Floor|  Moonlight Mansion| Prince Edward Rd ,1650,43000,3.0,2.0,44.0,82.0,30.2572132,-81.70670799999999
+113,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat C| High Floor|  Block 3| Meridian Hill| Kln Tong / Beacon Hill ,2800,43000,3.0,2.0,8.0,77.0,22.3369319,114.1763367
+114,7,One West Kowloon,Cheung Sha Wan ,Flat A| High Floor|  Tower 2| One West Kowloon| Cheung Sha Wan ,1880,39000,,,5.0,74.0,22.3358055,114.1494892
+115,7,Vision Court,Prince Edward Rd ,Flat B| Middle Floor|  Vision Court| Prince Edward Rd ,1050,39000,2.0,2.0,17.0,70.0,30.2572132,-81.70670799999999
+116,7,St. George Apartments,Waterloo Road ,Flat C| Middle Floor|  St. George Apartments| Waterloo Road ,2200,39000,3.0,2.0,17.0,71.0,35.7241964,-97.44084140000001
+117,7,Celestial Heights,Celestial Heights ,Flat 16| High Floor|  Celestial Avenue 16| Phase 2| Celestial Heights| Celestial Heights ,4500,39000,4.0,2.0,9.0,77.0,22.3194779,114.186131
+118,7,The Masterpiece,Tsim Sha Tsui ,Flat K| Low Floor|  The Masterpiece| Tsim Sha Tsui ,2280,44000,1.0,1.0,10.0,73.0,22.2988123,114.1721746
+119,7,Fook Hong Court,Kln Tong / Beacon Hill ,Flat C| Middle Floor|  Fook Hong Court| Kln Tong / Beacon Hill ,800,44000,2.0,1.0,44.0,,22.3369319,114.1763367
+120,7,Boland Court,Kln Tong / Beacon Hill ,Flat C|  Phase 2| Boland Court| Kln Tong / Beacon Hill ,980,44000,3.0,2.0,43.0,86.0,22.3369319,114.1763367
+121,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat D|  Block 2| Meridian Hill| Kln Tong / Beacon Hill ,4150,44000,4.0,2.0,8.0,76.0,22.3369319,114.1763367
+122,7,Carmel On The Hill,Homantin/Kingspark ,Flat C| Middle Floor|  Carmel On The Hill| Homantin/Kingspark ,950,44000,2.0,2.0,15.0,73.0,22.318507,114.1755339
+123,7,Paxton,Prince Edward Rd ,Flat C|  Paxton| Prince Edward Rd ,4700,44000,4.0,2.0,5.0,,30.2572132,-81.70670799999999
+124,7,Mantin Heights,Homantin/Kingspark ,Flat C|  Block 5| Mantin Heights| Homantin/Kingspark ,1400,44000,2.0,2.0,2.0,,22.318507,114.1755339
+125,7,Ultima,Homantin/Kingspark ,High Floor|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,13800,44000,4.0,2.0,3.0,,22.318507,114.1755339
+126,8,Sorrento,Kowloon Station ,Flat H| Low Floor|  Block 2| Phase 2| Sorrento| Kowloon Station ,3200,44000,3.0,1.0,15.0,75.0,22.304306,114.161475
+127,8,One Beacon Hill,Kln Tong / Beacon Hill ,Flat E| Middle Floor|  Block 06| Phase 2| One Beacon Hill| Kln Tong / Beacon Hill ,3100,44000,3.0,2.0,15.0,74.0,22.3369319,114.1763367
+128,8,Fessenden Court,Kln Tong / Beacon Hill ,Flat D|  Fessenden Court| Kln Tong / Beacon Hill ,1300,44000,3.0,2.0,43.0,84.0,22.3369319,114.1763367
+129,8,No.1 Ho Man Tin Hill,Homantin/Kingspark ,Flat C| Low Floor|  Ho Man Tin Hill Road 1| No.1 Ho Man Tin Hill| Homantin/Kingspark ,2800,44000,3.0,2.0,16.0,77.0,22.318507,114.1755339
+130,8,Celestial Heights,Celestial Heights ,Flat 35| High Floor|  Celestial Avenue 35| Phase 1| Celestial Heights| Celestial Heights ,4100,44000,4.0,2.0,10.0,77.0,22.3194779,114.186131
+131,8,One Victory,Homantin/Kingspark ,Flat B| Middle Floor|  One Victory| Homantin/Kingspark ,980,44000,2.0,2.0,7.0,63.0,22.318507,114.1755339
+132,8,One Beacon Hill,Kln Tong / Beacon Hill ,Flat E| Low Floor|  Block 06| Phase 2| One Beacon Hill| Kln Tong / Beacon Hill ,7800,44000,4.0,2.0,15.0,74.0,22.3369319,114.1763367
+133,8,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| High Floor|  Block 09| Beverly Villas| Kln Tong / Beacon Hill ,2080,44000,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+134,8,The Harbourside,Kowloon Station ,Flat C| Low Floor|  Block 3| The Harbourside| Kowloon Station ,4000,44000,3.0,1.0,16.0,74.0,22.304306,114.161475
+135,8,Homantin Hillside,Hung Hom ,Flat C|  Block 1| Homantin Hillside| Hung Hom ,1100,44000,1.0,2.0,3.0,,22.3055658,114.1887233
+136,8,Imperial Cullinan,Olympic Station ,Flat D| High Floor|  Block 3 (Imperial Seabank)| Imperial Cullinan| Olympic Station ,3200,50000,3.0,2.0,7.0,79.0,34.050229,-118.2911404
+137,8,Wan Chai,Causeway Bay ,Flat D|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,1400,29000,1.0,,4.0,,22.2859787,114.1914919
+138,8,Metro Town,Tseung Kwan O ,Flat G| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,960,29000,2.0,2.0,13.0,75.0,22.3119357,114.2568776
+139,8,Ultima,Homantin/Kingspark ,Flat D|  Tower 3| Phase 2| Ultima| Homantin/Kingspark ,5800,29000,4.0,2.0,3.0,,22.318507,114.1755339
+140,8,Metro Town,Tseung Kwan O ,Flat B| Middle Floor|  Block 9| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,1300,29000,3.0,2.0,11.0,75.0,22.3119357,114.2568776
+141,8,Greenfield Terrace,Homantin/Kingspark ,Flat A1| Low Floor|  Blk A| Greenfield Terrace| Homantin/Kingspark ,1288,29500,3.0,2.0,40.0,89.0,22.318507,114.1755339
+142,8,Metro Town,Tseung Kwan O ,Flat F| Low Floor|  Tower 1| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,1170,29500,3.0,2.0,13.0,72.0,22.3119357,114.2568776
+143,8,Beacon Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Block 04| Phase 4| Beacon Heights| Yau Yat Chuen/Shek Kip Mei ,1430,33000,3.0,2.0,32.0,82.0,22.3312462,114.1744039
+144,9,The Arcadia,Prince Edward Rd ,Flat B| Middle Floor|  Block 1| The Arcadia| Prince Edward Rd ,2000,36000,3.0,2.0,30.0,70.0,30.2572132,-81.70670799999999
+145,9,The Leighton Hill,Happy Valley/East Mid Level ,Flat C| Low Floor|  Block 1| The Leighton Hill| Happy Valley/East Mid Level ,4500,36000,3.0,2.0,17.0,76.0,42.3486922,-72.5682945
+146,9,The Altitude,Happy Valley/East Mid Level ,Flat A| Middle Floor|  The Altitude| Happy Valley/East Mid Level ,5350,36000,3.0,2.0,8.0,79.0,42.3486922,-72.5682945
+147,9,Casa Bella,Western/Sheung Wan Central ,Flat A| Middle Floor|  Casa Bella| Western/Sheung Wan Central ,2200,36000,3.0,2.0,18.0,70.0,37.0937489,-95.7127622
+148,9,Jade Garden,Kln Tong / Beacon Hill ,High Floor|  27 La Salle Road| Jade Garden| Kln Tong / Beacon Hill ,15000,36000,9.0,3.0,42.0,78.0,22.3369319,114.1763367
+149,9,Park Avenue,Olympic Station ,Flat A| Low Floor|  Block 10| Park Avenue| Olympic Station ,1400,36000,2.0,2.0,18.0,73.0,34.050229,-118.2911404
+150,9,Peace Tower,Western Mid-Levels ,High Floor|  Peace Tower| Western Mid-Levels ,1300,36000,3.0,2.0,39.0,,22.2816223,114.147865
+151,9,The Broadville,Happy Valley/East Mid Level ,Flat D| High Floor|  The Broadville| Happy Valley/East Mid Level ,4300,70000,3.0,2.0,26.0,79.0,42.3486922,-72.5682945
+152,9,Fortune Gardens,Western Mid-Levels ,Flat 1| Low Floor|  Block B| Fortune Gardens| Western Mid-Levels ,2300,43800,3.0,2.0,31.0,81.0,22.2816223,114.147865
+153,9,Tycoon Court,Western Mid-Levels ,Flat 4| High Floor|  Block A| Phase 2| Tycoon Court| Western Mid-Levels ,1980,39800,3.0,,25.0,75.0,22.2816223,114.147865
+154,9,Beverly Villas,Kln Tong / Beacon Hill ,Flat D| High Floor|  Block 05| Beverly Villas| Kln Tong / Beacon Hill ,2800,39800,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+155,9,Bella Vista,Western Mid-Levels ,Flat B| High Floor|  Bella Vista| Western Mid-Levels ,1000,39800,2.0,2.0,19.0,66.0,22.2816223,114.147865
+156,9,Ocean Shores,Tseung Kwan O ,Flat H| High Floor|  Block 12| Phase 3| Ocean Shores| Tseung Kwan O ,950,39800,,,16.0,73.0,22.3119357,114.2568776
+157,9,Morengo Court,Happy Valley/East Mid Level ,Flat B| High Floor|  Morengo Court| Happy Valley/East Mid Level ,2980,39800,3.0,2.0,43.0,90.0,42.3486922,-72.5682945
+158,9,Tung Nam Mansion,Waterloo Road ,Low Floor|  Tung Nam Mans| Tung Nam Mansion| Waterloo Road ,950,39800,3.0,2.0,48.0,71.0,35.7241964,-97.44084140000001
+159,9,Ventris Place,Happy Valley/East Mid Level ,Flat 5| Low Floor|  Block C| Ventris Place| Happy Valley/East Mid Level ,6900,39800,5.0,2.0,34.0,88.0,42.3486922,-72.5682945
+160,9,Beverly Court,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Beverly Court| Happy Valley/East Mid Level ,2700,39800,3.0,2.0,37.0,89.0,42.3486922,-72.5682945
+161,9,Carmel On The Hill,Homantin/Kingspark ,Flat E| Middle Floor|  Carmel On The Hill| Homantin/Kingspark ,950,39800,2.0,2.0,15.0,75.0,22.318507,114.1755339
+162,10,The Masterpiece,Tsim Sha Tsui ,Flat B| Middle Floor|  The Masterpiece| Tsim Sha Tsui ,2450,39800,1.0,1.0,10.0,73.0,22.2988123,114.1721746
+163,10,Azura,Western Mid-Levels ,Flat C| Low Floor|  Azura| Western Mid-Levels ,4500,39800,3.0,,6.0,77.0,22.2816223,114.147865
+164,10,Ka Wah Court,Prince Edward Rd , Ka Wah Court| Prince Edward Rd ,1600,39800,3.0,2.0,47.0,82.0,30.2572132,-81.70670799999999
+165,10,The Cullinan,Kowloon Station ,Flat C| Middle Floor|  Star Sky| The Cullinan| Kowloon Station ,2480,41000,2.0,1.0,12.0,75.0,22.304306,114.161475
+166,10,The Belcher'S,Western/Sheung Wan Central ,Flat A| High Floor|  Block 6| Phase 2| The Belcher'S| Western/Sheung Wan Central ,2550,41000,3.0,2.0,17.0,78.0,37.0937489,-95.7127622
+167,10,Celestial Heights,Celestial Heights ,Flat 28| High Floor|  Celestial Avenue 28| Phase 1| Celestial Heights| Celestial Heights ,3500,41000,3.0,2.0,10.0,77.0,22.3194779,114.186131
+168,10,The Sparkle,Lai Chi Kok ,Flat D| Middle Floor|  Block 2| The Sparkle| Lai Chi Kok ,880,41000,,,11.0,72.0,22.3377817,114.1359272
+169,10,Upper West,Tai Kok Tsui ,Flat C| Middle Floor|  Upper West| Tai Kok Tsui ,598,17000,1.0,2.0,3.0,73.0,22.3198474,114.1620857
+170,10,Mei Foo Sun Chuen,Mei Foo ,Flat A| High Floor|  Broadway 051| Phase III| Mei Foo Sun Chuen| Mei Foo ,950,17000,3.0,2.0,46.0,76.0,22.3366356,114.1402195
+171,10,Liberte,Lai Chi Kok ,Flat E| Low Floor|  Block 7| Liberte| Lai Chi Kok ,890,17000,,,15.0,76.0,22.3377817,114.1359272
+172,10,One West Kowloon,Cheung Sha Wan ,Flat B| High Floor|  Tower 2| One West Kowloon| Cheung Sha Wan ,890,17000,2.0,2.0,5.0,76.0,22.3358055,114.1494892
+173,10,Banyan Garden,Lai Chi Kok ,Flat F| High Floor|  Block 3| Phase I| Banyan Garden| Lai Chi Kok ,980,17000,1.0,1.0,16.0,71.0,22.3377817,114.1359272
+174,10,The Pacifica,Lai Chi Kok ,Flat F| Low Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,920,17000,2.0,,14.0,70.0,22.3377817,114.1359272
+175,10,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 2| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,1800,38000,4.0,,19.0,77.0,22.3312462,114.1744039
+176,10,Hampton Place,Olympic Station ,Flat C| High Floor|  Block 2| Hampton Place| Olympic Station ,1100,22800,2.0,2.0,15.0,71.0,34.050229,-118.2911404
+177,10,The Cullinan,Kowloon Station ,Flat A| High Floor|  Aster Sky| The Cullinan| Kowloon Station ,5488,70000,3.0,1.0,12.0,73.0,22.304306,114.161475
+178,10,Taikoo Shing,Taikoo Shing ,Flat F| High Floor|  Tung Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,1560,70000,3.0,2.0,40.0,88.0,22.2865471,114.2189883
+179,10,The Waterfront,Kowloon Station ,Flat F| Low Floor|  Block 2| Phase 1| The Waterfront| Kowloon Station ,2700,70000,3.0,1.0,18.0,81.0,22.304306,114.161475
+180,11,Peninsula Heights,Kln Tong / Beacon Hill ,Flat 2| High Floor|  Blk A| Peninsula Heights| Kln Tong / Beacon Hill ,3000,70000,3.0,2.0,19.0,78.0,22.3369319,114.1763367
+181,11,King's Hill,Western/Sheung Wan Central ,Flat E| High Floor|  King's Hill| Western/Sheung Wan Central ,1750,40000,2.0,2.0,2.0,,37.0937489,-95.7127622
+182,11,Mei Foo Sun Chuen,Mei Foo ,Flat A| High Floor|  Nassau Street 26| Phase VI| Mei Foo Sun Chuen| Mei Foo ,1500,32800,4.0,2.0,45.0,75.0,22.3366356,114.1402195
+183,11,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,900,32800,2.0,2.0,41.0,68.0,22.3369319,114.1763367
+184,11,Merlin Court,Kln Tong / Beacon Hill ,Flat F|  Merlin Court| Kln Tong / Beacon Hill ,932,32800,2.0,2.0,44.0,75.0,22.3369319,114.1763367
+185,11,The Pacifica,Lai Chi Kok ,Flat A| High Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,1200,25500,,,14.0,73.0,22.3377817,114.1359272
+186,11,Lohas Park,Tseung Kwan O ,Flat D| Middle Floor|  Tower 1 R| Le Prestige| Lohas Park| Tseung Kwan O ,1500,28000,4.0,2.0,9.0,75.0,22.3119357,114.2568776
+187,11,Scholars' Lodge,Kln Tong / Beacon Hill , Scholars' Lodge| Kln Tong / Beacon Hill ,5000,28000,,,15.0,79.0,22.3369319,114.1763367
+188,11,Prince Apartments,Prince Edward Rd ,Flat 224| High Floor|  Prince Apartments| Prince Edward Rd ,3000,28000,4.0,2.0,56.0,86.0,30.2572132,-81.70670799999999
+189,11,The Met. Sublime,Western/Sheung Wan Central ,Flat A| Middle Floor|  The Met Sublime| The Met. Sublime| Western/Sheung Wan Central ,900,26000,1.0,,4.0,66.0,37.0937489,-95.7127622
+190,11,Camay House,Kln Tong / Beacon Hill , Camay House| Kln Tong / Beacon Hill ,1580,26000,3.0,2.0,61.0,,22.3369319,114.1763367
+191,11,The Merton,Western/Sheung Wan Central ,Flat C| High Floor|  Block 2| The Merton| Western/Sheung Wan Central ,1280,29000,2.0,2.0,14.0,74.0,37.0937489,-95.7127622
+192,11,Celestial Heights,Celestial Heights ,Flat 09| Low Floor|  Celestial Avenue 09| Phase 1| Celestial Heights| Celestial Heights ,4900,29000,5.0,2.0,10.0,76.0,22.3194779,114.186131
+193,11,Chik Tak Mansion,Stanley/Tai Tam/Shek O , Chik Tak Mansion| Stanley/Tai Tam/Shek O ,1000,29000,1.0,,32.0,77.0,37.09024,-95.712891
+194,11,Wan Chai,Causeway Bay ,Low Floor|  Rita House| Admiralty| Wan Chai| Causeway Bay ,980,28500,1.0,2.0,56.0,80.0,22.2859787,114.1914919
+195,11,Yick Fat Building,Waterloo Road ,Flat 73A| High Floor|  Yick Fat Building| Waterloo Road ,1350,28500,3.0,2.0,54.0,80.0,35.7241964,-97.44084140000001
+196,11,No.2 Park Road,Western Mid-Levels ,Flat B| High Floor|  Park Road 2| No.2 Park Road| Western Mid-Levels ,2980,28500,3.0,2.0,15.0,73.0,22.2816223,114.147865
+197,11,Tavistock,Central Mid-Levels & Peak ,Flat A| Middle Floor|  Block 2| Tavistock| Central Mid-Levels & Peak ,7500,95000,3.0,2.0,20.0,75.0,22.2695676,114.1658745
+198,12,Edwardian Heights,Homantin/Kingspark ,Flat B| Low Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,1590,95000,2.0,2.0,46.0,80.0,22.318507,114.1755339
+199,12,Kiu Hing Mansion,North Point & North Point Midlevel ,Flat N| Middle Floor|  Kiu Hing Mansion| North Point & North Point Midlevel ,780,95000,2.0,,53.0,77.0,37.1222422,-94.47484299999999
+200,12,Parc Palais,Homantin/Kingspark ,Flat D| Middle Floor|  Block 2| Parc Palais| Homantin/Kingspark ,2400,95000,3.0,2.0,15.0,75.0,22.318507,114.1755339
+201,12,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 10| Beverly Villas| Kln Tong / Beacon Hill ,2500,95000,4.0,2.0,38.0,93.0,22.3369319,114.1763367
+202,12,The Astoria,Prince Edward Rd ,Flat D| High Floor|  Block 2| The Astoria| Prince Edward Rd ,3400,95000,3.0,2.0,28.0,80.0,30.2572132,-81.70670799999999
+203,12,9 Wun Sha Street,Happy Valley/East Mid Level , Wun Sha Street 9| 9 Wun Sha Street| Happy Valley/East Mid Level ,1150,23500,3.0,1.0,59.0,,42.3486922,-72.5682945
+204,12,Perth Garden,Homantin/Kingspark ,Flat E| Middle Floor|  Ilford Court| Perth Garden| Homantin/Kingspark ,1980,23500,3.0,2.0,39.0,88.0,22.318507,114.1755339
+205,12,Fortune Well Height,Prince Edward Rd ,Low Floor|  Fortune Well Height| Prince Edward Rd ,3500,23500,2.0,2.0,25.0,,30.2572132,-81.70670799999999
+206,12,Fortune Well Height,Prince Edward Rd ,Low Floor|  Fortune Well Height| Prince Edward Rd ,3500,23500,2.0,2.0,25.0,,30.2572132,-81.70670799999999
+207,12,Mantin Heights,Homantin/Kingspark ,Flat F|  Block 2| Mantin Heights| Homantin/Kingspark ,1600,23500,2.0,2.0,2.0,,22.318507,114.1755339
+208,12,Pacific View,Stanley/Tai Tam/Shek O ,Flat B| Low Floor|  Block 4| Pacific View| Stanley/Tai Tam/Shek O ,3580,23500,3.0,2.0,28.0,80.0,37.09024,-95.712891
+209,12,87 Wong Nai Chung Road,Happy Valley/East Mid Level ,Low Floor|  87 Wong Nai Chung Road| Happy Valley/East Mid Level ,2700,45000,,,62.0,76.0,42.3486922,-72.5682945
+210,12,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,950,45000,1.0,2.0,3.0,,22.3055658,114.1887233
+211,12,Ultima,Homantin/Kingspark ,Flat D|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,4800,45000,4.0,2.0,3.0,,22.318507,114.1755339
+212,12,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| Low Floor|  Block 5| Pacific View| Stanley/Tai Tam/Shek O ,2380,45000,2.0,2.0,28.0,81.0,37.09024,-95.712891
+213,12,South Horizons,Ap Lei Chau ,Flat D| Middle Floor|  Block 03| Phase 1| South Horizons| Ap Lei Chau ,1500,31000,4.0,2.0,27.0,80.0,22.2418581,114.1528532
+214,12,Perth Apartments,Homantin/Kingspark ,Flat A| High Floor|  Blk B1| Perth Apartments| Homantin/Kingspark ,2300,31000,3.0,2.0,44.0,82.0,22.318507,114.1755339
+215,12,Jones Hive,Happy Valley/East Mid Level ,Flat B|  Jones Hive| Happy Valley/East Mid Level ,1598,31000,3.0,,2.0,,42.3486922,-72.5682945
+216,13,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 3| Mantin Heights| Homantin/Kingspark ,2800,31000,3.0,2.0,2.0,,22.318507,114.1755339
+217,13,The Leighton Hill,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Block 9| The Leighton Hill| Happy Valley/East Mid Level ,4100,31000,2.0,2.0,17.0,77.0,42.3486922,-72.5682945
+218,13,Pearl Court,Kln Tong / Beacon Hill , Pearl Court| Kln Tong / Beacon Hill ,1900,31000,3.0,2.0,43.0,,22.3369319,114.1763367
+219,13,One Homantin,Homantin/Kingspark ,Flat B|  Tower 3| One Homantin| Homantin/Kingspark ,1555,31000,2.0,2.0,2.0,,22.318507,114.1755339
+220,13,Cheerbond Court,Homantin/Kingspark ,Low Floor|  Cheerbond Court| Homantin/Kingspark ,1830,31000,3.0,2.0,27.0,76.0,22.318507,114.1755339
+221,13,Ultima,Homantin/Kingspark ,Flat B|  Tower 5| Phase 2| Ultima| Homantin/Kingspark ,6400,31000,4.0,2.0,3.0,,22.318507,114.1755339
+222,13,Shuk Yuen Building,Happy Valley/East Mid Level ,Low Floor|  Block E| Shuk Yuen Building| Happy Valley/East Mid Level ,3400,68000,3.0,2.0,60.0,87.0,42.3486922,-72.5682945
+223,13,Cheong Kat Mansion,Western/Sheung Wan Central ,Flat C| Low Floor|  Cheong Kat Mansion| Western/Sheung Wan Central ,530,68000,1.0,,38.0,,37.0937489,-95.7127622
+224,13,One Beacon Hill,Kln Tong / Beacon Hill ,Low Floor|  Block 15| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,4800,68000,4.0,2.0,15.0,75.0,22.3369319,114.1763367
+225,13,1 Robinson Road,Western Mid-Levels ,Middle Floor|  1 Robinson Road| Western Mid-Levels ,7690,110000,4.0,3.0,39.0,77.0,22.2816223,114.147865
+226,13,Gramercy,Western Mid-Levels ,Flat A| Middle Floor|  Gramercy| Western Mid-Levels ,2480,55000,2.0,,6.0,71.0,22.2816223,114.147865
+227,13,Lomond Garden Mansion,Prince Edward Rd , Lomond Garden Mansion| Prince Edward Rd ,2200,55000,4.0,2.0,55.0,83.0,30.2572132,-81.70670799999999
+228,13,Manhattan Heights,Western/Sheung Wan Central ,Flat J| Middle Floor|  Manhattan Heights| Western/Sheung Wan Central ,1150,28000,1.0,,19.0,74.0,37.0937489,-95.7127622
+229,13,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 27| Low Floor|  Block A| Lung Tak Court| Stanley/Tai Tam/Shek O ,1000,19500,2.0,,18.0,75.0,37.09024,-95.712891
+230,13,Sunlight Garden,Homantin/Kingspark ,Flat B| High Floor|  Sunlight Gdn| Sunlight Garden| Homantin/Kingspark ,2050,19500,3.0,2.0,54.0,85.0,22.318507,114.1755339
+231,13,The Regalia,Homantin/Kingspark ,Flat A| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,1900,19500,3.0,2.0,23.0,80.0,22.318507,114.1755339
+232,13,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| High Floor|  Block 5| Pacific View| Stanley/Tai Tam/Shek O ,3000,50000,2.0,2.0,28.0,81.0,37.09024,-95.712891
+233,13,Residence Bel-Air,Pokfulam/Residence ,Flat B|  Tower 8| Phase 4 (Bel-Air On The Peak)| Residence Bel-Air| Pokfulam/Residence ,2400,39000,2.0,,13.0,81.0,22.2679201,114.1290719
+234,14,Perth Apartments,Homantin/Kingspark ,Flat D| Low Floor|  Blk B3| Perth Apartments| Homantin/Kingspark ,2600,39000,3.0,2.0,44.0,80.0,22.318507,114.1755339
+235,14,8 Lasalle,Prince Edward Rd ,Flat B|  8 Lasalle| Prince Edward Rd ,2850,39000,,,5.0,,30.2572132,-81.70670799999999
+236,14,Gramercy,Western Mid-Levels ,Flat A| Middle Floor|  Gramercy| Western Mid-Levels ,3000,55000,2.0,1.0,6.0,71.0,22.2816223,114.147865
+237,14,The Summa,Western Mid-Levels ,Flat A|  Block 1| The Summa| Western Mid-Levels ,5000,55000,3.0,2.0,5.0,,22.2816223,114.147865
+238,14,Kelletteria,Central Mid-Levels & Peak , 71 Mount Kellett Road (House)| Kelletteria| Central Mid-Levels & Peak ,26000,220000,4.0,2.0,16.0,76.0,22.2695676,114.1658745
+239,14,Padek Palace,Prince Edward Rd ,Flat D| High Floor|  Padek Palace| Prince Edward Rd ,3000,220000,4.0,2.0,15.0,75.0,30.2572132,-81.70670799999999
+240,14,Padek Palace,Prince Edward Rd ,Flat C| High Floor|  Padek Palace| Prince Edward Rd ,3500,220000,4.0,2.0,15.0,75.0,30.2572132,-81.70670799999999
+241,14,One Victory,Homantin/Kingspark ,Flat B| High Floor|  One Victory| Homantin/Kingspark ,920,220000,2.0,2.0,7.0,63.0,22.318507,114.1755339
+242,14,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat D| Low Floor|  Block 2| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,2600,220000,3.0,2.0,13.0,74.0,22.3312462,114.1744039
+243,14,Celestial Heights,Celestial Heights ,Flat 35| High Floor|  Celestial Avenue 35| Phase 1| Celestial Heights| Celestial Heights ,4700,220000,4.0,2.0,10.0,77.0,22.3194779,114.186131
+244,14,Broadway Towers,Kln Tong / Beacon Hill ,Flat B1| High Floor|  Broadway Towers| Kln Tong / Beacon Hill ,1600,220000,3.0,2.0,46.0,82.0,22.3369319,114.1763367
+245,14,Sunderland Estate,Kln Tong / Beacon Hill , House -| Sunderland Estate| Kln Tong / Beacon Hill ,5500,220000,4.0,2.0,36.0,97.0,22.3369319,114.1763367
+246,14,Ellery Terrace,Homantin/Kingspark ,Flat D| Middle Floor|  Ellery Terr| Ellery Terrace| Homantin/Kingspark ,1950,220000,3.0,2.0,19.0,76.0,22.318507,114.1755339
+247,14,Kwun Hei Court,Homantin/Kingspark ,Flat 13| High Floor|  Kwun Hei Court| Homantin/Kingspark ,868,220000,3.0,2.0,19.0,74.0,22.318507,114.1755339
+248,14,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat D|  Block 01| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,3700,220000,3.0,2.0,26.0,40.0,22.3312462,114.1744039
+249,14,301-311 Pak Kong,Sai Kung , 301-311 Pak Kong (House)| 301-311 Pak Kong| Sai Kung ,2875,220000,,,9.0,,22.383689,114.2707867
+250,14,Kent Court,Kln Tong / Beacon Hill ,Middle Floor|  Block 4| Kent Court| Kln Tong / Beacon Hill ,2500,220000,4.0,2.0,34.0,91.0,22.3369319,114.1763367
+251,14,Hilltop Gardens,Wong Tai Sin ,Flat A| Low Floor|  Block 1| Hilltop Gardens| Wong Tai Sin ,780,18000,3.0,2.0,29.0,73.0,37.7775324,-122.4637922
+252,15,Prince'S Heights,Prince Edward Rd ,Flat B| Low Floor|  Block 2| Prince'S Heights| Prince Edward Rd ,2010,18000,3.0,3.0,45.0,81.0,30.2572132,-81.70670799999999
+253,15,Latin Court,Prince Edward Rd ,Flat C| Middle Floor|  Latin Court| Prince Edward Rd ,1580,18000,3.0,2.0,46.0,80.0,30.2572132,-81.70670799999999
+254,15,80 Robinson Road,Western Mid-Levels ,Flat B| High Floor|  Block 1| 80 Robinson Road| Western Mid-Levels ,15000,180000,4.0,3.0,17.0,69.0,22.2816223,114.147865
+255,15,Grand Austin,Tsim Sha Tsui ,Flat C|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,6880,180000,4.0,1.0,4.0,,22.2988123,114.1721746
+256,15,Prince Apartments,Prince Edward Rd ,Middle Floor|  Prince Apartments| Prince Edward Rd ,1790,180000,3.0,2.0,57.0,81.0,30.2572132,-81.70670799999999
+257,15,Che Keng Tuk,Sai Kung , Che Keng Tuk| Sai Kung ,2700,180000,,,,,22.383689,114.2707867
+258,15,Prince Edward Towers,Prince Edward Rd ,Flat C| High Floor|  Prince Edward Towers| Prince Edward Rd ,1930,180000,3.0,2.0,46.0,81.0,30.2572132,-81.70670799999999
+259,15,Fung Wah Court,Kln Tong / Beacon Hill ,Flat A| Low Floor|  Fung Wah Court| Kln Tong / Beacon Hill ,1980,180000,3.0,2.0,47.0,82.0,22.3369319,114.1763367
+260,15,Costa Bello,Sai Kung , Costa Bello| Sai Kung ,2130,180000,,,16.0,72.0,22.383689,114.2707867
+261,15,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat C| Middle Floor|  Block 6| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,3668,180000,3.0,2.0,13.0,76.0,22.3312462,114.1744039
+262,15,Lung Man Building,Homantin/Kingspark ,Flat F| Low Floor|  Lung Man Bldg| Lung Man Building| Homantin/Kingspark ,1098,180000,2.0,2.0,56.0,77.0,22.318507,114.1755339
+263,15,The Giverny,Sai Kung , Hiram's Highway (House)| The Giverny| Sai Kung ,3800,180000,,,14.0,64.0,22.383689,114.2707867
+264,15,Solemar Villas,Sai Kung , 15 Silver Cape Road (House)| Solemar Villas| Sai Kung ,7176,180000,,,42.0,82.0,22.383689,114.2707867
+265,15,Beverly Villas,Kln Tong / Beacon Hill ,Flat D| Low Floor|  Block 02| Beverly Villas| Kln Tong / Beacon Hill ,2600,180000,3.0,2.0,38.0,93.0,22.3369319,114.1763367
+266,15,Silver Star Court,Happy Valley/East Mid Level ,Flat A| High Floor|  Silver Star Court| Happy Valley/East Mid Level ,2400,180000,3.0,2.0,37.0,85.0,42.3486922,-72.5682945
+267,15,Serenade,Happy Valley/East Mid Level ,Flat A| High Floor|  Tower 2| Serenade| Happy Valley/East Mid Level ,7800,180000,4.0,2.0,9.0,76.0,42.3486922,-72.5682945
+268,15,Grandview Mansion,Happy Valley/East Mid Level ,Flat 5| Low Floor|  Grandview Mansions| Grandview Mansion| Happy Valley/East Mid Level ,2688,180000,3.0,2.0,64.0,91.0,42.3486922,-72.5682945
+269,15,Wing On Court,Homantin/Kingspark ,Flat A| Middle Floor|  Wing On Court| Homantin/Kingspark ,3500,180000,3.0,2.0,42.0,92.0,22.318507,114.1755339
+270,16,Homantin Hillside,Hung Hom ,Flat A| High Floor|  Block 2| Homantin Hillside| Hung Hom ,4688,180000,4.0,2.0,3.0,,22.3055658,114.1887233
+271,16,Goldwin Heights,Western Mid-Levels ,Flat A| Middle Floor|  Goldwin Heights| Western Mid-Levels ,1830,180000,3.0,2.0,25.0,76.0,22.2816223,114.147865
+272,16,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 8| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,1850,180000,3.0,2.0,19.0,77.0,22.3312462,114.1744039
+273,16,Robinson Place,Western Mid-Levels ,Flat A| Low Floor|  Block 1| Robinson Place| Western Mid-Levels ,2500,48000,2.0,2.0,24.0,82.0,22.2816223,114.147865
+274,16,Laguna Verde,Hung Hom/Whampoa ,Flat B| High Floor|  Tower 23| Ocean Vista| Laguna Verde| Hung Hom/Whampoa ,2500,48000,3.0,2.0,17.0,75.0,22.3055658,114.1887233
+275,16,Eltanin．Square Mile,Tai Kok Tsui ,Flat A| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,930,48000,2.0,,2.0,,22.3198474,114.1620857
+276,16,One Silversea,Olympic Station ,Flat A| High Floor|  Block 6| One Silversea| Olympic Station ,3300,48000,3.0,2.0,13.0,79.0,34.050229,-118.2911404
+277,16,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,968,48000,1.0,2.0,3.0,,22.3055658,114.1887233
+278,16,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 16| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,2800,48000,2.0,2.0,26.0,74.0,22.3312462,114.1744039
+279,16,The Riverpark,Shatin ,Flat E| High Floor|  Block 5| The Riverpark| Shatin ,3300,48000,3.0,1.0,6.0,76.0,22.3771304,114.1974398
+280,16,Ultima,Homantin/Kingspark ,Flat A| High Floor|  Block 6| Ultima| Homantin/Kingspark ,9800,48000,4.0,2.0,3.0,,22.318507,114.1755339
+281,16,Dunbar Place,Homantin/Kingspark ,Flat A| High Floor|  Dunbar Place| Homantin/Kingspark ,8500,48000,4.0,2.0,5.0,,22.318507,114.1755339
+282,16,Village Tower,Happy Valley/East Mid Level ,Flat B| Low Floor|  Village Tower| Happy Valley/East Mid Level ,1650,48000,4.0,2.0,47.0,73.0,42.3486922,-72.5682945
+283,16,Celestial Heights,Celestial Heights ,Flat 27| Middle Floor|  Celestial Avenue 27| Phase 1| Celestial Heights| Celestial Heights ,4000,48000,4.0,2.0,10.0,76.0,22.3194779,114.186131
+284,16,Arezzo,Western Mid-Levels ,Flat A|  Arezzo| Western Mid-Levels ,3700,48000,3.0,,4.0,,22.2816223,114.147865
+285,16,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,2100,48000,,,14.0,75.0,34.050229,-118.2911404
+286,16,Fu Tao Building,Argyle Street ,Flat D| High Floor|  Fu Tao Building| Argyle Street ,1600,48000,3.0,2.0,40.0,83.0,41.9716799,-87.7484664
+287,16,The Regalia,Homantin/Kingspark ,Flat C| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,2330,48000,3.0,2.0,23.0,80.0,22.318507,114.1755339
+288,17,Homantin Hillside,Hung Hom ,Flat A| High Floor|  Block 2| Homantin Hillside| Hung Hom ,4688,48000,4.0,2.0,3.0,,22.3055658,114.1887233
+289,17,Goldwin Heights,Western Mid-Levels ,Flat A| Middle Floor|  Goldwin Heights| Western Mid-Levels ,1830,48000,3.0,2.0,25.0,76.0,22.2816223,114.147865
+290,17,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 8| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,1850,48000,3.0,2.0,19.0,77.0,22.3312462,114.1744039
+291,17,Robinson Place,Western Mid-Levels ,Flat A| Low Floor|  Block 1| Robinson Place| Western Mid-Levels ,2500,48000,2.0,2.0,24.0,82.0,22.2816223,114.147865
+292,17,Laguna Verde,Hung Hom/Whampoa ,Flat B| High Floor|  Tower 23| Ocean Vista| Laguna Verde| Hung Hom/Whampoa ,2500,48000,3.0,2.0,17.0,75.0,22.3055658,114.1887233
+293,17,Eltanin．Square Mile,Tai Kok Tsui ,Flat A| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,930,48000,2.0,,2.0,,22.3198474,114.1620857
+294,17,One Silversea,Olympic Station ,Flat A| High Floor|  Block 6| One Silversea| Olympic Station ,3300,48000,3.0,2.0,13.0,79.0,34.050229,-118.2911404
+295,17,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,968,48000,1.0,2.0,3.0,,22.3055658,114.1887233
+296,17,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 16| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,2800,48000,2.0,2.0,26.0,74.0,22.3312462,114.1744039
+297,17,The Riverpark,Shatin ,Flat E| High Floor|  Block 5| The Riverpark| Shatin ,3300,48000,3.0,1.0,6.0,76.0,22.3771304,114.1974398
+298,17,Ultima,Homantin/Kingspark ,Flat A| High Floor|  Block 6| Ultima| Homantin/Kingspark ,9800,48000,4.0,2.0,3.0,,22.318507,114.1755339
+299,17,Dunbar Place,Homantin/Kingspark ,Flat A| High Floor|  Dunbar Place| Homantin/Kingspark ,8500,48000,4.0,2.0,5.0,,22.318507,114.1755339
+300,17,Village Tower,Happy Valley/East Mid Level ,Flat B| Low Floor|  Village Tower| Happy Valley/East Mid Level ,1650,48000,4.0,2.0,47.0,73.0,42.3486922,-72.5682945
+301,17,Celestial Heights,Celestial Heights ,Flat 27| Middle Floor|  Celestial Avenue 27| Phase 1| Celestial Heights| Celestial Heights ,4000,48000,4.0,2.0,10.0,76.0,22.3194779,114.186131
+302,17,Arezzo,Western Mid-Levels ,Flat A|  Arezzo| Western Mid-Levels ,3700,48000,3.0,,4.0,,22.2816223,114.147865
+303,17,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,2100,48000,,,14.0,75.0,34.050229,-118.2911404
+304,17,Fu Tao Building,Argyle Street ,Flat D| High Floor|  Fu Tao Building| Argyle Street ,1600,48000,3.0,2.0,40.0,83.0,41.9716799,-87.7484664
+305,17,The Regalia,Homantin/Kingspark ,Flat C| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,2330,48000,3.0,2.0,23.0,80.0,22.318507,114.1755339
+306,18,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat D| Low Floor|  Block 6| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,3680,48000,4.0,2.0,13.0,76.0,22.3312462,114.1744039
+307,18,Mount Beacon,Yau Yat Chuen/Shek Kip Mei , 20 Cornwall Street (House)| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,30000,48000,,,13.0,71.0,22.3312462,114.1744039
+308,18,3-3A Grampian Road,Kln Tong / Beacon Hill ,Low Floor|  3 Grampian Road| 3-3A Grampian Road| Kln Tong / Beacon Hill ,1236,48000,3.0,2.0,61.0,71.0,22.3369319,114.1763367
+309,18,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  The Morrison| Admiralty| Wan Chai| Causeway Bay ,950,48000,2.0,2.0,11.0,65.0,22.2859787,114.1914919
+310,18,Kings Court,Western Mid-Levels ,High Floor|  King's Court| Kings Court| Western Mid-Levels ,2750,48000,3.0,2.0,43.0,71.0,22.2816223,114.147865
+311,18,Park Central,Tseung Kwan O ,Flat D| High Floor|  Block 01| Phase 2| Park Central| Tseung Kwan O ,880,18000,,,16.0,75.0,22.3119357,114.2568776
+312,18,Residence Oasis,Tseung Kwan O ,Flat D| High Floor|  Block 7| Residence Oasis| Tseung Kwan O ,920,18000,,,14.0,75.0,22.3119357,114.2568776
+313,18,Tak Bo Garden,Amoy/Kowloon Bay ,Flat H3| High Floor|  Block H| Tak Bo Garden| Amoy/Kowloon Bay ,520,18000,,,34.0,71.0,24.479833,118.089425
+314,18,Verbena Heights,Tseung Kwan O ,Flat E| Low Floor|  Block 6| Verbena Heights| Tseung Kwan O ,730,18000,,,21.0,,22.3119357,114.2568776
+315,18,Corinthia By The Sea,Tseung Kwan O ,Flat F|  Block 8| Corinthia By The Sea| Tseung Kwan O ,720,18000,,,3.0,,22.3119357,114.2568776
+316,18,Taikoo Shing,Taikoo Shing ,Flat H| Low Floor|  Yee Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,1150,24800,2.0,2.0,40.0,86.0,22.2865471,114.2189883
+317,18,The Giverny,Sai Kung ,Flat 081|  Hiram'S Highway (House)| The Giverny| Sai Kung ,3050,24800,3.0,2.0,14.0,65.0,22.383689,114.2707867
+318,18,Whampoa Garden,Hung Hom/Whampoa ,Flat G| Low Floor|  Block 07| Site 5| Whampoa Garden| Hung Hom/Whampoa ,1250,24800,4.0,2.0,31.0,86.0,22.3055658,114.1887233
+319,18,Mandarin Garden,Homantin/Kingspark ,Flat C| Low Floor|  Mandarin Gdn| Mandarin Garden| Homantin/Kingspark ,1200,24800,3.0,2.0,53.0,68.0,22.318507,114.1755339
+320,18,The Pacifica,Lai Chi Kok ,Flat C| Low Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,1300,24800,3.0,2.0,14.0,71.0,22.3377817,114.1359272
+321,18,Manhattan Hill,Mei Foo ,Flat F| Middle Floor|  Block 3| Manhattan Hill| Mei Foo ,1250,24800,,,12.0,74.0,22.3366356,114.1402195
+322,18,Alice Court,Kln Tong / Beacon Hill ,Flat A|  Block A| Alice Court| Kln Tong / Beacon Hill ,1800,24800,2.0,2.0,47.0,79.0,22.3369319,114.1763367
+323,18,Centrepoint,Western/Sheung Wan Central ,Flat C| High Floor|  Centrepoint| Western/Sheung Wan Central ,2300,24800,2.0,2.0,7.0,70.0,37.0937489,-95.7127622
+324,19,One Lasalle,Kln Tong / Beacon Hill , One Lasalle| Kln Tong / Beacon Hill ,8000,150000,4.0,2.0,10.0,73.0,22.3369319,114.1763367
+325,19,Celestial Heights,Celestial Heights ,Flat 15| Low Floor|  Celestial Avenue 15| Phase 2| Celestial Heights| Celestial Heights ,3300,60000,4.0,2.0,9.0,77.0,22.3194779,114.186131
+326,19,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,2080,60000,,,14.0,75.0,34.050229,-118.2911404
+327,19,Laguna Verde,Hung Hom/Whampoa ,Flat A| Low Floor|  Tower 15| Costal Del Sol| Laguna Verde| Hung Hom/Whampoa ,4760,60000,5.0,2.0,19.0,80.0,22.3055658,114.1887233
+328,19,Hung On Building,North Point & North Point Midlevel ,Flat D| Middle Floor|  Hung On Building| North Point & North Point Midlevel ,1380,60000,3.0,,47.0,77.0,37.1222422,-94.47484299999999
+329,19,One Victory,Homantin/Kingspark ,Flat B| Middle Floor|  One Victory| Homantin/Kingspark ,900,60000,2.0,2.0,7.0,63.0,22.318507,114.1755339
+330,19,The Pacifica,Lai Chi Kok ,Flat F| High Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,900,60000,,,14.0,70.0,22.3377817,114.1359272
+331,19,Cullinan West,Sham Shui Po ,Flat B| High Floor|  Tower 2B| Phase 2A| Cullinan West| Sham Shui Po ,1680,60000,3.0,2.0,1.0,,22.3285899,114.1602846
+332,19,Heya Star,Cheung Sha Wan ,Flat B| High Floor|  Block 2| Heya Star| Cheung Sha Wan ,828,60000,1.0,,3.0,,22.3358055,114.1494892
+333,19,Sorrento,Kowloon Station ,Flat E| High Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,3360,60000,3.0,1.0,16.0,76.0,22.304306,114.161475
+334,19,Skypark,Mongkok ,Flat B1| Middle Floor|  Skypark| Mongkok ,1100,60000,1.0,,2.0,,22.3203648,114.169773
+335,19,Boland Court,Kln Tong / Beacon Hill ,Flat F|  Phase 2| Boland Court| Kln Tong / Beacon Hill ,2200,60000,3.0,2.0,43.0,91.0,22.3369319,114.1763367
+336,19,The Pacifica,Lai Chi Kok ,Flat C| Middle Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,1190,60000,,,14.0,71.0,22.3377817,114.1359272
+337,19,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 6| Phase III| Banyan Garden| Lai Chi Kok ,880,60000,2.0,,14.0,75.0,22.3377817,114.1359272
+338,19,Peak Garden Court,Yau Yat Chuen/Shek Kip Mei ,Middle Floor|  Peak Garden Court| Yau Yat Chuen/Shek Kip Mei ,1400,60000,2.0,2.0,23.0,78.0,22.3312462,114.1744039
+339,19,Liberte,Lai Chi Kok ,Flat E| Low Floor|  Block 2| Liberte| Lai Chi Kok ,960,60000,2.0,2.0,15.0,78.0,22.3377817,114.1359272
+340,19,The Austin,Jordan ,Flat B| Low Floor|  Tower 3 - T3A| The Austin| Jordan ,1100,60000,1.0,1.0,4.0,,30.585164,36.238414
+341,19,The Long Beach,Olympic Station ,Flat D| Low Floor|  Block 2| The Long Beach| Olympic Station ,1100,60000,2.0,1.0,14.0,75.0,34.050229,-118.2911404
+342,20,Banyan Garden,Lai Chi Kok ,Flat D| High Floor|  Block 1| Phase I| Banyan Garden| Lai Chi Kok ,830,60000,2.0,2.0,16.0,73.0,22.3377817,114.1359272
+343,20,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,1900,60000,3.0,1.0,14.0,75.0,34.050229,-118.2911404
+344,20,East Point City,Tseung Kwan O ,Flat F| Middle Floor|  Block 5| East Point City| Tseung Kwan O ,770,60000,2.0,2.0,22.0,79.0,22.3119357,114.2568776
+345,20,The Arch,Kowloon Station ,Flat E| Low Floor|  Tower 2 (Star Tower)| The Arch| Kowloon Station ,2200,60000,2.0,1.0,13.0,74.0,22.304306,114.161475
+346,20,Harbour Green,Olympic Station ,Flat E| Middle Floor|  Block 1| Harbour Green| Olympic Station ,2400,60000,3.0,2.0,12.0,77.0,34.050229,-118.2911404
+347,20,Lime Stardom,Mongkok ,Flat E|  Lime Stardom| Mongkok ,3000,60000,,,7.0,77.0,22.3203648,114.169773
+348,20,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,4000,60000,3.0,1.0,4.0,,22.2988123,114.1721746
+349,20,Park Summit,Tai Kok Tsui ,Flat E| Middle Floor|  Block 1| Park Summit| Tai Kok Tsui ,700,60000,1.0,2.0,6.0,77.0,22.3198474,114.1620857
+350,20,Dragon Garden,Happy Valley/East Mid Level ,Flat D| Middle Floor|  Dragon Garden| Happy Valley/East Mid Level ,4500,60000,3.0,1.0,42.0,91.0,42.3486922,-72.5682945
+351,20,One Silversea,Olympic Station ,High Floor|  Block 5| One Silversea| Olympic Station ,7230,60000,,,13.0,78.0,34.050229,-118.2911404
+352,20,Twin Peaks,Tseung Kwan O ,Flat D| High Floor|  Tower 1| Twin Peaks| Tseung Kwan O ,700,60000,,,3.0,,22.3119357,114.2568776
+353,20,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,800,60000,2.0,2.0,37.0,87.0,24.479833,118.089425
+354,20,Eltanin．Square Mile,Tai Kok Tsui ,Flat H| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,598,60000,1.0,2.0,2.0,,22.3198474,114.1620857
+355,20,Mandarin Court,Argyle Street ,Flat 126A| Low Floor|  Block 5| Mandarin Court| Argyle Street ,1980,60000,3.0,2.0,56.0,89.0,41.9716799,-87.7484664
+356,20,Kornhill,Quarry Bay ,Flat 11| Low Floor|  Block C| Kornhill| Quarry Bay ,1000,60000,2.0,2.0,33.0,82.0,22.2827206,114.2123009
+357,20,Wan Chai,Causeway Bay ,Flat G| High Floor|  One Wanchai| Admiralty| Wan Chai| Causeway Bay ,2430,60000,3.0,2.0,6.0,73.0,22.2859787,114.1914919
+358,20,The Sparkle,Lai Chi Kok ,Flat E| Middle Floor|  Block 2| The Sparkle| Lai Chi Kok ,928,60000,,,11.0,75.0,22.3377817,114.1359272
+359,20,Royal Peninsula,Hung Hom/Whampoa ,Flat B| Low Floor|  Block 1| Royal Peninsula| Hung Hom/Whampoa ,2000,60000,4.0,2.0,18.0,76.0,22.3055658,114.1887233
+360,21,The Pacifica,Lai Chi Kok ,Flat F| Low Floor|  Block 2| Phase 1| The Pacifica| Lai Chi Kok ,880,60000,,,14.0,70.0,22.3377817,114.1359272
+361,21,Metro City,Tseung Kwan O ,Flat C| Low Floor|  Block 03| Phase 1| Metro City| Tseung Kwan O ,838,60000,2.0,2.0,22.0,71.0,22.3119357,114.2568776
+362,21,Nan Fung Plaza,Tseung Kwan O ,Flat A| High Floor|  Block 6| Nan Fung Plaza| Tseung Kwan O ,990,60000,3.0,2.0,20.0,75.0,22.3119357,114.2568776
+363,21,Hin Ming Court,Tseung Kwan O ,Flat 13| Middle Floor|  Hin Ming Court| Tseung Kwan O ,575,60000,,,23.0,,22.3119357,114.2568776
+364,21,King Lai Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block B| King Lai Court| Wong Tai Sin ,860,60000,3.0,2.0,29.0,78.0,37.7775324,-122.4637922
+365,21,South Horizons,Ap Lei Chau ,Flat A| Low Floor|  Block 09| Phase 2| South Horizons| Ap Lei Chau ,1500,60000,3.0,2.0,26.0,79.0,22.2418581,114.1528532
+366,21,Tim Po Court,Western Mid-Levels ,Middle Floor|  Block 43| Phase 2| Tim Po Court| Western Mid-Levels ,1125,60000,3.0,2.0,25.0,61.0,22.2816223,114.147865
+367,21,Po Lam Estate,Tseung Kwan O ,Flat 2| Middle Floor|  Po Ning House| Po Lam Estate| Tseung Kwan O ,248,60000,,,31.0,,22.3119357,114.2568776
+368,21,Chu Kee Building,North Point & North Point Midlevel ,Flat C| Middle Floor|  Chu Kee Building| North Point & North Point Midlevel ,580,60000,1.0,,45.0,,37.1222422,-94.47484299999999
+369,21,Harbour Green,Olympic Station ,Flat D| Low Floor|  Block 5| Harbour Green| Olympic Station ,1130,60000,,,12.0,77.0,34.050229,-118.2911404
+370,21,Shan Kwong Towers,Happy Valley/East Mid Level ,Flat H| Middle Floor|  Shan Kwong Towers| Happy Valley/East Mid Level ,1320,32000,2.0,2.0,43.0,82.0,42.3486922,-72.5682945
+371,21,Mei Foo Sun Chuen,Mei Foo ,Flat B| Middle Floor|  Broadway 117| Phase IV| Mei Foo Sun Chuen| Mei Foo ,780,32000,,,45.0,75.0,22.3366356,114.1402195
+372,21,Southern Lodge,Cheung Sha Wan ,Flat B| High Floor|  Southern Lodge| Cheung Sha Wan ,1130,27000,3.0,,11.0,66.0,22.3358055,114.1494892
+373,21,Whampoa Garden,Hung Hom/Whampoa ,Flat A| Middle Floor|  Block 06| Site 3| Whampoa Garden| Hung Hom/Whampoa ,1228,27000,4.0,2.0,32.0,88.0,22.3055658,114.1887233
+374,21,The Victoria Towers,Tsim Sha Tsui ,Flat C| Middle Floor|  Block 3| The Victoria Towers| Tsim Sha Tsui ,2500,39000,2.0,1.0,16.0,72.0,22.2988123,114.1721746
+375,21,Sea And Sky Court,Stanley/Tai Tam/Shek O , Sea And Sky Court| Stanley/Tai Tam/Shek O ,3000,39000,3.0,2.0,53.0,86.0,37.09024,-95.712891
+376,21,Grand Court,Happy Valley/East Mid Level ,Flat B| Low Floor|  Grand Court| Happy Valley/East Mid Level ,2800,73000,3.0,2.0,37.0,52.0,42.3486922,-72.5682945
+377,21,The Victoria Towers,Tsim Sha Tsui ,Flat E| Middle Floor|  Block 3| The Victoria Towers| Tsim Sha Tsui ,3200,73000,3.0,1.0,16.0,73.0,22.2988123,114.1721746
+378,22,Ocean Shores,Tseung Kwan O ,Flat E| Low Floor|  Block 06| Phase 1| Ocean Shores| Tseung Kwan O ,900,73000,2.0,2.0,18.0,74.0,22.3119357,114.2568776
+379,22,South Horizons,Ap Lei Chau ,Flat D| High Floor|  Block 09| Phase 2| South Horizons| Ap Lei Chau ,1380,73000,3.0,2.0,26.0,79.0,22.2418581,114.1528532
+380,22,Savannah,Tseung Kwan O ,Flat F|  Block 2A| Savannah| Tseung Kwan O ,700,73000,,,2.0,,22.3119357,114.2568776
+381,22,East Point City,Tseung Kwan O ,Flat C| High Floor|  Block 6| East Point City| Tseung Kwan O ,780,73000,2.0,2.0,22.0,79.0,22.3119357,114.2568776
+382,22,Tycoon Court,Western Mid-Levels ,Flat 1| High Floor|  Block A| Phase 2| Tycoon Court| Western Mid-Levels ,2150,37000,2.0,,25.0,75.0,22.2816223,114.147865
+383,22,Mei Foo Sun Chuen,Mei Foo ,Flat B| Low Floor|  Broadway 057| Phase III| Mei Foo Sun Chuen| Mei Foo ,768,37000,,,46.0,75.0,22.3366356,114.1402195
+384,22,Wan Chai,Causeway Bay ,Flat 8| Middle Floor|  Wah To Building| Admiralty| Wan Chai| Causeway Bay ,592,37000,,,50.0,80.0,22.2859787,114.1914919
+385,22,La Cite Noble,Tseung Kwan O ,Flat G| Middle Floor|  Block 3| La Cite Noble| Tseung Kwan O ,1038,37000,3.0,1.0,20.0,73.0,22.3119357,114.2568776
+386,22,Lime Stardom,Mongkok ,Flat H| High Floor|  Lime Stardom| Mongkok ,760,37000,,,7.0,78.0,22.3203648,114.169773
+387,22,Metro Harbour View,Tai Kok Tsui ,Flat A| Middle Floor|  Block 06| Phase 1| Metro Harbour View| Tai Kok Tsui ,688,37000,2.0,2.0,16.0,68.0,22.3198474,114.1620857
+388,22,Metro Town,Tseung Kwan O ,Flat C| High Floor|  Block 8| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,1650,35000,4.0,2.0,11.0,75.0,22.3119357,114.2568776
+389,22,Cullinan West,Sham Shui Po ,Flat K| Low Floor|  Tower 3B| Phase 3 (Cullinan West II)| Cullinan West| Sham Shui Po ,980,35000,,2.0,,,22.3285899,114.1602846
+390,22,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 5| Marina Cove| Sai Kung ,2780,35000,4.0,2.0,30.0,72.0,22.383689,114.2707867
+391,22,Golden Phoenix Court,Western Mid-Levels ,Flat A| High Floor|  Golden Phoenix Court| Western Mid-Levels ,1050,35000,2.0,2.0,38.0,83.0,22.2816223,114.147865
+392,22,Island Resort,Shau Kei Wan/Chai Wan ,Flat H| High Floor|  Block 7| Island Resort| Shau Kei Wan/Chai Wan ,1080,25000,3.0,2.0,18.0,68.0,22.278746,114.2286476
+393,22,Wan Chai,Causeway Bay ,Flat C| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,1950,25000,2.0,2.0,3.0,71.0,22.2859787,114.1914919
+394,22,Woodland Court,Western Mid-Levels ,Flat C| Middle Floor|  Woodland Court| Western Mid-Levels ,818,25000,1.0,,33.0,77.0,22.2816223,114.147865
+395,22,Seymour,Western Mid-Levels ,Flat A| Low Floor|  Seymour| Western Mid-Levels ,5900,25000,5.0,2.0,7.0,74.0,22.2816223,114.147865
+396,23,1 Tai Hang Road,Happy Valley/East Mid Level ,Flat A| Middle Floor|  1 Tai Hang Road| Happy Valley/East Mid Level ,2168,25000,3.0,2.0,28.0,80.0,42.3486922,-72.5682945
+397,23,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 7|  Block D| Lung Tak Court| Stanley/Tai Tam/Shek O ,780,19000,2.0,,18.0,75.0,37.09024,-95.712891
+398,23,Telford Gardens,Amoy/Kowloon Bay ,Flat 16| Low Floor|  Block J| Telford Gardens| Amoy/Kowloon Bay ,758,19000,2.0,2.0,37.0,81.0,24.479833,118.089425
+399,23,Fortress Garden,North Point & North Point Midlevel ,Flat A| Middle Floor|  Fu Bon Court| Fortress Garden| North Point & North Point Midlevel ,1330,30000,2.0,2.0,38.0,87.0,37.1222422,-94.47484299999999
+400,23,Ridge Court,Repulse Bay & Shouson Hill ,High Floor|  Block C| Ridge Court| Repulse Bay & Shouson Hill ,9500,120000,3.0,2.0,56.0,77.0,22.245883,114.177979
+401,23,Taikoo Shing,Taikoo Shing ,Flat A| High Floor|  Pine Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,3000,120000,4.0,2.0,36.0,90.0,22.2865471,114.2189883
+402,23,One Kai Tak (I),Kai Tak ,Flat C| Middle Floor|  Tower 2| One Kai Tak (I)| Kai Tak ,1600,120000,3.0,2.0,2.0,,43.823099,-79.3964749
+403,23,Nan Fung Sun Chuen,Quarry Bay ,Flat A| Low Floor|  Block 04| Nan Fung Sun Chuen| Quarry Bay ,980,21000,3.0,2.0,41.0,82.0,22.2827206,114.2123009
+404,23,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 2| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,5000,21000,4.0,2.0,12.0,72.0,42.3486922,-72.5682945
+405,23,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Broadway 007| Phase I| Mei Foo Sun Chuen| Mei Foo ,998,21000,3.0,2.0,50.0,75.0,22.3366356,114.1402195
+406,23,The Merton,Western/Sheung Wan Central ,Flat G| Low Floor|  Block 2| The Merton| Western/Sheung Wan Central ,1380,21000,2.0,2.0,14.0,73.0,37.0937489,-95.7127622
+407,23,Taikoo Shing,Taikoo Shing ,Flat D| Low Floor|  Yuan Kung Mansion| Kam Din Terrace| Taikoo Shing| Taikoo Shing ,1450,21000,3.0,2.0,39.0,88.0,22.2865471,114.2189883
+408,23,Lung Poon Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block A| Lung Poon Court| Wong Tai Sin ,720,21000,2.0,2.0,32.0,74.0,37.7775324,-122.4637922
+409,23,Grand Promenade,Sai Wan Ho ,Flat B| Low Floor|  Block 6| Grand Promenade| Sai Wan Ho ,2100,21000,3.0,2.0,13.0,72.0,22.2824738,114.2227035
+410,23,Splendour Villa,Repulse Bay & Shouson Hill ,Flat C| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,8000,21000,2.0,,25.0,78.0,22.245883,114.177979
+411,23,Manhattan Hill,Mei Foo ,Flat B| Middle Floor|  Block 2| Manhattan Hill| Mei Foo ,3850,75000,,,12.0,78.0,22.3366356,114.1402195
+412,23,Residence Oasis,Tseung Kwan O ,Flat C| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,970,24500,,,14.0,75.0,22.3119357,114.2568776
+413,23,The Merton,Western/Sheung Wan Central ,Flat D| Low Floor|  Block 3| The Merton| Western/Sheung Wan Central ,1380,29800,2.0,2.0,14.0,77.0,37.0937489,-95.7127622
+414,24,1 Tai Hang Road,Happy Valley/East Mid Level ,Flat A| Middle Floor|  1 Tai Hang Road| Happy Valley/East Mid Level ,2168,29800,3.0,2.0,28.0,80.0,42.3486922,-72.5682945
+415,24,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 7|  Block D| Lung Tak Court| Stanley/Tai Tam/Shek O ,780,19000,2.0,,18.0,75.0,37.09024,-95.712891
+416,24,Telford Gardens,Amoy/Kowloon Bay ,Flat 16| Low Floor|  Block J| Telford Gardens| Amoy/Kowloon Bay ,758,19000,2.0,2.0,37.0,81.0,24.479833,118.089425
+417,24,Fortress Garden,North Point & North Point Midlevel ,Flat A| Middle Floor|  Fu Bon Court| Fortress Garden| North Point & North Point Midlevel ,1330,30000,2.0,2.0,38.0,87.0,37.1222422,-94.47484299999999
+418,24,Ridge Court,Repulse Bay & Shouson Hill ,High Floor|  Block C| Ridge Court| Repulse Bay & Shouson Hill ,9500,120000,3.0,2.0,56.0,77.0,22.245883,114.177979
+419,24,Taikoo Shing,Taikoo Shing ,Flat A| High Floor|  Pine Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,3000,120000,4.0,2.0,36.0,90.0,22.2865471,114.2189883
+420,24,One Kai Tak (I),Kai Tak ,Flat C| Middle Floor|  Tower 2| One Kai Tak (I)| Kai Tak ,1600,120000,3.0,2.0,2.0,,43.823099,-79.3964749
+421,24,Nan Fung Sun Chuen,Quarry Bay ,Flat A| Low Floor|  Block 04| Nan Fung Sun Chuen| Quarry Bay ,980,21000,3.0,2.0,41.0,82.0,22.2827206,114.2123009
+422,24,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 2| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,5000,21000,4.0,2.0,12.0,72.0,42.3486922,-72.5682945
+423,24,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Broadway 007| Phase I| Mei Foo Sun Chuen| Mei Foo ,998,21000,3.0,2.0,50.0,75.0,22.3366356,114.1402195
+424,24,The Merton,Western/Sheung Wan Central ,Flat G| Low Floor|  Block 2| The Merton| Western/Sheung Wan Central ,1380,21000,2.0,2.0,14.0,73.0,37.0937489,-95.7127622
+425,24,Taikoo Shing,Taikoo Shing ,Flat D| Low Floor|  Yuan Kung Mansion| Kam Din Terrace| Taikoo Shing| Taikoo Shing ,1450,21000,3.0,2.0,39.0,88.0,22.2865471,114.2189883
+426,24,Lung Poon Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block A| Lung Poon Court| Wong Tai Sin ,720,21000,2.0,2.0,32.0,74.0,37.7775324,-122.4637922
+427,24,Grand Promenade,Sai Wan Ho ,Flat B| Low Floor|  Block 6| Grand Promenade| Sai Wan Ho ,2100,21000,3.0,2.0,13.0,72.0,22.2824738,114.2227035
+428,24,Splendour Villa,Repulse Bay & Shouson Hill ,Flat C| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,8000,21000,2.0,,25.0,78.0,22.245883,114.177979
+429,24,Manhattan Hill,Mei Foo ,Flat B| Middle Floor|  Block 2| Manhattan Hill| Mei Foo ,3850,75000,,,12.0,78.0,22.3366356,114.1402195
+430,24,Residence Oasis,Tseung Kwan O ,Flat C| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,970,24500,,,14.0,75.0,22.3119357,114.2568776
+431,24,The Merton,Western/Sheung Wan Central ,Flat D| Low Floor|  Block 3| The Merton| Western/Sheung Wan Central ,1380,29800,2.0,2.0,14.0,77.0,37.0937489,-95.7127622
+432,25,Wilton Place,Western Mid-Levels ,Flat A| Middle Floor|  Wilton Place| Western Mid-Levels ,1500,29800,2.0,2.0,21.0,74.0,22.2816223,114.147865
+433,25,Wan Chai,Causeway... ,Flat F| Middle Floor|  Hennessy Road 475-477| East South Building| Admiralty| Wan Chai| Causeway... ,700,29800,2.0,,53.0,82.0,30.01910909999999,-90.1538668
+434,25,The Coronation,Tsim Sha Tsui ,Flat E| High Floor|  Block 7| The Coronation| Tsim Sha Tsui ,1000,29800,1.0,1.0,6.0,77.0,22.2988123,114.1721746
+435,25,Park Central,Tseung Kwan O ,Flat F| Low Floor|  Block 06| Phase 1| Park Central| Tseung Kwan O ,1100,29800,3.0,2.0,16.0,75.0,22.3119357,114.2568776
+436,25,East Point City,Tseung Kwan O ,Flat D| Low Floor|  Block 8| East Point City| Tseung Kwan O ,910,29800,3.0,2.0,22.0,80.0,22.3119357,114.2568776
+437,25,Residence Bel-Air,Pokfulam/Residence ,Flat B|  Block 6| Phase 6 (Bel-Air No.8)| Residence Bel-Air| Pokfulam/Residence ,2468,29800,2.0,,10.0,78.0,22.2679201,114.1290719
+438,25,Fung Fai Court,Happy Valley/East Mid Level ,Flat D| Low Floor|  Fung Fai Court| Happy Valley/East Mid Level ,910,29800,2.0,1.0,41.0,80.0,42.3486922,-72.5682945
+439,25,Lions Rise,Wong Tai Sin ,Flat B| Middle Floor|  Block 3B| Lions Rise| Wong Tai Sin ,1500,30000,4.0,2.0,7.0,77.0,37.7775324,-122.4637922
+440,25,Corinthia By The Sea,Tseung Kwan O ,Flat G|  Block 6| Corinthia By The Sea| Tseung Kwan O ,1050,30000,,,3.0,,22.3119357,114.2568776
+441,25,Telford Gardens,Amoy/Kowloon Bay ,Flat 5| Low Floor|  Block L| Telford Gardens| Amoy/Kowloon Bay ,820,30000,2.0,2.0,38.0,89.0,24.479833,118.089425
+442,25,Vision City,Tsuen Wan ,Flat D| Middle Floor|  Block 5| Vision City| Tsuen Wan ,1100,30000,,,12.0,76.0,22.3699122,114.1144306
+443,25,Twin Peaks,Tseung Kwan O ,Flat C|  Tower 2| Twin Peaks| Tseung Kwan O ,682,30000,,,3.0,,22.3119357,114.2568776
+444,25,The Babington,Western Mid-Levels ,Flat A| Low Floor|  The Babington| Western Mid-Levels ,5800,108000,4.0,,9.0,72.0,22.2816223,114.147865
+445,25,King Shan Court,Wong Tai Sin ,Flat 5| High Floor|  Block B| King Shan Court| Wong Tai Sin ,695,108000,3.0,2.0,36.0,84.0,37.7775324,-122.4637922
+446,25,Yuk Ming Court,Tseung Kwan O ,Flat 14| Middle Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,650,108000,,,23.0,73.0,22.3119357,114.2568776
+447,25,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 4| Marina Cove| Sai Kung ,3800,108000,3.0,2.0,30.0,72.0,22.383689,114.2707867
+448,25,Upper East,To Kwa Wan ,Flat L|  Block 1A| Upper East| To Kwa Wan ,500,12000,,,,,22.3173373,114.1879691
+449,25,Residence Bel-Air,Pokfulam/Residence , Bel-Air Rise (House)| Phase 3| Residence Bel-Air| Pokfulam/Residence ,33000,300000,4.0,,14.0,77.0,22.2679201,114.1290719
+450,26,Island Harbourview,Olympic Station ,Flat A| Low Floor|  Block 10| Island Harbourview| Olympic Station ,1380,28000,2.0,2.0,19.0,75.0,34.050229,-118.2911404
+451,26,Jade Villa,Sai Kung , 83B Ngau Liu| Jade Villa| Sai Kung ,1400,28000,,,,,22.383689,114.2707867
+452,26,Villa Lotto,Happy Valley/East Mid Level ,Flat 02| Low Floor|  Block A| Villa Lotto| Happy Valley/East Mid Level ,8000,28000,4.0,2.0,31.0,90.0,42.3486922,-72.5682945
+453,26,Ronsdale Garden,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Block 1| Ronsdale Garden| Happy Valley/East Mid Level ,2600,50000,2.0,2.0,33.0,80.0,42.3486922,-72.5682945
+454,26,Robinson Heights,Western Mid-Levels ,Flat C| High Floor|  Block 3| Robinson Heights| Western Mid-Levels ,2222,40000,3.0,2.0,29.0,85.0,22.2816223,114.147865
+455,26,Lions Rise,Wong Tai Sin ,Flat C| High Floor|  Block 5A| Lions Rise| Wong Tai Sin ,1250,40000,2.0,1.0,7.0,77.0,37.7775324,-122.4637922
+456,26,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 1| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,16000,40000,4.0,2.0,12.0,78.0,42.3486922,-72.5682945
+457,26,Aspen Crest,Wong Tai Sin ,Flat C| Low Floor|  Aspen Crest| Wong Tai Sin ,555,40000,1.0,1.0,,,37.7775324,-122.4637922
+458,26,South Horizons,Ap Lei Chau ,Flat B| Low Floor|  Block 17| Phase 3| South Horizons| Ap Lei Chau ,1200,28000,3.0,2.0,25.0,78.0,22.2418581,114.1528532
+459,26,Shining Heights,Tai Kok Tsui ,Flat C| Low Floor|  Shining Heights| Tai Kok Tsui ,900,24800,2.0,2.0,10.0,71.0,22.3198474,114.1620857
+460,26,Grand Austin,Tsim Sha Tsui ,Flat C| Low Floor|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,5000,24800,4.0,1.0,4.0,,22.2988123,114.1721746
+461,26,Caroline Height,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Caroline Height| Happy Valley/East Mid Level ,1750,24800,3.0,2.0,34.0,71.0,42.3486922,-72.5682945
+462,26,Shouson Peak,Repulse Bay & Shouson Hill , 9-19 Shouson Hill Road (House)| Shouson Peak| Repulse Bay & Shouson Hill ,43800,450000,5.0,,7.0,70.0,22.245883,114.177979
+463,26,Crescent Heights,Happy Valley/East Mid Level ,Flat E| Low Floor|  Crescent Heights| Happy Valley/East Mid Level ,1750,32000,2.0,2.0,22.0,81.0,42.3486922,-72.5682945
+464,26,Vibe Centro,Kai Tak ,Flat E| Middle Floor|  Tower 2B| Vibe Centro| Kai Tak ,1370,32000,2.0,2.0,,,43.823099,-79.3964749
+465,26,Wan Chai,Causeway Bay ,Flat 350A| Low Floor|  Cheong Ip Building| Admiralty| Wan Chai| Causeway Bay ,540,32000,2.0,2.0,53.0,77.0,22.2859787,114.1914919
+466,26,Ying Ming Court,Tseung Kwan O ,Flat 1| Middle Floor|  Ming On House| Ying Ming Court| Tseung Kwan O ,590,32000,,,30.0,78.0,22.3119357,114.2568776
+467,26,Greenway Terrace,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 2| Greenway Terrace| Happy Valley/East Mid Level ,1600,32000,3.0,2.0,26.0,72.0,42.3486922,-72.5682945
+468,27,Scenecliff,Western Mid-Levels ,Flat D| High Floor|  Block 1| Scenecliff| Western Mid-Levels ,1550,32000,2.0,2.0,28.0,78.0,22.2816223,114.147865
+469,27,Oscar By The Sea,Tseung Kwan O ,Flat D| High Floor|  Block 7| Phase 2| Oscar By The Sea| Tseung Kwan O ,818,32000,,,17.0,75.0,22.3119357,114.2568776
+470,27,On Kay Court,Amoy/Kowloon Bay ,Flat 2| Low Floor|  Block C| On Kay Court| Amoy/Kowloon Bay ,650,32000,3.0,2.0,35.0,,24.479833,118.089425
+471,27,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 3| Aquamarine| Lai Chi Kok ,1000,32000,2.0,2.0,15.0,75.0,22.3377817,114.1359272
+472,27,South Horizons,Ap Lei Chau ,Flat A| Middle Floor|  Block 26| Phase 4 (The Oasis)| South Horizons| Ap Lei Chau ,930,32000,2.0,2.0,24.0,79.0,22.2418581,114.1528532
+473,27,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat G| Middle Floor|  Block 11| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,1050,32000,2.0,2.0,26.0,80.0,22.3312462,114.1744039
+474,27,Tak Bo Garden,Amoy/Kowloon Bay ,Flat A7| High Floor|  Block A| Tak Bo Garden| Amoy/Kowloon Bay ,530,32000,,,34.0,71.0,24.479833,118.089425
+475,27,Tak Bo Garden,Amoy/Kowloon Bay ,Flat B7| Middle Floor|  Block B| Tak Bo Garden| Amoy/Kowloon Bay ,510,32000,1.0,2.0,34.0,71.0,24.479833,118.089425
+476,27,The Ascent,Cheung Sha Wan ,Flat F| High Floor|  The Ascent| Cheung Sha Wan ,630,32000,1.0,,1.0,,22.3358055,114.1494892
+477,27,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Lotus Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,2550,32000,4.0,2.0,35.0,90.0,22.2865471,114.2189883
+478,27,Hampton Place,Olympic Station ,Flat C| Middle Floor|  Block 2| Hampton Place| Olympic Station ,980,20000,2.0,2.0,15.0,70.0,34.050229,-118.2911404
+479,27,The Coronation,Tsim Sha Tsui ,Flat C| Low Floor|  Block 5| The Coronation| Tsim Sha Tsui ,1800,28000,2.0,1.0,6.0,76.0,22.2988123,114.1721746
+480,27,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Po On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,1600,28000,3.0,1.0,38.0,88.0,22.2865471,114.2189883
+481,27,Soho 38,Western Mid-Levels ,Flat B| Low Floor|  Soho 38| Western Mid-Levels ,755,22000,,2.0,10.0,67.0,22.2816223,114.147865
+482,27,Yee Fung Building,Happy Valley/East Mid Level ,Flat F| Low Floor|  Yee Fung Building| Happy Valley/East Mid Level ,650,18000,1.0,,46.0,76.0,42.3486922,-72.5682945
+483,27,The Victoria Towers,Tsim Sha Tsui ,Flat C| High Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,1600,32000,2.0,1.0,16.0,70.0,22.2988123,114.1721746
+484,27,Hampton Place,Olympic Station ,Flat A| Middle Floor|  Block 1| Hampton Place| Olympic Station ,1080,32000,2.0,2.0,15.0,75.0,34.050229,-118.2911404
+485,27,Baguio Villa,Pokfulam/Residence ,High Floor|  Block 18| Baguio Villa| Pokfulam/Residence ,12000,32000,8.0,3.0,39.0,86.0,22.2679201,114.1290719
+486,28,Scenecliff,Western Mid-Levels ,Flat D| High Floor|  Block 1| Scenecliff| Western Mid-Levels ,1550,32000,2.0,2.0,28.0,78.0,22.2816223,114.147865
+487,28,Oscar By The Sea,Tseung Kwan O ,Flat D| High Floor|  Block 7| Phase 2| Oscar By The Sea| Tseung Kwan O ,818,32000,,,17.0,75.0,22.3119357,114.2568776
+488,28,On Kay Court,Amoy/Kowloon Bay ,Flat 2| Low Floor|  Block C| On Kay Court| Amoy/Kowloon Bay ,650,32000,3.0,2.0,35.0,,24.479833,118.089425
+489,28,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 3| Aquamarine| Lai Chi Kok ,1000,32000,2.0,2.0,15.0,75.0,22.3377817,114.1359272
+490,28,South Horizons,Ap Lei Chau ,Flat A| Middle Floor|  Block 26| Phase 4 (The Oasis)| South Horizons| Ap Lei Chau ,930,32000,2.0,2.0,24.0,79.0,22.2418581,114.1528532
+491,28,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat G| Middle Floor|  Block 11| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,1050,32000,2.0,2.0,26.0,80.0,22.3312462,114.1744039
+492,28,Tak Bo Garden,Amoy/Kowloon Bay ,Flat A7| High Floor|  Block A| Tak Bo Garden| Amoy/Kowloon Bay ,530,32000,,,34.0,71.0,24.479833,118.089425
+493,28,Tak Bo Garden,Amoy/Kowloon Bay ,Flat B7| Middle Floor|  Block B| Tak Bo Garden| Amoy/Kowloon Bay ,510,32000,1.0,2.0,34.0,71.0,24.479833,118.089425
+494,28,The Ascent,Cheung Sha Wan ,Flat F| High Floor|  The Ascent| Cheung Sha Wan ,630,32000,1.0,,1.0,,22.3358055,114.1494892
+495,28,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Lotus Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,2550,32000,4.0,2.0,35.0,90.0,22.2865471,114.2189883
+496,28,Hampton Place,Olympic Station ,Flat C| Middle Floor|  Block 2| Hampton Place| Olympic Station ,980,20000,2.0,2.0,15.0,70.0,34.050229,-118.2911404
+497,28,The Coronation,Tsim Sha Tsui ,Flat C| Low Floor|  Block 5| The Coronation| Tsim Sha Tsui ,1800,28000,2.0,1.0,6.0,76.0,22.2988123,114.1721746
+498,28,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Po On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,1600,28000,3.0,1.0,38.0,88.0,22.2865471,114.2189883
+499,28,Soho 38,Western Mid-Levels ,Flat B| Low Floor|  Soho 38| Western Mid-Levels ,755,22000,,2.0,10.0,67.0,22.2816223,114.147865
+500,28,Yee Fung Building,Happy Valley/East Mid Level ,Flat F| Low Floor|  Yee Fung Building| Happy Valley/East Mid Level ,650,18000,1.0,,46.0,76.0,42.3486922,-72.5682945
+501,28,The Victoria Towers,Tsim Sha Tsui ,Flat C| High Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,1600,32000,2.0,1.0,16.0,70.0,22.2988123,114.1721746
+502,28,Hampton Place,Olympic Station ,Flat A| Middle Floor|  Block 1| Hampton Place| Olympic Station ,1080,32000,2.0,2.0,15.0,75.0,34.050229,-118.2911404
+503,28,Baguio Villa,Pokfulam/Residence ,High Floor|  Block 18| Baguio Villa| Pokfulam/Residence ,12000,32000,8.0,3.0,39.0,86.0,22.2679201,114.1290719
+504,29,Chun Hing Mansion,Happy Valley/East Mid Level ,Low Floor|  Chun Hing Mansion| Happy Valley/East Mid Level ,1580,32000,2.0,1.0,44.0,74.0,42.3486922,-72.5682945
+505,29,The Latitude,Wong Tai Sin ,Flat A| Low Floor|  Block 2A| The Latitude| Wong Tai Sin ,3100,50000,4.0,2.0,8.0,78.0,37.7775324,-122.4637922
+506,29,Wilton Place,Western Mid-Levels ,Flat A| Middle Floor|  Wilton Place| Western Mid-Levels ,3000,60000,2.0,2.0,21.0,78.0,22.2816223,114.147865
+507,29,The Coronation,Tsim Sha Tsui ,Flat F| Middle Floor|  Block 6| The Coronation| Tsim Sha Tsui ,880,23100,,1.0,6.0,80.0,22.2988123,114.1721746
+508,29,The Coronation,Tsim Sha Tsui ,Flat B| Middle Floor|  Block 5| The Coronation| Tsim Sha Tsui ,2700,48000,3.0,1.0,6.0,77.0,22.2988123,114.1721746
+509,29,King Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Hei King House ( Block A )| King Ming Court| Tseung Kwan O ,840,48000,3.0,2.0,31.0,78.0,22.3119357,114.2568776
+510,29,5 Wiltshire Road,Kln Tong / Beacon Hill , 5-7 Wiltshire Road (House)| 5 Wiltshire Road| Kln Tong / Beacon Hill ,22000,48000,13.0,,30.0,,22.3369319,114.1763367
+511,29,Yuccie Square,Yuen Long ,Flat F|  Block 3| Yuccie Square| Yuen Long ,1050,21500,,,2.0,,22.4445376,114.0222076
+512,29,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,4988,68800,3.0,1.0,12.0,73.0,22.304306,114.161475
+513,29,The Masterpiece,Tsim Sha Tsui ,Flat J| Low Floor|  The Masterpiece| Tsim Sha Tsui ,3600,65000,2.0,1.0,10.0,72.0,22.2988123,114.1721746
+514,29,Greenfields,Yuen Long ,Flat E| Low Floor|  Block 1| Greenfields| Yuen Long ,620,13000,2.0,2.0,20.0,73.0,22.4445376,114.0222076
+515,29,May Tower,Central Mid-Levels & Peak ,High Floor|  Block 2| May Tower| Central Mid-Levels & Peak ,15000,150000,4.0,2.0,27.0,79.0,22.2695676,114.1658745
+516,29,Le Village,Happy Valley/East Mid Level ,Flat A| High Floor|  Le Village| Happy Valley/East Mid Level ,3100,150000,2.0,2.0,17.0,73.0,42.3486922,-72.5682945
+517,29,Skyline Mansion,Western Mid-Levels ,Flat E| Middle Floor|  Block 2| Skyline Mansion| Western Mid-Levels ,4300,150000,2.0,,44.0,89.0,22.2816223,114.147865
+518,29,The Leighton Hill,Happy Valley/East Mid Level ,Flat B| Low Floor|  Block 7| The Leighton Hill| Happy Valley/East Mid Level ,7880,150000,4.0,2.0,17.0,77.0,42.3486922,-72.5682945
+519,29,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 2| Marina Cove| Sai Kung ,4500,150000,,,31.0,76.0,22.383689,114.2707867
+520,29,Chatham Gate,Hung Hom ,Flat A| Middle Floor|  Block 1| Chatham Gate| Hung Hom ,3500,150000,6.0,2.0,6.0,77.0,22.3055658,114.1887233
+521,29,Padek Palace,Prince Edward Rd ,Flat C| High Floor|  Padek Palace| Prince Edward Rd ,2950,150000,3.0,2.0,15.0,,30.2572132,-81.70670799999999
+522,30,Albion Gardens,Kln Tong / Beacon Hill ,Flat E| Low Floor|  Albion Gardens| Kln Tong / Beacon Hill ,4800,150000,3.0,2.0,37.0,91.0,22.3369319,114.1763367
+523,30,Flora Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Flora Villa| Yau Yat Chuen/Shek Kip Mei ,4300,150000,3.0,2.0,38.0,81.0,22.3312462,114.1744039
+524,30,Seymour,Western Mid-Levels ,Flat A| High Floor|  Seymour| Western Mid-Levels ,15000,150000,5.0,1.0,7.0,74.0,22.2816223,114.147865
+525,30,Yick King Building,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Yick King Building| Happy Valley/East Mid Level ,3300,150000,3.0,2.0,44.0,83.0,42.3486922,-72.5682945
+526,30,55 Conduit Road,Western Mid-Levels ,Flat C|  55 Conduit Road| Western Mid-Levels ,9000,150000,3.0,,4.0,,22.2816223,114.147865
+527,30,Grand Garden,Repulse Bay & Shouson Hill ,Flat A| Low Floor|  Block 3| Grand Garden| Repulse Bay & Shouson Hill ,4380,150000,3.0,2.0,32.0,75.0,22.245883,114.177979
+528,30,The Lamma Palace,Prince Edward Rd ,Flat A| High Floor|  The Lamma Palace| Prince Edward Rd ,5000,150000,3.0,2.0,13.0,68.0,30.2572132,-81.70670799999999
+529,30,Illumination Terrace,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 2| Illumination Terrace| Happy Valley/East Mid Level ,1680,38000,3.0,2.0,26.0,80.0,42.3486922,-72.5682945
+530,30,Ocean Shores,Tseung Kwan O ,Flat A| High Floor|  Block 10| Phase 2| Ocean Shores| Tseung Kwan O ,2180,38000,,,17.0,73.0,22.3119357,114.2568776
+531,30,Ocean Shores,Tseung Kwan O ,Flat B| High Floor|  Block 10| Phase 2| Ocean Shores| Tseung Kwan O ,2180,38000,,,17.0,73.0,22.3119357,114.2568776
+532,30,Tseung Kwan O Plaza,Tseung Kwan O ,Flat C| High Floor|  Block 5| Phase 2| Tseung Kwan O Plaza| Tseung Kwan O ,850,38000,,,15.0,73.0,22.3119357,114.2568776
+533,30,Cavendish Heights,Happy Valley/East Mid Level ,Flat B| High Floor|  Block 3| Cavendish Heights| Happy Valley/East Mid Level ,5500,38000,3.0,2.0,32.0,79.0,42.3486922,-72.5682945
+534,30,Bauhinia Garden,Tseung Kwan O ,Flat C| Middle Floor|  Tower 6| Bauhinia Garden| Tseung Kwan O ,620,38000,2.0,,18.0,85.0,22.3119357,114.2568776
+535,30,Savannah,Tseung Kwan O ,Flat F|  Block 3C| Savannah| Tseung Kwan O ,838,38000,,,2.0,,22.3119357,114.2568776
+536,30,Wah Sen Court,Western Mid-Levels ,Low Floor|  Wah Sen Court| Western Mid-Levels ,3100,38000,3.0,2.0,53.0,85.0,22.2816223,114.147865
+537,30,The Waterfront,Kowloon Station ,Flat A| Low Floor|  Block 7| Phase 2| The Waterfront| Kowloon Station ,2800,38000,3.0,1.0,18.0,80.0,22.304306,114.161475
+538,30,Ocean Shores,Tseung Kwan O ,Flat E| Low Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,850,38000,2.0,2.0,17.0,72.0,22.3119357,114.2568776
+539,30,Park Central,Tseung Kwan O ,Flat B| Low Floor|  Block 03| Phase 2| Park Central| Tseung Kwan O ,1080,38000,4.0,2.0,16.0,75.0,22.3119357,114.2568776
+540,31,Casa Bella,Sai Kung , Block 9| Casa Bella| Sai Kung ,2200,38000,,,25.0,80.0,22.383689,114.2707867
+541,31,Cheung King Mansion,Tsim Sha Tsui ,Flat B| Middle Floor|  Cheung King Mansion| Tsim Sha Tsui ,700,38000,,,40.0,76.0,22.2988123,114.1721746
+542,31,Lung Poon Court,Wong Tai Sin ,Flat 5| Low Floor|  Block D| Lung Poon Court| Wong Tai Sin ,598,38000,1.0,2.0,32.0,74.0,37.7775324,-122.4637922
+543,31,La Cite Noble,Tseung Kwan O ,Flat D| High Floor|  Block 5| La Cite Noble| Tseung Kwan O ,780,38000,2.0,2.0,20.0,72.0,22.3119357,114.2568776
+544,31,Residence Oasis,Tseung Kwan O ,Flat G| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,920,38000,,,14.0,74.0,22.3119357,114.2568776
+545,31,Pearl Court,Western/Sheung Wan Central ,Flat 4| Middle Floor|  Block A| Pearl Court| Western/Sheung Wan Central ,868,38000,2.0,,39.0,,37.0937489,-95.7127622
+546,31,Wan Chai,Causeway Bay ,Flat M| Low Floor|  Tower 2| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,1550,38000,2.0,,4.0,,22.2859787,114.1914919
+547,31,The Pacifica,Lai Chi Kok ,Flat E| Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,980,38000,2.0,1.0,14.0,70.0,22.3377817,114.1359272
+548,31,Palm Court,Happy Valley/East Mid Level ,Middle Floor|  Palm Court| Happy Valley/East Mid Level ,1550,38000,2.0,1.0,21.0,62.0,42.3486922,-72.5682945
+549,31,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Sung Lan Mansion| Admiralty| Wan Chai| Causeway Bay ,1400,38000,2.0,2.0,54.0,79.0,22.2859787,114.1914919
+550,31,Wan Chai,Causeway Bay ,Flat C| High Floor|  Empire Court| Admiralty| Wan Chai| Causeway Bay ,1350,38000,2.0,2.0,61.0,80.0,22.2859787,114.1914919
+551,31,Grand Promenade,Sai Wan Ho ,Flat D| High Floor|  Block 6| Grand Promenade| Sai Wan Ho ,2380,38000,,,13.0,72.0,22.2824738,114.2227035
+552,31,Residence Bel-Air,Pokfulam/Residence ,Flat A| Middle Floor|  Block 1| Phase 1| Residence Bel-Air| Pokfulam/Residence ,2600,38000,2.0,2.0,15.0,83.0,22.2679201,114.1290719
+553,31,37 Village Terrace,Happy Valley/East Mid Level ,Middle Floor|  Village Terrace 37| 37 Village Terrace| Happy Valley/East Mid Level ,3000,38000,3.0,2.0,59.0,80.0,42.3486922,-72.5682945
+554,31,The Belcher's,Western/Sheung Wan Central ,Flat D| High Floor|  Block 3| Phase 1| The Belcher's| Western/Sheung Wan Central ,1950,38000,2.0,2.0,18.0,78.0,37.0937489,-95.7127622
+555,31,Discovery Park,Tsuen Wan ,Flat D| Low Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,850,38000,3.0,2.0,21.0,80.0,22.3699122,114.1144306
+556,31,Ocean Shores,Tseung Kwan O ,Flat H| Low Floor|  Block 09| Phase 2| Ocean Shores| Tseung Kwan O ,868,38000,2.0,1.0,17.0,73.0,22.3119357,114.2568776
+557,31,Floral Villas,Sai Kung , House -| Floral Villas| Sai Kung ,4000,38000,,,25.0,79.0,22.383689,114.2707867
+558,32,Casa Bella,Sai Kung , Block 9| Casa Bella| Sai Kung ,2200,38000,,,25.0,80.0,22.383689,114.2707867
+559,32,Cheung King Mansion,Tsim Sha Tsui ,Flat B| Middle Floor|  Cheung King Mansion| Tsim Sha Tsui ,700,38000,,,40.0,76.0,22.2988123,114.1721746
+560,32,Lung Poon Court,Wong Tai Sin ,Flat 5| Low Floor|  Block D| Lung Poon Court| Wong Tai Sin ,598,38000,1.0,2.0,32.0,74.0,37.7775324,-122.4637922
+561,32,La Cite Noble,Tseung Kwan O ,Flat D| High Floor|  Block 5| La Cite Noble| Tseung Kwan O ,780,38000,2.0,2.0,20.0,72.0,22.3119357,114.2568776
+562,32,Residence Oasis,Tseung Kwan O ,Flat G| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,920,38000,,,14.0,74.0,22.3119357,114.2568776
+563,32,Pearl Court,Western/Sheung Wan Central ,Flat 4| Middle Floor|  Block A| Pearl Court| Western/Sheung Wan Central ,868,38000,2.0,,39.0,,37.0937489,-95.7127622
+564,32,Wan Chai,Causeway Bay ,Flat M| Low Floor|  Tower 2| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,1550,38000,2.0,,4.0,,22.2859787,114.1914919
+565,32,The Pacifica,Lai Chi Kok ,Flat E| Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,980,38000,2.0,1.0,14.0,70.0,22.3377817,114.1359272
+566,32,Palm Court,Happy Valley/East Mid Level ,Middle Floor|  Palm Court| Happy Valley/East Mid Level ,1550,38000,2.0,1.0,21.0,62.0,42.3486922,-72.5682945
+567,32,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Sung Lan Mansion| Admiralty| Wan Chai| Causeway Bay ,1400,38000,2.0,2.0,54.0,79.0,22.2859787,114.1914919
+568,32,Wan Chai,Causeway Bay ,Flat C| High Floor|  Empire Court| Admiralty| Wan Chai| Causeway Bay ,1350,38000,2.0,2.0,61.0,80.0,22.2859787,114.1914919
+569,32,Grand Promenade,Sai Wan Ho ,Flat D| High Floor|  Block 6| Grand Promenade| Sai Wan Ho ,2380,38000,,,13.0,72.0,22.2824738,114.2227035
+570,32,Residence Bel-Air,Pokfulam/Residence ,Flat A| Middle Floor|  Block 1| Phase 1| Residence Bel-Air| Pokfulam/Residence ,2600,38000,2.0,2.0,15.0,83.0,22.2679201,114.1290719
+571,32,37 Village Terrace,Happy Valley/East Mid Level ,Middle Floor|  Village Terrace 37| 37 Village Terrace| Happy Valley/East Mid Level ,3000,38000,3.0,2.0,59.0,80.0,42.3486922,-72.5682945
+572,32,The Belcher's,Western/Sheung Wan Central ,Flat D| High Floor|  Block 3| Phase 1| The Belcher's| Western/Sheung Wan Central ,1950,38000,2.0,2.0,18.0,78.0,37.0937489,-95.7127622
+573,32,Discovery Park,Tsuen Wan ,Flat D| Low Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,850,38000,3.0,2.0,21.0,80.0,22.3699122,114.1144306
+574,32,Ocean Shores,Tseung Kwan O ,Flat H| Low Floor|  Block 09| Phase 2| Ocean Shores| Tseung Kwan O ,868,38000,2.0,1.0,17.0,73.0,22.3119357,114.2568776
+575,32,Floral Villas,Sai Kung , House -| Floral Villas| Sai Kung ,4000,38000,,,25.0,79.0,22.383689,114.2707867
+576,33,Excelsior Court,Western Mid-Levels ,Flat B| High Floor|  Excelsior Court| Western Mid-Levels ,2800,38000,3.0,2.0,30.0,84.0,22.2816223,114.147865
+577,33,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block B| Telford Gardens| Amoy/Kowloon Bay ,770,38000,1.0,2.0,38.0,89.0,24.479833,118.089425
+578,33,Echo Peak Tower,North Point & North Point Midlevel ,Low Floor|  Echo Peak Tower| North Point & North Point Midlevel ,1380,38000,3.0,2.0,31.0,71.0,37.1222422,-94.47484299999999
+579,33,Parisian,Stanley/Tai Tam/Shek O ,Low Floor|  Parisian| Stanley/Tai Tam/Shek O ,4500,38000,3.0,2.0,29.0,80.0,37.09024,-95.712891
+580,33,Lung Poon Court,Wong Tai Sin ,Flat 4| Middle Floor|  Block E| Lung Poon Court| Wong Tai Sin ,660,38000,2.0,2.0,32.0,74.0,37.7775324,-122.4637922
+581,33,Villa Rosa,Stanley/Tai Tam/Shek O , 88 Red Hill Road (House)| Villa Rosa| Stanley/Tai Tam/Shek O ,18000,38000,4.0,2.0,22.0,84.0,37.09024,-95.712891
+582,33,The Masterpiece,Tsim Sha Tsui ,Flat F| High Floor|  The Masterpiece| Tsim Sha Tsui ,4300,38000,2.0,1.0,10.0,72.0,22.2988123,114.1721746
+583,33,Hamden Court,Kwun Tong ,Flat 4| Low Floor|  Block B| Hamden Court| Kwun Tong ,580,38000,,,34.0,,22.3103686,114.2227035
+584,33,The Wings,Tseung Kwan O ,Flat D|  Block 3B| Phase 3A| The Wings| Tseung Kwan O ,800,38000,,,3.0,,22.3119357,114.2568776
+585,33,Harbour Green,Olympic Station ,Flat D| High Floor|  Block 6| Harbour Green| Olympic Station ,1200,38000,,,12.0,77.0,34.050229,-118.2911404
+586,33,South Bay Towers,Repulse Bay & Shouson Hill ,Flat B| Middle Floor|  South Bay Towers| Repulse Bay & Shouson Hill ,7500,38000,3.0,2.0,34.0,78.0,22.245883,114.177979
+587,33,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,5300,38000,4.0,2.0,15.0,74.0,22.3369319,114.1763367
+588,33,Metro City,Tseung Kwan O ,Flat G| Low Floor|  Block 03| Phase 2| Metro City| Tseung Kwan O ,646,38000,,,19.0,70.0,22.3119357,114.2568776
+589,33,Lei King Wan,Sai Wan Ho ,Flat H| High Floor|  Kwun King Mansion| Site A| Lei King Wan| Sai Wan Ho ,1598,38000,3.0,2.0,31.0,90.0,22.2824738,114.2227035
+590,33,Valiant Park,Western Mid-Levels ,Flat G| Middle Floor|  Valiant Park| Western Mid-Levels ,2068,38000,3.0,2.0,26.0,81.0,22.2816223,114.147865
+591,33,Forfar,Kln Tong / Beacon Hill ,Flat A| Low Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,5000,38000,4.0,2.0,9.0,72.0,22.3369319,114.1763367
+592,33,Po Tak Mansion,Happy Valley/East Mid Level ,Flat B| High Floor|  Po Tak Mansion| Happy Valley/East Mid Level ,1680,38000,3.0,,56.0,80.0,42.3486922,-72.5682945
+593,33,Lei King Wan,Sai Wan Ho ,Flat C| Low Floor|  Yat Wah Mansion| Site B| Lei King Wan| Sai Wan Ho ,1150,38000,2.0,2.0,31.0,86.0,22.2824738,114.2227035
+594,34,Excelsior Court,Western Mid-Levels ,Flat B| High Floor|  Excelsior Court| Western Mid-Levels ,2800,38000,3.0,2.0,30.0,84.0,22.2816223,114.147865
+595,34,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block B| Telford Gardens| Amoy/Kowloon Bay ,770,38000,1.0,2.0,38.0,89.0,24.479833,118.089425
+596,34,Echo Peak Tower,North Point & North Point Midlevel ,Low Floor|  Echo Peak Tower| North Point & North Point Midlevel ,1380,38000,3.0,2.0,31.0,71.0,37.1222422,-94.47484299999999
+597,34,Parisian,Stanley/Tai Tam/Shek O ,Low Floor|  Parisian| Stanley/Tai Tam/Shek O ,4500,38000,3.0,2.0,29.0,80.0,37.09024,-95.712891
+598,34,Lung Poon Court,Wong Tai Sin ,Flat 4| Middle Floor|  Block E| Lung Poon Court| Wong Tai Sin ,660,38000,2.0,2.0,32.0,74.0,37.7775324,-122.4637922
+599,34,Villa Rosa,Stanley/Tai Tam/Shek O , 88 Red Hill Road (House)| Villa Rosa| Stanley/Tai Tam/Shek O ,18000,38000,4.0,2.0,22.0,84.0,37.09024,-95.712891
+600,34,The Masterpiece,Tsim Sha Tsui ,Flat F| High Floor|  The Masterpiece| Tsim Sha Tsui ,4300,38000,2.0,1.0,10.0,72.0,22.2988123,114.1721746
+601,34,Hamden Court,Kwun Tong ,Flat 4| Low Floor|  Block B| Hamden Court| Kwun Tong ,580,38000,,,34.0,,22.3103686,114.2227035
+602,34,The Wings,Tseung Kwan O ,Flat D|  Block 3B| Phase 3A| The Wings| Tseung Kwan O ,800,38000,,,3.0,,22.3119357,114.2568776
+603,34,Harbour Green,Olympic Station ,Flat D| High Floor|  Block 6| Harbour Green| Olympic Station ,1200,38000,,,12.0,77.0,34.050229,-118.2911404
+604,34,South Bay Towers,Repulse Bay & Shouson Hill ,Flat B| Middle Floor|  South Bay Towers| Repulse Bay & Shouson Hill ,7500,38000,3.0,2.0,34.0,78.0,22.245883,114.177979
+605,34,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,5300,38000,4.0,2.0,15.0,74.0,22.3369319,114.1763367
+606,34,Metro City,Tseung Kwan O ,Flat G| Low Floor|  Block 03| Phase 2| Metro City| Tseung Kwan O ,646,38000,,,19.0,70.0,22.3119357,114.2568776
+607,34,Lei King Wan,Sai Wan Ho ,Flat H| High Floor|  Kwun King Mansion| Site A| Lei King Wan| Sai Wan Ho ,1598,38000,3.0,2.0,31.0,90.0,22.2824738,114.2227035
+608,34,Valiant Park,Western Mid-Levels ,Flat G| Middle Floor|  Valiant Park| Western Mid-Levels ,2068,38000,3.0,2.0,26.0,81.0,22.2816223,114.147865
+609,34,Forfar,Kln Tong / Beacon Hill ,Flat A| Low Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,5000,38000,4.0,2.0,9.0,72.0,22.3369319,114.1763367
+610,34,Po Tak Mansion,Happy Valley/East Mid Level ,Flat B| High Floor|  Po Tak Mansion| Happy Valley/East Mid Level ,1680,38000,3.0,,56.0,80.0,42.3486922,-72.5682945
+611,34,Lei King Wan,Sai Wan Ho ,Flat C| Low Floor|  Yat Wah Mansion| Site B| Lei King Wan| Sai Wan Ho ,1150,38000,2.0,2.0,31.0,86.0,22.2824738,114.2227035
+612,35,Metro City,Tseung Kwan O ,Flat C| Middle Floor|  Block 9| Phase 2| Metro City| Tseung Kwan O ,698,38000,1.0,2.0,19.0,70.0,22.3119357,114.2568776
+613,35,High West,Western Mid-Levels ,Flat D| High Floor|  High West| Western Mid-Levels ,790,38000,1.0,2.0,5.0,72.0,22.2816223,114.147865
+614,35,Sun Yuen Long Centre,Yuen Long ,Flat G| High Floor|  Block 4| Sun Yuen Long Centre| Yuen Long ,720,38000,2.0,2.0,25.0,81.0,22.4445376,114.0222076
+615,35,Hampton Place,Olympic Station ,Flat C| High Floor|  Block 1| Hampton Place| Olympic Station ,1080,38000,2.0,2.0,15.0,74.0,34.050229,-118.2911404
+616,35,Wilton Place,Western Mid-Levels ,Flat B| High Floor|  Wilton Place| Western Mid-Levels ,1350,38000,2.0,2.0,21.0,76.0,22.2816223,114.147865
+617,35,Belcher's Hill,Western/Sheung Wan Central ,Flat D| High Floor|  Belcher's Hill| Western/Sheung Wan Central ,5280,38000,3.0,2.0,8.0,,37.0937489,-95.7127622
+618,35,Whampoa Garden,Hung Hom/Whampoa ,Flat D| High Floor|  Block 08| Site 5| Whampoa Garden| Hung Hom/Whampoa ,950,38000,2.0,2.0,31.0,87.0,22.3055658,114.1887233
+619,35,No.2 Park Road,Western Mid-Levels ,Flat A| High Floor|  Park Road 2| No.2 Park Road| Western Mid-Levels ,1700,38000,3.0,2.0,15.0,72.0,22.2816223,114.147865
+620,35,Telford Gardens,Amoy/Kowloon Bay ,Flat 8| High Floor|  Block I| Telford Gardens| Amoy/Kowloon Bay ,730,38000,2.0,2.0,38.0,90.0,24.479833,118.089425
+621,35,Mountain Court,Homantin/Kingspark ,Flat D| High Floor|  Block A| Mountain Court| Homantin/Kingspark ,2300,40000,3.0,2.0,34.0,83.0,22.318507,114.1755339
+622,35,Metro City,Tseung Kwan O ,Flat H| Low Floor|  Block 03| Phase 1| Metro City| Tseung Kwan O ,788,40000,3.0,2.0,22.0,72.0,22.3119357,114.2568776
+623,35,Kornville,Quarry Bay ,Flat F| Middle Floor|  Block 2| Kornville| Quarry Bay ,835,40000,2.0,2.0,23.0,76.0,22.2827206,114.2123009
+624,35,The Waterfront,Kowloon Station ,Flat F| Low Floor|  Block 2| Phase 1| The Waterfront| Kowloon Station ,2200,40000,3.0,2.0,18.0,81.0,22.304306,114.161475
+625,35,The Pacifica,Lai Chi Kok ,Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,1650,40000,4.0,2.0,14.0,76.0,22.3377817,114.1359272
+626,35,Wan Chai,Causeway Bay ,Flat C| Middle Floor|  Tower A| Tonnochy Towers| Admiralty| Wan Chai| Causeway Bay ,650,40000,1.0,2.0,44.0,83.0,22.2859787,114.1914919
+627,35,18 Upper East,Sai Wan Ho ,Flat D| Middle Floor|  18 Upper East| Sai Wan Ho ,690,40000,1.0,,6.0,72.0,22.2824738,114.2227035
+628,35,High Point,Sham Shui Po ,Flat D| High Floor|  High Point| Sham Shui Po ,788,40000,2.0,1.0,5.0,71.0,22.3285899,114.1602846
+629,35,Nan Fung Sun Chuen,Quarry Bay ,Flat E| Middle Floor|  Block 08| Nan Fung Sun Chuen| Quarry Bay ,960,40000,3.0,2.0,40.0,82.0,22.2827206,114.2123009
+630,36,Skypark,Mongkok ,Flat B6|  Skypark| Mongkok ,980,40000,,,2.0,,22.3203648,114.169773
+631,36,Stars By The Harbour,Hung Hom ,Flat C| Middle Floor|  Block 1| Stars By The Harbour| Hung Hom ,2480,40000,3.0,2.0,3.0,,22.3055658,114.1887233
+632,36,Serenade,Happy Valley/East Mid Level ,Flat B| High Floor|  Tower 2| Serenade| Happy Valley/East Mid Level ,4100,40000,4.0,2.0,9.0,75.0,42.3486922,-72.5682945
+633,36,Park Summit,Tai Kok Tsui ,Flat F| High Floor|  Block 1| Park Summit| Tai Kok Tsui ,600,40000,,2.0,6.0,80.0,22.3198474,114.1620857
+634,36,The Sparkle,Lai Chi Kok ,Flat A| Low Floor|  Block 2| The Sparkle| Lai Chi Kok ,1180,40000,,,11.0,73.0,22.3377817,114.1359272
+635,36,Metro Harbour View,Tai Kok Tsui ,Flat B| Middle Floor|  Block 10| Phase 2| Metro Harbour View| Tai Kok Tsui ,785,40000,,,15.0,70.0,22.3198474,114.1620857
+636,36,Goldwin Heights,Western Mid-Levels ,Flat E| High Floor|  Goldwin Heights| Western Mid-Levels ,2500,40000,3.0,2.0,25.0,77.0,22.2816223,114.147865
+637,36,Bel Air Heights,Wong Tai Sin ,Flat E| Middle Floor|  Block 1| Bel Air Heights| Wong Tai Sin ,1080,40000,4.0,2.0,20.0,79.0,37.7775324,-122.4637922
+638,36,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 2| Aquamarine| Lai Chi Kok ,1100,40000,2.0,2.0,15.0,75.0,22.3377817,114.1359272
+639,36,Manhattan Heights,Western/Sheung Wan Central ,Flat J| High Floor|  Manhattan Heights| Western/Sheung Wan Central ,1180,40000,2.0,2.0,19.0,74.0,37.0937489,-95.7127622
+640,36,Hang Po Building,North Point & North Point Midlevel ,Flat A| High Floor|  Hang Po Building| North Point & North Point Midlevel ,630,13500,1.0,1.0,39.0,66.0,37.1222422,-94.47484299999999
+641,36,Golden Lion Garden,Shatin ,Flat 8| High Floor|  Stage 2 - Blk A - (Golden Wealth Court)| Golden Lion Garden| Shatin ,580,13500,2.0,1.0,31.0,62.0,22.3771304,114.1974398
+642,36,Park Central,Tseung Kwan O ,Flat H| Low Floor|  Block 02| Phase 2| Park Central| Tseung Kwan O ,860,13500,,,16.0,75.0,22.3119357,114.2568776
+643,36,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 5| Aquamarine| Lai Chi Kok ,990,13500,2.0,2.0,15.0,75.0,22.3377817,114.1359272
+644,36,Lee Kee Building,Amoy/Kowloon Bay ,Flat 4| Low Floor|  Block D| Lee Kee Building| Amoy/Kowloon Bay ,650,13500,2.0,2.0,41.0,86.0,24.479833,118.089425
+645,36,Banyan Garden,Lai Chi Kok ,Flat C| High Floor|  Block 8| Phase II| Banyan Garden| Lai Chi Kok ,1500,13500,3.0,2.0,14.0,75.0,22.3377817,114.1359272
+646,36,Verdun Villa,Kln Tong / Beacon Hill ,Middle Floor|  Verdun Villa| Kln Tong / Beacon Hill ,3680,13500,5.0,2.0,50.0,83.0,22.3369319,114.1763367
+647,36,24-26 King Kwong Street,Happy Valley/East Mid Level ,Middle Floor|  26-28 King Kwong Street| 24-26 King Kwong Street| Happy Valley/East Mid Level ,750,13500,2.0,1.0,53.0,74.0,42.3486922,-72.5682945
+648,37,Windsor Court,Western Mid-Levels ,Flat C| High Floor|  Windsor Court| Western Mid-Levels ,750,13500,1.0,,25.0,71.0,22.2816223,114.147865
+649,37,The Hudson,Western/Sheung Wan Central ,Flat C| High Floor|  The Hudson| Western/Sheung Wan Central ,2000,13500,3.0,2.0,3.0,,37.0937489,-95.7127622
+650,37,Claymore Lodge,Happy Valley/East Mid Level ,Flat A| High Floor|  Claymore Lodge| Happy Valley/East Mid Level ,650,13500,1.0,,29.0,67.0,42.3486922,-72.5682945
+651,37,South Horizons,Ap Lei Chau ,Flat E| Low Floor|  Block 08| Phase 2| South Horizons| Ap Lei Chau ,1600,13500,3.0,2.0,26.0,79.0,22.2418581,114.1528532
+652,37,Park Towers,North Point & North Point Midlevel ,Flat E| High Floor|  Block 1| Park Towers| North Point & North Point Midlevel ,2570,13500,3.0,2.0,30.0,78.0,37.1222422,-94.47484299999999
+653,37,Kornhill,Quarry Bay ,Flat 9| Low Floor|  Block D| Kornhill| Quarry Bay ,1000,13500,3.0,2.0,33.0,79.0,22.2827206,114.2123009
+654,37,Everwell Garden,Homantin/Kingspark ,Flat G| Low Floor|  Everwell Gdn| Everwell Garden| Homantin/Kingspark ,2500,13500,4.0,2.0,47.0,91.0,22.318507,114.1755339
+655,37,Yuk Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,580,13500,,,23.0,73.0,22.3119357,114.2568776
+656,37,Peaceful Mansion,Cheung Sha Wan ,Flat E| Middle Floor|  Peaceful Mansion| Cheung Sha Wan ,630,13500,,,17.0,,22.3358055,114.1494892
+657,37,Aquamarine,Lai Chi Kok ,Flat D| Low Floor|  Block 5| Aquamarine| Lai Chi Kok ,900,13500,2.0,2.0,15.0,74.0,22.3377817,114.1359272
+658,37,Lime Stardom,Mongkok ,Flat K| Middle Floor|  Lime Stardom| Mongkok ,838,13500,1.0,2.0,7.0,78.0,22.3203648,114.169773
+659,37,Victoria Skye,Kai Tak ,Flat F| Low Floor|  Ocean Waves Tower 2| Victoria Skye| Kai Tak ,1280,13500,2.0,2.0,,,43.823099,-79.3964749
+660,37,Deep Water Bay Road 39,Repulse Bay & Shouson Hill , House| Deep Water Bay Road 39| Repulse Bay & Shouson Hill ,28000,13500,4.0,2.0,32.0,84.0,22.245883,114.177979
+661,37,Liberte,Lai Chi Kok ,Flat G| Low Floor|  Block 5| Liberte| Lai Chi Kok ,978,13500,2.0,2.0,15.0,78.0,22.3377817,114.1359272
+662,37,Residence Bel-Air,Pokfulam/Residence , Bel-Air Peak Rise (House)| Phase 5 (Villa Bel-Air)| Residence Bel-Air| Pokfulam/Residence ,29800,13500,,,12.0,68.0,22.2679201,114.1290719
+663,37,Bon-Point,Western Mid-Levels ,Flat B| High Floor|  Bon-Point| Western Mid-Levels ,2900,13500,3.0,2.0,15.0,70.0,22.2816223,114.147865
+664,37,Aria,Wong Tai Sin ,Flat A| Middle Floor|  Block 5| Aria| Wong Tai Sin ,2300,13500,4.0,2.0,8.0,79.0,37.7775324,-122.4637922
+665,37,Wan Chai,Causeway Bay ,Flat 5| High Floor|  Southorn Garden| Admiralty| Wan Chai| Causeway Bay ,1050,13500,1.0,2.0,31.0,77.0,22.2859787,114.1914919
+666,38,Windsor Court,Western Mid-Levels ,Flat C| High Floor|  Windsor Court| Western Mid-Levels ,750,13500,1.0,,25.0,71.0,22.2816223,114.147865
+667,38,The Hudson,Western/Sheung Wan Central ,Flat C| High Floor|  The Hudson| Western/Sheung Wan Central ,2000,13500,3.0,2.0,3.0,,37.0937489,-95.7127622
+668,38,Claymore Lodge,Happy Valley/East Mid Level ,Flat A| High Floor|  Claymore Lodge| Happy Valley/East Mid Level ,650,13500,1.0,,29.0,67.0,42.3486922,-72.5682945
+669,38,South Horizons,Ap Lei Chau ,Flat E| Low Floor|  Block 08| Phase 2| South Horizons| Ap Lei Chau ,1600,13500,3.0,2.0,26.0,79.0,22.2418581,114.1528532
+670,38,Park Towers,North Point & North Point Midlevel ,Flat E| High Floor|  Block 1| Park Towers| North Point & North Point Midlevel ,2570,13500,3.0,2.0,30.0,78.0,37.1222422,-94.47484299999999
+671,38,Kornhill,Quarry Bay ,Flat 9| Low Floor|  Block D| Kornhill| Quarry Bay ,1000,13500,3.0,2.0,33.0,79.0,22.2827206,114.2123009
+672,38,Everwell Garden,Homantin/Kingspark ,Flat G| Low Floor|  Everwell Gdn| Everwell Garden| Homantin/Kingspark ,2500,13500,4.0,2.0,47.0,91.0,22.318507,114.1755339
+673,38,Yuk Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,580,13500,,,23.0,73.0,22.3119357,114.2568776
+674,38,Peaceful Mansion,Cheung Sha Wan ,Flat E| Middle Floor|  Peaceful Mansion| Cheung Sha Wan ,630,13500,,,17.0,,22.3358055,114.1494892
+675,38,Aquamarine,Lai Chi Kok ,Flat D| Low Floor|  Block 5| Aquamarine| Lai Chi Kok ,900,13500,2.0,2.0,15.0,74.0,22.3377817,114.1359272
+676,38,Lime Stardom,Mongkok ,Flat K| Middle Floor|  Lime Stardom| Mongkok ,838,13500,1.0,2.0,7.0,78.0,22.3203648,114.169773
+677,38,Victoria Skye,Kai Tak ,Flat F| Low Floor|  Ocean Waves Tower 2| Victoria Skye| Kai Tak ,1280,13500,2.0,2.0,,,43.823099,-79.3964749
+678,38,Deep Water Bay Road 39,Repulse Bay & Shouson Hill , House| Deep Water Bay Road 39| Repulse Bay & Shouson Hill ,28000,13500,4.0,2.0,32.0,84.0,22.245883,114.177979
+679,38,Liberte,Lai Chi Kok ,Flat G| Low Floor|  Block 5| Liberte| Lai Chi Kok ,978,13500,2.0,2.0,15.0,78.0,22.3377817,114.1359272
+680,38,Residence Bel-Air,Pokfulam/Residence , Bel-Air Peak Rise (House)| Phase 5 (Villa Bel-Air)| Residence Bel-Air| Pokfulam/Residence ,29800,13500,,,12.0,68.0,22.2679201,114.1290719
+681,38,Bon-Point,Western Mid-Levels ,Flat B| High Floor|  Bon-Point| Western Mid-Levels ,2900,13500,3.0,2.0,15.0,70.0,22.2816223,114.147865
+682,38,Aria,Wong Tai Sin ,Flat A| Middle Floor|  Block 5| Aria| Wong Tai Sin ,2300,13500,4.0,2.0,8.0,79.0,37.7775324,-122.4637922
+683,38,Wan Chai,Causeway Bay ,Flat 5| High Floor|  Southorn Garden| Admiralty| Wan Chai| Causeway Bay ,1050,13500,1.0,2.0,31.0,77.0,22.2859787,114.1914919
+684,39,The Bellevue Place,Western/Sheung Wan Central ,Flat D| Middle Floor|  The Bellevue Place| Western/Sheung Wan Central ,810,13500,2.0,,19.0,71.0,37.0937489,-95.7127622
+685,39,Eltanin．Square Mile,Tai Kok Tsui ,Flat E| High Floor|  Block 1| Eltanin．Square Mile| Tai Kok Tsui ,500,13500,,2.0,2.0,,22.3198474,114.1620857
+686,39,Talloway Court,Stanley/Tai Tam/Shek O , Talloway Court| Stanley/Tai Tam/Shek O ,1200,13500,,,42.0,74.0,37.09024,-95.712891
+687,39,Discovery Park,Tsuen Wan ,Flat A| High Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,1200,13500,3.0,2.0,21.0,80.0,22.3699122,114.1144306
+688,39,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,820,13500,,,2.0,,22.3119357,114.2568776
+689,39,Kennedy Town Centre,Western/Sheung Wan Central ,Flat E| High Floor|  Kennedy Town Centre| Western/Sheung Wan Central ,1500,13500,3.0,1.0,24.0,78.0,37.0937489,-95.7127622
+690,39,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 5| Phase III| Banyan Garden| Lai Chi Kok ,1600,13500,,,14.0,73.0,22.3377817,114.1359272
+691,39,Wan Chai,Causeway Bay ,Flat 191| High Floor|  Linfond Mansion| Admiralty| Wan Chai| Causeway Bay ,868,13500,3.0,,53.0,80.0,22.2859787,114.1914919
+692,39,Taikoo Shing,Taikoo Shing ,Flat A| Middle Floor|  Yat Tien Mansion| Horizon Gardens| Taikoo Shing| Taikoo Shing ,1450,13500,2.0,2.0,30.0,83.0,22.2865471,114.2189883
+693,39,The Harbourside,Kowloon Station ,Flat B| High Floor|  Block 1| The Harbourside| Kowloon Station ,7000,13500,3.0,1.0,16.0,74.0,22.304306,114.161475
+694,39,Taikoo Shing,Taikoo Shing ,Flat F| Low Floor|  Willow Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,1610,13500,3.0,2.0,36.0,91.0,22.2865471,114.2189883
+695,39,Les Saisons,Sai Wan Ho ,Flat B| Low Floor|  Lhiver| Les Saisons| Sai Wan Ho ,1400,13500,2.0,,17.0,74.0,22.2824738,114.2227035
+696,39,Residence 228,Sham Shui Po ,Flat B| Low Floor|  Residence 228| Sham Shui Po ,750,13500,1.0,1.0,7.0,73.0,22.3285899,114.1602846
+697,39,Grandview Garden,Aberdeen / Wong Chuk Hang ,Flat A| Middle Floor|  Block 1| Grandview Garden| Aberdeen / Wong Chuk Hang ,680,13500,2.0,2.0,34.0,73.0,57.149717,-2.094278
+698,39,Hoi Lee Building,Western/Sheung Wan Central , Hoi Lee Building| Western/Sheung Wan Central ,650,13500,2.0,1.0,39.0,,37.0937489,-95.7127622
+699,39,Parkway Court,Western Mid-Levels ,Flat 5| Low Floor|  Block A| Parkway Court| Western Mid-Levels ,2500,13500,3.0,2.0,31.0,83.0,22.2816223,114.147865
+700,39,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Glee Path 11| Phase II| Mei Foo Sun Chuen| Mei Foo ,1030,13500,3.0,2.0,47.0,73.0,22.3366356,114.1402195
+701,39,The Wings,Tseung Kwan O ,Flat D| Low Floor|  Tower 8| Phase 1| The Wings| Tseung Kwan O ,1050,13500,,,7.0,77.0,22.3119357,114.2568776
+702,40,The Bellevue Place,Western/Sheung Wan Central ,Flat D| Middle Floor|  The Bellevue Place| Western/Sheung Wan Central ,810,13500,2.0,,19.0,71.0,37.0937489,-95.7127622
+703,40,Eltanin．Square Mile,Tai Kok Tsui ,Flat E| High Floor|  Block 1| Eltanin．Square Mile| Tai Kok Tsui ,500,13500,,2.0,2.0,,22.3198474,114.1620857
+704,40,Talloway Court,Stanley/Tai Tam/Shek O , Talloway Court| Stanley/Tai Tam/Shek O ,1200,13500,,,42.0,74.0,37.09024,-95.712891
+705,40,Discovery Park,Tsuen Wan ,Flat A| High Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,1200,13500,3.0,2.0,21.0,80.0,22.3699122,114.1144306
+706,40,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,820,13500,,,2.0,,22.3119357,114.2568776
+707,40,Kennedy Town Centre,Western/Sheung Wan Central ,Flat E| High Floor|  Kennedy Town Centre| Western/Sheung Wan Central ,1500,13500,3.0,1.0,24.0,78.0,37.0937489,-95.7127622
+708,40,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 5| Phase III| Banyan Garden| Lai Chi Kok ,1600,13500,,,14.0,73.0,22.3377817,114.1359272
+709,40,Wan Chai,Causeway Bay ,Flat 191| High Floor|  Linfond Mansion| Admiralty| Wan Chai| Causeway Bay ,868,13500,3.0,,53.0,80.0,22.2859787,114.1914919
+710,40,Taikoo Shing,Taikoo Shing ,Flat A| Middle Floor|  Yat Tien Mansion| Horizon Gardens| Taikoo Shing| Taikoo Shing ,1450,13500,2.0,2.0,30.0,83.0,22.2865471,114.2189883
+711,40,The Harbourside,Kowloon Station ,Flat B| High Floor|  Block 1| The Harbourside| Kowloon Station ,7000,13500,3.0,1.0,16.0,74.0,22.304306,114.161475
+712,40,Taikoo Shing,Taikoo Shing ,Flat F| Low Floor|  Willow Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,1610,13500,3.0,2.0,36.0,91.0,22.2865471,114.2189883
+713,40,Les Saisons,Sai Wan Ho ,Flat B| Low Floor|  Lhiver| Les Saisons| Sai Wan Ho ,1400,13500,2.0,,17.0,74.0,22.2824738,114.2227035
+714,40,Residence 228,Sham Shui Po ,Flat B| Low Floor|  Residence 228| Sham Shui Po ,750,13500,1.0,1.0,7.0,73.0,22.3285899,114.1602846
+715,40,Grandview Garden,Aberdeen / Wong Chuk Hang ,Flat A| Middle Floor|  Block 1| Grandview Garden| Aberdeen / Wong Chuk Hang ,680,13500,2.0,2.0,34.0,73.0,57.149717,-2.094278
+716,40,Hoi Lee Building,Western/Sheung Wan Central , Hoi Lee Building| Western/Sheung Wan Central ,650,13500,2.0,1.0,39.0,,37.0937489,-95.7127622
+717,40,Parkway Court,Western Mid-Levels ,Flat 5| Low Floor|  Block A| Parkway Court| Western Mid-Levels ,2500,13500,3.0,2.0,31.0,83.0,22.2816223,114.147865
+718,40,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Glee Path 11| Phase II| Mei Foo Sun Chuen| Mei Foo ,1030,13500,3.0,2.0,47.0,73.0,22.3366356,114.1402195
+719,40,The Wings,Tseung Kwan O ,Flat D| Low Floor|  Tower 8| Phase 1| The Wings| Tseung Kwan O ,1050,13500,,,7.0,77.0,22.3119357,114.2568776
+720,41,Alto Residences,Tseung Kwan O ,Flat B|  Tower 2| Alto Residences| Tseung Kwan O ,750,13500,1.0,2.0,1.0,,22.3119357,114.2568776
+721,41,King's Hill,Western/Sheung Wan Central ,Flat G| High Floor|  King's Hill| Western/Sheung Wan Central ,1200,13500,1.0,2.0,2.0,,37.0937489,-95.7127622
+722,41,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,700,13500,,,2.0,,22.3119357,114.2568776
+723,41,La Cite Noble,Tseung Kwan O ,Flat G| High Floor|  Block 2| La Cite Noble| Tseung Kwan O ,1150,13500,3.0,1.0,20.0,72.0,22.3119357,114.2568776
+724,41,The Hermitage,Olympic Station ,Flat C| High Floor|  Block 2| The Hermitage| Olympic Station ,2380,13500,,,8.0,75.0,34.050229,-118.2911404
+725,41,Scenecliff,Western Mid-Levels ,Flat C| High Floor|  Block 2| Scenecliff| Western Mid-Levels ,2100,13500,3.0,2.0,28.0,78.0,22.2816223,114.147865
+726,41,The Coronation,Tsim Sha Tsui ,Flat A| High Floor|  Block 6| The Coronation| Tsim Sha Tsui ,1300,13500,1.0,1.0,6.0,77.0,22.2988123,114.1721746
+727,41,Wan Chai,Causeway Bay ,Flat 252| Middle Floor|  Wang Gee Mansion| Wang Kee Building| Admiralty| Wan Chai| Causeway Bay ,898,13500,2.0,,49.0,80.0,22.2859787,114.1914919
+728,41,Wan Chai,Causeway Bay ,Flat A| Low Floor|  Block 2| Phase 1| The Zenith| Admiralty| Wan Chai| Causeway Bay ,1480,13500,1.0,,13.0,73.0,22.2859787,114.1914919
+729,41,Robinson Place,Western Mid-Levels ,Flat G| Low Floor|  Block 2| Robinson Place| Western Mid-Levels ,2800,13500,3.0,2.0,24.0,81.0,22.2816223,114.147865
+730,41,On Tai Mansion,Hung Hom/Whampoa ,Flat A| High Floor|  On Tai Mansion| Hung Hom/Whampoa ,592,13500,2.0,,32.0,,22.3055658,114.1887233
+731,41,Park Metropolitan,Kwun Tong ,Flat G| Low Floor|  Park Metropolitan| Kwun Tong ,1100,13500,2.0,1.0,5.0,,22.3103686,114.2227035
+732,41,Fortune Garden,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Fortune Garden| Yau Yat Chuen/Shek Kip Mei ,1450,13500,2.0,2.0,26.0,75.0,22.3312462,114.1744039
+733,41,Wan Chai,Causeway Bay ,Flat B| Low Floor|  Newtown Mansion| Admiralty| Wan Chai| Causeway Bay ,2600,13500,2.0,2.0,54.0,80.0,22.2859787,114.1914919
+734,41,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,1100,13500,1.0,1.0,3.0,71.0,22.2859787,114.1914919
+735,41,Mei Foo Sun Chuen,Mei Foo ,Flat C| Low Floor|  Nassau Street 34| Phase VI| Mei Foo Sun Chuen| Mei Foo ,820,13500,2.0,1.0,43.0,73.0,22.3366356,114.1402195
+736,41,The Pacifica,Lai Chi Kok ,Flat F| Middle Floor|  Block 6| Phase 2| The Pacifica| Lai Chi Kok ,960,13500,2.0,2.0,14.0,73.0,22.3377817,114.1359272
+737,41,City Garden,North Point & North Point Midlevel ,Flat B| High Floor|  Block 01| Phase 1| City Garden| North Point & North Point Midlevel ,1420,13500,3.0,2.0,36.0,90.0,37.1222422,-94.47484299999999
+738,42,Alto Residences,Tseung Kwan O ,Flat B|  Tower 2| Alto Residences| Tseung Kwan O ,750,13500,1.0,2.0,1.0,,22.3119357,114.2568776
+739,42,King's Hill,Western/Sheung Wan Central ,Flat G| High Floor|  King's Hill| Western/Sheung Wan Central ,1200,13500,1.0,2.0,2.0,,37.0937489,-95.7127622
+740,42,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,700,13500,,,2.0,,22.3119357,114.2568776
+741,42,La Cite Noble,Tseung Kwan O ,Flat G| High Floor|  Block 2| La Cite Noble| Tseung Kwan O ,1150,13500,3.0,1.0,20.0,72.0,22.3119357,114.2568776
+742,42,The Hermitage,Olympic Station ,Flat C| High Floor|  Block 2| The Hermitage| Olympic Station ,2380,13500,,,8.0,75.0,34.050229,-118.2911404
+743,42,Scenecliff,Western Mid-Levels ,Flat C| High Floor|  Block 2| Scenecliff| Western Mid-Levels ,2100,13500,3.0,2.0,28.0,78.0,22.2816223,114.147865
+744,42,The Coronation,Tsim Sha Tsui ,Flat A| High Floor|  Block 6| The Coronation| Tsim Sha Tsui ,1300,13500,1.0,1.0,6.0,77.0,22.2988123,114.1721746
+745,42,Wan Chai,Causeway Bay ,Flat 252| Middle Floor|  Wang Gee Mansion| Wang Kee Building| Admiralty| Wan Chai| Causeway Bay ,898,13500,2.0,,49.0,80.0,22.2859787,114.1914919
+746,42,Wan Chai,Causeway Bay ,Flat A| Low Floor|  Block 2| Phase 1| The Zenith| Admiralty| Wan Chai| Causeway Bay ,1480,13500,1.0,,13.0,73.0,22.2859787,114.1914919
+747,42,Robinson Place,Western Mid-Levels ,Flat G| Low Floor|  Block 2| Robinson Place| Western Mid-Levels ,2800,13500,3.0,2.0,24.0,81.0,22.2816223,114.147865
+748,42,On Tai Mansion,Hung Hom/Whampoa ,Flat A| High Floor|  On Tai Mansion| Hung Hom/Whampoa ,592,13500,2.0,,32.0,,22.3055658,114.1887233
+749,42,Park Metropolitan,Kwun Tong ,Flat G| Low Floor|  Park Metropolitan| Kwun Tong ,1100,13500,2.0,1.0,5.0,,22.3103686,114.2227035
+750,42,Fortune Garden,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Fortune Garden| Yau Yat Chuen/Shek Kip Mei ,1450,13500,2.0,2.0,26.0,75.0,22.3312462,114.1744039
+751,42,Wan Chai,Causeway Bay ,Flat B| Low Floor|  Newtown Mansion| Admiralty| Wan Chai| Causeway Bay ,2600,13500,2.0,2.0,54.0,80.0,22.2859787,114.1914919
+752,42,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,1100,13500,1.0,1.0,3.0,71.0,22.2859787,114.1914919
+753,42,Mei Foo Sun Chuen,Mei Foo ,Flat C| Low Floor|  Nassau Street 34| Phase VI| Mei Foo Sun Chuen| Mei Foo ,820,13500,2.0,1.0,43.0,73.0,22.3366356,114.1402195
+754,42,The Pacifica,Lai Chi Kok ,Flat F| Middle Floor|  Block 6| Phase 2| The Pacifica| Lai Chi Kok ,960,13500,2.0,2.0,14.0,73.0,22.3377817,114.1359272
+755,42,City Garden,North Point & North Point Midlevel ,Flat B| High Floor|  Block 01| Phase 1| City Garden| North Point & North Point Midlevel ,1420,13500,3.0,2.0,36.0,90.0,37.1222422,-94.47484299999999
+756,43,The Nova,Western/Sheung Wan Central ,Flat D|  The Nova| Western/Sheung Wan Central ,1150,13500,1.0,2.0,3.0,,37.0937489,-95.7127622
+757,43,Wan Chai,Causeway Bay ,Flat C| Low Floor|  The Oakhill| Admiralty| Wan Chai| Causeway Bay ,2350,13500,3.0,2.0,8.0,75.0,22.2859787,114.1914919
+758,43,Wan Chai,Causeway Bay ,Flat 3| High Floor|  Wai Tak Building| Admiralty| Wan Chai| Causeway Bay ,780,13500,2.0,2.0,47.0,80.0,22.2859787,114.1914919
+759,43,Academic Terrace,Western/Sheung Wan Central ,Flat F| High Floor|  Block 3| Academic Terrace| Western/Sheung Wan Central ,1450,13500,3.0,,29.0,84.0,37.0937489,-95.7127622
+760,43,Taikoo Shing,Taikoo Shing ,Flat G| Low Floor|  Kin On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,1050,13500,2.0,2.0,38.0,84.0,22.2865471,114.2189883
+761,43,Metro Town,Tseung Kwan O ,Flat G| High Floor|  Block 6| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,900,13500,2.0,2.0,11.0,75.0,22.3119357,114.2568776
+762,43,Residence Bel-Air,Pokfulam/Residence ,Flat A|  Block 6| Phase 6 (Bel-Air No.8)| Residence Bel-Air| Pokfulam/Residence ,4380,13500,3.0,2.0,10.0,71.0,22.2679201,114.1290719
+763,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,1500,13500,,,,,22.383689,114.2707867
+764,43,Park Metropolitan,Kwun Tong ,Flat E| Low Floor|  Park Metropolitan| Kwun Tong ,990,13500,2.0,1.0,5.0,,22.3103686,114.2227035
+765,43,Valiant Park,Western Mid-Levels ,Flat A| High Floor|  Valiant Park| Western Mid-Levels ,2180,13500,3.0,2.0,26.0,79.0,22.2816223,114.147865
+766,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,850,13500,,,,,22.383689,114.2707867
+767,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,1500,13500,,,,,22.383689,114.2707867
+768,43,Mei Foo Sun Chuen,Mei Foo ,Flat A| Middle Floor|  Nassau Street 09| Phase V| Mei Foo Sun Chuen| Mei Foo ,1038,13500,2.0,1.0,46.0,76.0,22.3366356,114.1402195
+769,43,Sea View Mansion,Western/Sheung Wan Central ,Flat C| High Floor|  Sea View Mansion| Western/Sheung Wan Central ,850,13500,,,40.0,78.0,37.0937489,-95.7127622
+770,43,Wai Wah Court,Western/Sheung Wan Central ,Flat A| High Floor|  Wai Wah Court| Western/Sheung Wan Central ,1298,13500,3.0,,24.0,69.0,37.0937489,-95.7127622
+771,43,Chuang's-On-The-Park,North Point & North Point Midlevel ,Flat B| Middle Floor|  Chuang's-On-The-Park| North Point & North Point Midlevel ,1088,13500,1.0,2.0,26.0,76.0,37.1222422,-94.47484299999999
+772,43,Amoy Gardens,Amoy/Kowloon Bay ,Flat 8| Middle Floor|  Block F| Phase 1| Amoy Gardens| Amoy/Kowloon Bay ,700,13500,2.0,2.0,38.0,78.0,24.479833,118.089425
+773,43,Taikoo Shing,Taikoo Shing ,Flat H| High Floor|  Banyan Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,2870,13500,3.0,2.0,36.0,90.0,22.2865471,114.2189883
+774,44,Wan Chai,Causeway Bay ,Flat A| High Floor|  Pao Woo Mansion| Admiralty| Wan Chai| Causeway Bay ,700,13500,2.0,,46.0,71.0,22.2859787,114.1914919
+775,44,Crescent Heights,Happy Valley/East Mid Level ,Flat G| Low Floor|  Crescent Heights| Happy Valley/East Mid Level ,2680,13500,3.0,2.0,22.0,79.0,42.3486922,-72.5682945
+776,44,Cheung Wo Court,Kwun Tong ,Flat 4| Middle Floor|  Block D ( Wo Kin House )| Cheung Wo Court| Kwun Tong ,720,13500,3.0,2.0,35.0,83.0,22.3103686,114.2227035
+777,44,Primrose Court,Western Mid-Levels ,Flat C| High Floor|  Primrose Court| Western Mid-Levels ,1500,13500,2.0,2.0,25.0,82.0,22.2816223,114.147865
+778,44,Metro Town,Tseung Kwan O ,Flat F| Middle Floor|  Tower 1| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,1250,13500,,,13.0,72.0,22.3119357,114.2568776
+779,44,Metro Harbour View,Tai Kok Tsui ,Flat E| High Floor|  Block 05| Phase 2| Metro Harbour View| Tai Kok Tsui ,750,13500,,2.0,15.0,72.0,22.3198474,114.1620857
+780,44,Metro Harbour View,Tai Kok Tsui ,Flat D| Middle Floor|  Block 09| Phase 2| Metro Harbour View| Tai Kok Tsui ,750,13500,,,15.0,70.0,22.3198474,114.1620857
+781,44,Green View Court,Western/Sheung Wan Central ,Flat A|  Green View Court| Western/Sheung Wan Central ,780,13500,2.0,,39.0,69.0,37.0937489,-95.7127622
+782,44,Winfield Building,Happy Valley/East Mid Level ,Flat 1| Low Floor|  Block C| Winfield Building| Happy Valley/East Mid Level ,3800,13500,3.0,2.0,34.0,82.0,42.3486922,-72.5682945
+783,44,The Pacifica,Lai Chi Kok ,Flat F| High Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,950,13500,2.0,,14.0,70.0,22.3377817,114.1359272
+784,44,Lime Stardom,Mongkok ,Flat D| High Floor|  Lime Stardom| Mongkok ,980,13500,,,7.0,78.0,22.3203648,114.169773
+785,44,Yue Man Centre,Kwun Tong ,Flat C| Low Floor|  Block 2| Yue Man Centre| Kwun Tong ,980,13500,3.0,,31.0,81.0,22.3103686,114.2227035
+786,44,The Palace,Kln Tong / Beacon Hill ,Flat C| Low Floor|  The Palace| Kln Tong / Beacon Hill ,2020,13500,2.0,2.0,16.0,75.0,22.3369319,114.1763367
+787,44,Redhill Peninsula,Stanley/Tai Tam/Shek O , Palm Drive (House)| Phase 1| Redhill Peninsula| Stanley/Tai Tam/Shek O ,11000,13500,4.0,2.0,28.0,90.0,37.09024,-95.712891
+788,44,Cluny Park,Western Mid-Levels ,Middle Floor|  Cluny Park| Western Mid-Levels ,5290,13500,3.0,2.0,4.0,,22.2816223,114.147865
+789,44,South Horizons,Ap Lei Chau ,Flat B| High Floor|  Block 13A| Phase 2| South Horizons| Ap Lei Chau ,1200,13500,3.0,2.0,26.0,81.0,22.2418581,114.1528532
+790,44,Metro Harbour View,Tai Kok Tsui ,Flat H| High Floor|  Block 03| Phase 1| Metro Harbour View| Tai Kok Tsui ,740,13500,2.0,2.0,16.0,68.0,22.3198474,114.1620857
+791,44,Shing Loong Court,North Point & North Point Midlevel ,Flat B| High Floor|  Shing Loong Court| North Point & North Point Midlevel ,3250,13500,3.0,2.0,33.0,82.0,37.1222422,-94.47484299999999
+792,45,Elm Tree Towers,Happy Valley/East Mid Level ,Flat A1| Low Floor|  Block A| Elm Tree Towers| Happy Valley/East Mid Level ,4300,13500,3.0,2.0,35.0,77.0,42.3486922,-72.5682945
+793,45,Taikoo Shing,Taikoo Shing ,Flat E| Middle Floor|  Loong Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,1348,13500,3.0,2.0,40.0,87.0,22.2865471,114.2189883
+794,45,No.8 Clear Water Bay Road,Wong Tai Sin ,Flat H| Middle Floor|  Clear Water Bay Road 8| No.8 Clear Water Bay Road| Wong Tai Sin ,1550,13500,4.0,2.0,13.0,75.0,37.7775324,-122.4637922
+795,45,Wan Chai,Causeway Bay ,Flat I| Low Floor|  Malahon Apartments| Admiralty| Wan Chai| Causeway Bay ,580,13500,,,52.0,81.0,22.2859787,114.1914919
+796,45,Tseung Kwan O Plaza,Tseung Kwan O ,Flat F| High Floor|  Block 3A| Phase 1| Tseung Kwan O Plaza| Tseung Kwan O ,850,13500,2.0,1.0,16.0,73.0,22.3119357,114.2568776
+797,45,Ta Ho Tun Sheung Wai,Sai Kung , Ta Ho Tun Sheung Wai| Sai Kung ,1920,13500,,,,,22.383689,114.2707867
+798,45,The Ascent,Cheung Sha Wan ,Flat C| High Floor|  The Ascent| Cheung Sha Wan ,660,13500,1.0,,1.0,,22.3358055,114.1494892
+799,45,Ocean Shores,Tseung Kwan O ,Flat H| Middle Floor|  Block 17| Phase 3| Ocean Shores| Tseung Kwan O ,960,13500,,,16.0,73.0,22.3119357,114.2568776
+800,45,Corona Tower,Western Mid-Levels ,Flat E| Middle Floor|  Corona Tower| Western Mid-Levels ,850,13500,1.0,2.0,29.0,84.0,22.2816223,114.147865
+801,45,Paradise Square,Jordan ,Flat F| High Floor|  Paradise Square| Jordan ,1055,13500,,,16.0,71.0,30.585164,36.238414
+802,45,Lohas Park,Tseung Kwan O ,Flat A| Middle Floor|  Tower 3 L| Le Prestige| Lohas Park| Tseung Kwan O ,900,13500,,,9.0,75.0,22.3119357,114.2568776
+803,45,Ava 62,Jordan ,Flat D|  Ava 62| Jordan ,600,13500,,,2.0,,30.585164,36.238414
+804,45,Kowloon Tong Court,Kln Tong / Beacon Hill ,Flat A2|  Kowloon Tong Court| Kln Tong / Beacon Hill ,2980,13500,,,54.0,80.0,22.3369319,114.1763367
+805,45,Heya Aqua,Cheung Sha Wan ,Flat E| Middle Floor|  Block 1| Heya Aqua| Cheung Sha Wan ,680,13500,1.0,,2.0,,22.3358055,114.1494892
+806,45,Cosmopolitan Estate,Tai Kok Tsui ,Flat 6| Low Floor|  Tai Wing Building| Cosmopolitan Estate| Tai Kok Tsui ,468,13500,,,44.0,76.0,22.3198474,114.1620857
+807,45,Wan Chai,Causeway Bay ,Flat D3| Low Floor|  Block D| Paterson Building| Admiralty| Wan Chai| Causeway Bay ,1128,13500,2.0,2.0,59.0,75.0,22.2859787,114.1914919
+808,45,Conwell Villa,Yau Yat Chuen/Shek Kip Mei , 1 Cassia Road (House)| Conwell Villa| Yau Yat Chuen/Shek Kip Mei ,4880,13500,3.0,2.0,22.0,76.0,22.3312462,114.1744039
+809,45,Island Garden,Shau Kei Wan/Chai Wan ,Flat E| Low Floor|  Block 5| Island Garden| Shau Kei Wan/Chai Wan ,1700,13500,2.0,,,,22.278746,114.2286476
+810,46,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| High Floor|  Block 1| Pacific View| Stanley/Tai Tam/Shek O ,3800,13500,3.0,2.0,28.0,79.0,37.09024,-95.712891
+811,46,Beacon Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 06| Phase 4| Beacon Heights| Yau Yat Chuen/Shek Kip Mei ,1650,13500,3.0,2.0,32.0,83.0,22.3312462,114.1744039
+812,46,La Cite Noble,Tseung Kwan O ,Flat B| Middle Floor|  Block 6| La Cite Noble| Tseung Kwan O ,900,13500,3.0,2.0,20.0,73.0,22.3119357,114.2568776
+813,46,Kingston Mansion,Ap Lei Chau ,Flat A|  Kingston Mansion| Ap Lei Chau ,848,13500,,,18.0,69.0,22.2418581,114.1528532
+814,46,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 1 - T1A| Grand Austin| Tsim Sha Tsui ,3800,13500,3.0,1.0,4.0,,22.2988123,114.1721746
+815,46,Winfield Building,Happy Valley/East Mid Level ,Flat A2| Low Floor|  Block A| Winfield Building| Happy Valley/East Mid Level ,5800,13500,4.0,2.0,34.0,79.0,42.3486922,-72.5682945
+816,46,Harbour Pinnacle,Tsim Sha Tsui ,Flat E|  Harbour Pinnacle| Tsim Sha Tsui ,1200,13500,1.0,1.0,17.0,73.0,22.2988123,114.1721746
+817,46,Taikoo Shing,Taikoo Shing ,Flat H| Low Floor|  Marigold Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,2280,13500,4.0,2.0,34.0,97.0,22.2865471,114.2189883
+818,46,Dragon Court,Homantin/Kingspark ,Flat 3| Low Floor|  Dragon Court| Homantin/Kingspark ,1300,13500,3.0,2.0,52.0,75.0,22.318507,114.1755339
+819,46,Tak Bo Building,Yau Ma Tei ,Flat B5| High Floor|  Tak Po Building| Tak Bo Building| Yau Ma Tei ,750,13500,,,39.0,,22.3068537,114.1714423
+820,46,The Wings,Tseung Kwan O ,Flat B| Low Floor|  Block 1B| Phase 2| The Wings| Tseung Kwan O ,1388,13500,4.0,2.0,5.0,78.0,22.3119357,114.2568776
+821,46,Ihong Mansion,Western Mid-Levels ,Low Floor|  Ihong Mansion| Western Mid-Levels ,1800,13500,3.0,2.0,34.0,78.0,22.2816223,114.147865
+822,46,Capri,Tseung Kwan O ,Middle Floor|  Block 03| Capri| Tseung Kwan O ,2388,13500,,,2.0,,22.3119357,114.2568776
+823,46,Baguio Villa,Pokfulam/Residence ,Flat C| Low Floor|  Block 20| Baguio Villa| Pokfulam/Residence ,2650,13500,3.0,2.0,39.0,90.0,22.2679201,114.1290719
+824,46,Laichikok Bay Garden,Kwai Chung/Tsing Yi ,Flat 4| High Floor|  Block B| Laichikok Bay Garden| Kwai Chung/Tsing Yi ,750,13500,2.0,1.0,41.0,89.0,22.3668502,114.1302591
+825,46,Jardine's Lookout Garden Houses,Happy Valley/East Mid Level , 21-50 Moorsom Road (House)| Jardine's Lookout Garden Houses| Happy Valley/East Mid Level ,12500,13500,5.0,2.0,42.0,,42.3486922,-72.5682945
+826,46,Monterey,Tseung Kwan O ,Flat D| Low Floor|  Tower 5| Monterey| Tseung Kwan O ,1700,13500,,,1.0,,22.3119357,114.2568776
+827,46,Wan Chai,Causeway Bay , Wan Fat Building| Admiralty| Wan Chai| Causeway Bay ,760,13500,4.0,,48.0,81.0,22.2859787,114.1914919
+828,47,Kornhill,Quarry Bay ,Flat 7| Middle Floor|  Block N| Kornhill| Quarry Bay ,939,13500,1.0,2.0,32.0,79.0,22.2827206,114.2123009
+829,47,Liberte,Lai Chi Kok ,Flat B| Low Floor|  Block 5| Liberte| Lai Chi Kok ,870,13500,,,15.0,75.0,22.3377817,114.1359272
+830,47,United Building,North Point & North Point Midlevel ,Flat A| Low Floor|  United Building| North Point & North Point Midlevel ,1200,13500,3.0,2.0,52.0,80.0,37.1222422,-94.47484299999999
+831,47,Honiton Building,Western Mid-Levels ,Flat A| High Floor|  Honiton Building| Western Mid-Levels ,6000,13500,3.0,2.0,46.0,80.0,22.2816223,114.147865
+832,47,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 5| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,5600,13500,,,12.0,,42.3486922,-72.5682945
+833,47,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 4| Marina Cove| Sai Kung ,3500,13500,,,30.0,72.0,22.383689,114.2707867
+834,47,Charming Garden,Olympic Station ,Flat J| Low Floor|  Block 10| Charming Garden| Olympic Station ,830,13500,,,21.0,85.0,34.050229,-118.2911404
+835,47,Centre Place,Western Mid-Levels ,Flat A| Low Floor|  Centre Place| Western Mid-Levels ,1530,13500,3.0,2.0,13.0,73.0,22.2816223,114.147865
+836,47,Liberte,Lai Chi Kok ,Flat H| High Floor|  Block 8| Liberte| Lai Chi Kok ,870,13500,2.0,2.0,15.0,76.0,22.3377817,114.1359272
+837,47,The Parkside,Tseung Kwan O ,Flat D|  Block 3| The Parkside| Tseung Kwan O ,1248,13500,,,3.0,,22.3119357,114.2568776
+838,47,Sherwood Court,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 1| Sherwood Court| Happy Valley/East Mid Level ,1680,13500,3.0,,30.0,88.0,42.3486922,-72.5682945
+839,47,Windsor Court,Western Mid-Levels ,Flat D| Low Floor|  Windsor Court| Western Mid-Levels ,1150,13500,1.0,,25.0,73.0,22.2816223,114.147865
+840,47,Yip Cheung Building,Western/Sheung Wan Central ,Flat 26|  Yip Cheung Building| Western/Sheung Wan Central ,820,13500,3.0,,48.0,,37.0937489,-95.7127622
+841,47,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat A| Middle Floor|  Block 21| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,1300,13500,3.0,2.0,25.0,80.0,22.3312462,114.1744039
+842,47,Jade Terrace,Happy Valley/East Mid Level ,Flat D| Middle Floor|  Jade Terrace| Happy Valley/East Mid Level ,1420,13500,3.0,2.0,30.0,76.0,42.3486922,-72.5682945
+843,47,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 5 - T5A| Grand Austin| Tsim Sha Tsui ,3936,13500,3.0,1.0,4.0,,22.2988123,114.1721746
+844,47,Ping On Mansion,Western Mid-Levels ,Flat E| Low Floor|  Ping On Mansion| Western Mid-Levels ,1388,13500,2.0,,61.0,70.0,22.2816223,114.147865
+845,47,Twin Peaks,Tseung Kwan O ,Flat J| Middle Floor|  Tower 1| Twin Peaks| Tseung Kwan O ,1100,13500,,,3.0,,22.3119357,114.2568776
+846,48,The Hemispheres,North Point & North Point Midlevel ,Flat A| Middle Floor|  The Hemispheres| North Point & North Point Midlevel ,1350,13500,2.0,1.0,4.0,,37.1222422,-94.47484299999999
+847,48,Park Central,Tseung Kwan O ,Flat C| High Floor|  Block 08| Phase 1| Park Central| Tseung Kwan O ,800,13500,,,16.0,74.0,22.3119357,114.2568776
+848,48,Sorrento,Kowloon Station ,Flat F| Middle Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,3000,13500,3.0,1.0,16.0,75.0,22.304306,114.161475
+849,48,Ocean Shores,Tseung Kwan O ,Flat D| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,900,13500,,,17.0,74.0,22.3119357,114.2568776
+850,48,Wan Chai,Causeway Bay ,Flat H| Low Floor|  Yee On Building| Admiralty| Wan Chai| Causeway Bay ,850,13500,2.0,2.0,46.0,85.0,22.2859787,114.1914919
+851,48,Arezzo,Western Mid-Levels ,Flat C| Low Floor|  Arezzo| Western Mid-Levels ,3100,13500,3.0,,4.0,,22.2816223,114.147865
+852,48,Wyler Gardens,To Kwa Wan ,Flat 5| High Floor|  Block J| Hang Chien Court| Wyler Gardens| To Kwa Wan ,530,13500,2.0,2.0,40.0,85.0,22.3173373,114.1879691
+853,48,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,4400,13500,3.0,1.0,12.0,73.0,22.304306,114.161475
+854,48,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,2100,13500,2.0,2.0,30.0,82.0,22.2816223,114.147865
+855,48,Wan Chai,Causeway Bay ,Flat F|  Bright Star Mansion| Admiralty| Wan Chai| Causeway Bay ,1500,13500,2.0,2.0,54.0,80.0,22.2859787,114.1914919
+856,48,Metro Town,Tseung Kwan O ,Flat A| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,908,13500,2.0,2.0,13.0,75.0,22.3119357,114.2568776
+857,48,Aberdeen Centre,Aberdeen / Wong Chuk Hang ,Flat 5| High Floor|  Kong Cheung Court| Aberdeen Centre| Aberdeen / Wong Chuk Hang ,800,13500,3.0,2.0,37.0,85.0,57.149717,-2.094278
+858,48,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,2298,13500,2.0,2.0,3.0,,22.3055658,114.1887233
+859,48,Baguio Villa,Pokfulam/Residence ,Flat A| High Floor|  Block 23| Baguio Villa| Pokfulam/Residence ,3000,13500,,,39.0,89.0,22.2679201,114.1290719
+860,48,Kowloon Tong Garden,Kln Tong / Beacon Hill ,Low Floor|  Kowloon Tong Garden| Kln Tong / Beacon Hill ,6000,13500,4.0,2.0,31.0,74.0,22.3369319,114.1763367
+861,48,Wan Chai,Causeway Bay ,Flat 29| Low Floor|  East Asia Mansion| Admiralty| Wan Chai| Causeway Bay ,780,13500,2.0,2.0,53.0,80.0,22.2859787,114.1914919
+862,48,Kensington Plaza,Mongkok ,Flat C| High Floor|  Kensington Plaza| Mongkok ,1580,13500,3.0,1.0,20.0,72.0,22.3203648,114.169773
+863,48,Garfield Mansion,Western Mid-Levels ,Flat C| Low Floor|  Garfield Mansion| Western Mid-Levels ,1880,13500,3.0,,45.0,77.0,22.2816223,114.147865
+864,49,The Hemispheres,North Point & North Point Midlevel ,Flat A| Middle Floor|  The Hemispheres| North Point & North Point Midlevel ,1350,13500,2.0,1.0,4.0,,37.1222422,-94.47484299999999
+865,49,Park Central,Tseung Kwan O ,Flat C| High Floor|  Block 08| Phase 1| Park Central| Tseung Kwan O ,800,13500,,,16.0,74.0,22.3119357,114.2568776
+866,49,Sorrento,Kowloon Station ,Flat F| Middle Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,3000,13500,3.0,1.0,16.0,75.0,22.304306,114.161475
+867,49,Ocean Shores,Tseung Kwan O ,Flat D| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,900,13500,,,17.0,74.0,22.3119357,114.2568776
+868,49,Wan Chai,Causeway Bay ,Flat H| Low Floor|  Yee On Building| Admiralty| Wan Chai| Causeway Bay ,850,13500,2.0,2.0,46.0,85.0,22.2859787,114.1914919
+869,49,Arezzo,Western Mid-Levels ,Flat C| Low Floor|  Arezzo| Western Mid-Levels ,3100,13500,3.0,,4.0,,22.2816223,114.147865
+870,49,Wyler Gardens,To Kwa Wan ,Flat 5| High Floor|  Block J| Hang Chien Court| Wyler Gardens| To Kwa Wan ,530,13500,2.0,2.0,40.0,85.0,22.3173373,114.1879691
+871,49,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,4400,13500,3.0,1.0,12.0,73.0,22.304306,114.161475
+872,49,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,2100,13500,2.0,2.0,30.0,82.0,22.2816223,114.147865
+873,49,Wan Chai,Causeway Bay ,Flat F|  Bright Star Mansion| Admiralty| Wan Chai| Causeway Bay ,1500,13500,2.0,2.0,54.0,80.0,22.2859787,114.1914919
+874,49,Metro Town,Tseung Kwan O ,Flat A| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,908,13500,2.0,2.0,13.0,75.0,22.3119357,114.2568776
+875,49,Aberdeen Centre,Aberdeen / Wong Chuk Hang ,Flat 5| High Floor|  Kong Cheung Court| Aberdeen Centre| Aberdeen / Wong Chuk Hang ,800,13500,3.0,2.0,37.0,85.0,57.149717,-2.094278
+876,49,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,2298,13500,2.0,2.0,3.0,,22.3055658,114.1887233
+877,49,Baguio Villa,Pokfulam/Residence ,Flat A| High Floor|  Block 23| Baguio Villa| Pokfulam/Residence ,3000,13500,,,39.0,89.0,22.2679201,114.1290719
+878,49,Kowloon Tong Garden,Kln Tong / Beacon Hill ,Low Floor|  Kowloon Tong Garden| Kln Tong / Beacon Hill ,6000,13500,4.0,2.0,31.0,74.0,22.3369319,114.1763367
+879,49,Wan Chai,Causeway Bay ,Flat 29| Low Floor|  East Asia Mansion| Admiralty| Wan Chai| Causeway Bay ,780,13500,2.0,2.0,53.0,80.0,22.2859787,114.1914919
+880,49,Kensington Plaza,Mongkok ,Flat C| High Floor|  Kensington Plaza| Mongkok ,1580,13500,3.0,1.0,20.0,72.0,22.3203648,114.169773
+881,49,Garfield Mansion,Western Mid-Levels ,Flat C| Low Floor|  Garfield Mansion| Western Mid-Levels ,1880,13500,3.0,,45.0,77.0,22.2816223,114.147865
+882,50,The Victoria Towers,Tsim Sha Tsui ,Flat A| Middle Floor|  Block 1| The Victoria Towers| Tsim Sha Tsui ,1500,13500,2.0,1.0,16.0,69.0,22.2988123,114.1721746
+883,50,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3A| Grand Austin| Tsim Sha Tsui ,4300,13500,3.0,1.0,4.0,,22.2988123,114.1721746
+884,50,The Altitude,Happy Valley/East Mid Level ,Flat A| Low Floor|  The Altitude| Happy Valley/East Mid Level ,4200,13500,3.0,2.0,8.0,78.0,42.3486922,-72.5682945
+885,50,Chenyu Court,Central Mid-Levels & Peak ,High Floor|  Chenyu Court| Central Mid-Levels & Peak ,3400,13500,2.0,2.0,53.0,81.0,22.2695676,114.1658745
+886,50,Metro Harbour View,Tai Kok Tsui ,Flat F| High Floor|  Block 08| Phase 2| Metro Harbour View| Tai Kok Tsui ,810,13500,,,15.0,71.0,22.3198474,114.1620857
+887,50,The Long Beach,Olympic Station ,Flat C| High Floor|  Block 7| The Long Beach| Olympic Station ,1250,13500,2.0,1.0,14.0,75.0,34.050229,-118.2911404
+888,50,Harbour One,Western/Sheung Wan Central ,Flat B| High Floor|  Harbour One| Western/Sheung Wan Central ,3600,13500,3.0,2.0,7.0,74.0,37.0937489,-95.7127622
+889,50,Stanford Villa,Stanley/Tai Tam/Shek O , Block 4| Stanford Villa| Stanley/Tai Tam/Shek O ,3180,13500,3.0,2.0,24.0,81.0,37.09024,-95.712891
+890,50,The Masterpiece,Tsim Sha Tsui ,Flat A| High Floor|  The Masterpiece| Tsim Sha Tsui ,3500,13500,3.0,1.0,10.0,72.0,22.2988123,114.1721746
+891,50,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,2950,13500,2.0,2.0,30.0,82.0,22.2816223,114.147865
+892,50,Telford Gardens,Amoy/Kowloon Bay ,Flat 14| High Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,800,13500,2.0,2.0,37.0,87.0,24.479833,118.089425
+893,50,Telford Gardens,Amoy/Kowloon Bay ,Flat 6| Low Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,750,13500,2.0,2.0,37.0,87.0,24.479833,118.089425
+894,50,Splendour Villa,Repulse Bay & Shouson Hill ,Flat B| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,1800,13500,1.0,,25.0,77.0,22.245883,114.177979
+895,50,Metro City,Tseung Kwan O ,Flat A| Middle Floor|  Block 05| Phase 1| Metro City| Tseung Kwan O ,878,13500,3.0,2.0,22.0,75.0,22.3119357,114.2568776
+896,50,Hing Yip King's Building,Prince Edward Rd ,High Floor|  Hing Yip King's Building| Prince Edward Rd ,1800,13500,3.0,2.0,54.0,79.0,30.2572132,-81.70670799999999
+897,50,Wan Chai,Causeway Bay ,Flat K|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,1580,13500,1.0,,4.0,,22.2859787,114.1914919
+898,50,Banyan Garden,Lai Chi Kok ,Flat H| Middle Floor|  Block 2| Phase I| Banyan Garden| Lai Chi Kok ,870,13500,2.0,2.0,16.0,70.0,22.3377817,114.1359272
+899,50,Grand Waterfront,To Kwa Wan ,Flat E| Low Floor|  Block 2| Grand Waterfront| To Kwa Wan ,1100,13500,,,12.0,72.0,22.3173373,114.1879691
+900,51,The Victoria Towers,Tsim Sha Tsui ,Flat A| Middle Floor|  Block 1| The Victoria Towers| Tsim Sha Tsui ,1500,13500,2.0,1.0,16.0,69.0,22.2988123,114.1721746
+901,51,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3A| Grand Austin| Tsim Sha Tsui ,4300,13500,3.0,1.0,4.0,,22.2988123,114.1721746
+902,51,The Altitude,Happy Valley/East Mid Level ,Flat A| Low Floor|  The Altitude| Happy Valley/East Mid Level ,4200,13500,3.0,2.0,8.0,78.0,42.3486922,-72.5682945
+903,51,Chenyu Court,Central Mid-Levels & Peak ,High Floor|  Chenyu Court| Central Mid-Levels & Peak ,3400,13500,2.0,2.0,53.0,81.0,22.2695676,114.1658745
+904,51,Metro Harbour View,Tai Kok Tsui ,Flat F| High Floor|  Block 08| Phase 2| Metro Harbour View| Tai Kok Tsui ,810,13500,,,15.0,71.0,22.3198474,114.1620857
+905,51,The Long Beach,Olympic Station ,Flat C| High Floor|  Block 7| The Long Beach| Olympic Station ,1250,13500,2.0,1.0,14.0,75.0,34.050229,-118.2911404
+906,51,Harbour One,Western/Sheung Wan Central ,Flat B| High Floor|  Harbour One| Western/Sheung Wan Central ,3600,13500,3.0,2.0,7.0,74.0,37.0937489,-95.7127622
+907,51,Stanford Villa,Stanley/Tai Tam/Shek O , Block 4| Stanford Villa| Stanley/Tai Tam/Shek O ,3180,13500,3.0,2.0,24.0,81.0,37.09024,-95.712891
+908,51,The Masterpiece,Tsim Sha Tsui ,Flat A| High Floor|  The Masterpiece| Tsim Sha Tsui ,3500,13500,3.0,1.0,10.0,72.0,22.2988123,114.1721746
+909,51,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,2950,13500,2.0,2.0,30.0,82.0,22.2816223,114.147865
+910,51,Telford Gardens,Amoy/Kowloon Bay ,Flat 14| High Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,800,13500,2.0,2.0,37.0,87.0,24.479833,118.089425
+911,51,Telford Gardens,Amoy/Kowloon Bay ,Flat 6| Low Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,750,13500,2.0,2.0,37.0,87.0,24.479833,118.089425
+912,51,Splendour Villa,Repulse Bay & Shouson Hill ,Flat B| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,1800,13500,1.0,,25.0,77.0,22.245883,114.177979
+913,51,Metro City,Tseung Kwan O ,Flat A| Middle Floor|  Block 05| Phase 1| Metro City| Tseung Kwan O ,878,13500,3.0,2.0,22.0,75.0,22.3119357,114.2568776
+914,51,Hing Yip King's Building,Prince Edward Rd ,High Floor|  Hing Yip King's Building| Prince Edward Rd ,1800,13500,3.0,2.0,54.0,79.0,30.2572132,-81.70670799999999
+915,51,Wan Chai,Causeway Bay ,Flat K|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,1580,13500,1.0,,4.0,,22.2859787,114.1914919
+916,51,Banyan Garden,Lai Chi Kok ,Flat H| Middle Floor|  Block 2| Phase I| Banyan Garden| Lai Chi Kok ,870,13500,2.0,2.0,16.0,70.0,22.3377817,114.1359272
+917,51,Grand Waterfront,To Kwa Wan ,Flat E| Low Floor|  Block 2| Grand Waterfront| To Kwa Wan ,1100,13500,,,12.0,72.0,22.3173373,114.1879691

@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_60b8bf2792ee480d906dc709e73d3218 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+                <div style="position: fixed; 
+                            bottom: 50px; left: 50px; width: 100px; height: 140px; 
+                            border:4px solid black; z-index:9999; font-size:12px;
+                            ">&nbsp; Property Prices <br>
+                              &nbsp; Sell$ 0Q &nbsp; <i class="fa fa-map-marker fa-2x" style="color:blue"></i><br>
+                              &nbsp; Sell$ 25Q &nbsp; <i class="fa fa-map-marker fa-2x" style="color:green"></i><br>
+                              &nbsp; Sell$ 50Q &nbsp; <i class="fa fa-map-marker fa-2x" style="color:orange"></i><br>
+                              &nbsp; Sell$ 75Q &nbsp; <i class="fa fa-map-marker fa-2x" style="color:red"></i>
+                </div>
+                
+    
+            <div class="folium-map" id="map_60b8bf2792ee480d906dc709e73d3218" ></div>
+        
+</body>
+<script>    
+    
+            var map_60b8bf2792ee480d906dc709e73d3218 = L.map(
+                "map_60b8bf2792ee480d906dc709e73d3218",
+                {
+                    center: [22.312287, 114.181424],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12.5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_790aafae5171482d88c9c617e35230e8 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+            var circle_marker_8a7a9bb429d14246838d1701b6497bc7 = L.circleMarker(
+                [57.149717, -2.094278],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.51, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_5e1d5c445d0d47bc90f7e7ce34b15a31 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a39dc0dd65964e05a15816b07d437dad = $(`<div id="html_a39dc0dd65964e05a15816b07d437dad" style="width: 100.0%; height: 100.0%;">City: Aberdeen / wong chuk hang <br>Rent: 13500.0<br>Selling Price: 740.0$</div>`)[0];
+            popup_5e1d5c445d0d47bc90f7e7ce34b15a31.setContent(html_a39dc0dd65964e05a15816b07d437dad);
+        
+
+        circle_marker_8a7a9bb429d14246838d1701b6497bc7.bindPopup(popup_5e1d5c445d0d47bc90f7e7ce34b15a31)
+        ;
+
+        
+    
+    
+            var circle_marker_4af583e7ff7242f999a09be8bf75851c = L.circleMarker(
+                [24.479832999999992, 118.08942500000008],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.928999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_621a27a98a934b039e0da244e5431548 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9451ff54c7624b2ebe1bf7b2db2c21aa = $(`<div id="html_9451ff54c7624b2ebe1bf7b2db2c21aa" style="width: 100.0%; height: 100.0%;">City: Amoy/kowloon bay <br>Rent: 26650.0<br>Selling Price: 687.8$</div>`)[0];
+            popup_621a27a98a934b039e0da244e5431548.setContent(html_9451ff54c7624b2ebe1bf7b2db2c21aa);
+        
+
+        circle_marker_4af583e7ff7242f999a09be8bf75851c.bindPopup(popup_621a27a98a934b039e0da244e5431548)
+        ;
+
+        
+    
+    
+            var circle_marker_3110183277cb4ac9b35a1e2ac5b026cb = L.circleMarker(
+                [22.2418581, 114.15285320000001],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.059999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_4f3862ea0f7a4f38b986fb69d5b627b5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_12ac6b82a77c458398eb46bc5da19028 = $(`<div id="html_12ac6b82a77c458398eb46bc5da19028" style="width: 100.0%; height: 100.0%;">City: Ap lei chau <br>Rent: 31000.0<br>Selling Price: 1268.8$</div>`)[0];
+            popup_4f3862ea0f7a4f38b986fb69d5b627b5.setContent(html_12ac6b82a77c458398eb46bc5da19028);
+        
+
+        circle_marker_3110183277cb4ac9b35a1e2ac5b026cb.bindPopup(popup_4f3862ea0f7a4f38b986fb69d5b627b5)
+        ;
+
+        
+    
+    
+            var circle_marker_cde2a97c5f21425f80bad68c133dc961 = L.circleMarker(
+                [41.9716799, -87.7484664],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.889999999999997, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_c8563735fe104efbb94406f1f28d05ec = L.popup({"maxWidth": "100%"});
+
+        
+            var html_da148a5bc3e74370a9adfeb836df4534 = $(`<div id="html_da148a5bc3e74370a9adfeb836df4534" style="width: 100.0%; height: 100.0%;">City: Argyle street <br>Rent: 76500.0<br>Selling Price: 1395.0$</div>`)[0];
+            popup_c8563735fe104efbb94406f1f28d05ec.setContent(html_da148a5bc3e74370a9adfeb836df4534);
+        
+
+        circle_marker_cde2a97c5f21425f80bad68c133dc961.bindPopup(popup_c8563735fe104efbb94406f1f28d05ec)
+        ;
+
+        
+    
+    
+            var circle_marker_45cdf15322b3423eaf33033b7bc34ab4 = L.circleMarker(
+                [22.28597869999999, 114.19149190000005],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.710249999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_3482fd8f779d49ebbea89b48f156281b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_31d3f5b508a64931a657f39bc1ae672d = $(`<div id="html_31d3f5b508a64931a657f39bc1ae672d" style="width: 100.0%; height: 100.0%;">City: Causeway bay <br>Rent: 21962.5<br>Selling Price: 1245.05$</div>`)[0];
+            popup_3482fd8f779d49ebbea89b48f156281b.setContent(html_31d3f5b508a64931a657f39bc1ae672d);
+        
+
+        circle_marker_45cdf15322b3423eaf33033b7bc34ab4.bindPopup(popup_3482fd8f779d49ebbea89b48f156281b)
+        ;
+
+        
+    
+    
+            var circle_marker_e24a2cc9077d4a9296796c726ddade5d = L.circleMarker(
+                [30.01910909999999, -90.15386679999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.747999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_8b59ba1530f946169087284ea187c47a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3b192d9fcb3a4bb5b320345a4fe6d76a = $(`<div id="html_3b192d9fcb3a4bb5b320345a4fe6d76a" style="width: 100.0%; height: 100.0%;">City: Causeway... <br>Rent: 29800.0<br>Selling Price: 700.0$</div>`)[0];
+            popup_8b59ba1530f946169087284ea187c47a.setContent(html_3b192d9fcb3a4bb5b320345a4fe6d76a);
+        
+
+        circle_marker_e24a2cc9077d4a9296796c726ddade5d.bindPopup(popup_8b59ba1530f946169087284ea187c47a)
+        ;
+
+        
+    
+    
+            var circle_marker_8c97ca44e3d54b219f96ec702bec5c4b = L.circleMarker(
+                [22.319477900000006, 114.18613099999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.938181818181818, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_fdc1b915449d4f559933b882b282de41 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6ebb8ab4a12b40d8a46a0f91ca8e48e1 = $(`<div id="html_6ebb8ab4a12b40d8a46a0f91ca8e48e1" style="width: 100.0%; height: 100.0%;">City: Celestial heights <br>Rent: 57454.545454545456<br>Selling Price: 3787.2727272727275$</div>`)[0];
+            popup_fdc1b915449d4f559933b882b282de41.setContent(html_6ebb8ab4a12b40d8a46a0f91ca8e48e1);
+        
+
+        circle_marker_8c97ca44e3d54b219f96ec702bec5c4b.bindPopup(popup_fdc1b915449d4f559933b882b282de41)
+        ;
+
+        
+    
+    
+            var circle_marker_3e8e27644dea447887fa75d0c1d49d2f = L.circleMarker(
+                [22.269567600000002, 114.16587450000002],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25.583999999999996, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_9618373958664325872eda3b7541e4e7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a8cbb5b12164244a71704445a5ad024 = $(`<div id="html_7a8cbb5b12164244a71704445a5ad024" style="width: 100.0%; height: 100.0%;">City: Central mid-levels & peak <br>Rent: 98400.0<br>Selling Price: 11060.0$</div>`)[0];
+            popup_9618373958664325872eda3b7541e4e7.setContent(html_7a8cbb5b12164244a71704445a5ad024);
+        
+
+        circle_marker_3e8e27644dea447887fa75d0c1d49d2f.bindPopup(popup_9618373958664325872eda3b7541e4e7)
+        ;
+
+        
+    
+    
+            var circle_marker_628535c719f7420db1e12780d3a5f8db = L.circleMarker(
+                [22.335805499999996, 114.14948920000003],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.786, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_d0420ef0164340b2964e2e7726fbbc17 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_63ecc76b0a934230a0c2050687d31880 = $(`<div id="html_63ecc76b0a934230a0c2050687d31880" style="width: 100.0%; height: 100.0%;">City: Cheung sha wan <br>Rent: 26100.0<br>Selling Price: 858.8$</div>`)[0];
+            popup_d0420ef0164340b2964e2e7726fbbc17.setContent(html_63ecc76b0a934230a0c2050687d31880);
+        
+
+        circle_marker_628535c719f7420db1e12780d3a5f8db.bindPopup(popup_d0420ef0164340b2964e2e7726fbbc17)
+        ;
+
+        
+    
+    
+            var circle_marker_0891b4d5ec00462a81bbffe758ad7798 = L.circleMarker(
+                [42.34869220000001, -72.56829449999996],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.797724137931032, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_d6538c34d6e64b4aac632dc130db8ca0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_86f9a49122284c1f8aa30b8d93dba477 = $(`<div id="html_86f9a49122284c1f8aa30b8d93dba477" style="width: 100.0%; height: 100.0%;">City: Happy valley/east mid level <br>Rent: 45375.862068965514<br>Selling Price: 3457.9655172413795$</div>`)[0];
+            popup_d6538c34d6e64b4aac632dc130db8ca0.setContent(html_86f9a49122284c1f8aa30b8d93dba477);
+        
+
+        circle_marker_0891b4d5ec00462a81bbffe758ad7798.bindPopup(popup_d6538c34d6e64b4aac632dc130db8ca0)
+        ;
+
+        
+    
+    
+            var circle_marker_4ae22b7641d64988b92d0c4291e4a8ed = L.circleMarker(
+                [22.318506999999972, 114.17553390000006],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.867146666666667, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_ad309c203b854516b750dc66c4c49955 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0bf9b8392ab34c149cd7b15e85c4f0b4 = $(`<div id="html_0bf9b8392ab34c149cd7b15e85c4f0b4" style="width: 100.0%; height: 100.0%;">City: Homantin/kingspark <br>Rent: 57181.333333333336<br>Selling Price: 2864.44$</div>`)[0];
+            popup_ad309c203b854516b750dc66c4c49955.setContent(html_0bf9b8392ab34c149cd7b15e85c4f0b4);
+        
+
+        circle_marker_4ae22b7641d64988b92d0c4291e4a8ed.bindPopup(popup_ad309c203b854516b750dc66c4c49955)
+        ;
+
+        
+    
+    
+            var circle_marker_36b327db16ef4d32b77900c11fd755a5 = L.circleMarker(
+                [22.305565800000007, 114.1887233],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.95, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_174da93556cf4d628e9643fbb3477362 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_acab6e2058834174aa097765de21a005 = $(`<div id="html_acab6e2058834174aa097765de21a005" style="width: 100.0%; height: 100.0%;">City: Hung hom <br>Rent: 57500.0<br>Selling Price: 2628.1666666666665$</div>`)[0];
+            popup_174da93556cf4d628e9643fbb3477362.setContent(html_acab6e2058834174aa097765de21a005);
+        
+
+        circle_marker_36b327db16ef4d32b77900c11fd755a5.bindPopup(popup_174da93556cf4d628e9643fbb3477362)
+        ;
+
+        
+    
+    
+            var circle_marker_d658019096534d6a8621b97c49b94d79 = L.circleMarker(
+                [22.305565800000004, 114.18872330000002],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.614222222222223, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_6b7bddd2c0614f7d951a1c134b40dfac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1c36a8f9c0cf478d914047dd9bdb3784 = $(`<div id="html_1c36a8f9c0cf478d914047dd9bdb3784" style="width: 100.0%; height: 100.0%;">City: Hung hom/whampoa <br>Rent: 36977.77777777778<br>Selling Price: 1819.111111111111$</div>`)[0];
+            popup_6b7bddd2c0614f7d951a1c134b40dfac.setContent(html_1c36a8f9c0cf478d914047dd9bdb3784);
+        
+
+        circle_marker_d658019096534d6a8621b97c49b94d79.bindPopup(popup_6b7bddd2c0614f7d951a1c134b40dfac)
+        ;
+
+        
+    
+    
+            var circle_marker_0370c47144a942bbb9274d0e5f6199e7 = L.circleMarker(
+                [30.585164000000002, 36.238414],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.539999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_0daa0ad225f648bda7ad9506ad829a26 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c9508c2b5972435e8778a73358a6badb = $(`<div id="html_c9508c2b5972435e8778a73358a6badb" style="width: 100.0%; height: 100.0%;">City: Jordan <br>Rent: 29000.0<br>Selling Price: 918.3333333333334$</div>`)[0];
+            popup_0daa0ad225f648bda7ad9506ad829a26.setContent(html_c9508c2b5972435e8778a73358a6badb);
+        
+
+        circle_marker_0370c47144a942bbb9274d0e5f6199e7.bindPopup(popup_0daa0ad225f648bda7ad9506ad829a26)
+        ;
+
+        
+    
+    
+            var circle_marker_38f21669f52d4d52b543c4f16cdd013a = L.circleMarker(
+                [22.322641100000002, 114.1758902],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.559999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_968246027a1b4df59a407cffa63cfea2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_edd70f90509f43639db300572a60d3c9 = $(`<div id="html_edd70f90509f43639db300572a60d3c9" style="width: 100.0%; height: 100.0%;">City: Kadoorie hill <br>Rent: 56000.0<br>Selling Price: 3800.0$</div>`)[0];
+            popup_968246027a1b4df59a407cffa63cfea2.setContent(html_edd70f90509f43639db300572a60d3c9);
+        
+
+        circle_marker_38f21669f52d4d52b543c4f16cdd013a.bindPopup(popup_968246027a1b4df59a407cffa63cfea2)
+        ;
+
+        
+    
+    
+            var circle_marker_57273379201745d8b0fe6c7c424f3336 = L.circleMarker(
+                [43.823099, -79.3964749],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.547999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_c9d34265ca154c52a15bde214c1d8b4c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e068eb82f50644e28c63ffdd14c5d1a5 = $(`<div id="html_e068eb82f50644e28c63ffdd14c5d1a5" style="width: 100.0%; height: 100.0%;">City: Kai tak <br>Rent: 59800.0<br>Selling Price: 1426.0$</div>`)[0];
+            popup_c9d34265ca154c52a15bde214c1d8b4c.setContent(html_e068eb82f50644e28c63ffdd14c5d1a5);
+        
+
+        circle_marker_57273379201745d8b0fe6c7c424f3336.bindPopup(popup_c9d34265ca154c52a15bde214c1d8b4c)
+        ;
+
+        
+    
+    
+            var circle_marker_bc7a50c3a87d4f198ce963870bfea1dc = L.circleMarker(
+                [22.336931900000014, 114.17633670000012],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.93648387096774, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_6ff0ad9a0b29479ea38d8d292e987afe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bb6f82f51ea84955bb6e0b803fb2510d = $(`<div id="html_bb6f82f51ea84955bb6e0b803fb2510d" style="width: 100.0%; height: 100.0%;">City: Kln tong / beacon hill <br>Rent: 65140.32258064516<br>Selling Price: 3651.967741935484$</div>`)[0];
+            popup_6ff0ad9a0b29479ea38d8d292e987afe.setContent(html_bb6f82f51ea84955bb6e0b803fb2510d);
+        
+
+        circle_marker_bc7a50c3a87d4f198ce963870bfea1dc.bindPopup(popup_6ff0ad9a0b29479ea38d8d292e987afe)
+        ;
+
+        
+    
+    
+            var circle_marker_487596a5731445b08c7ee6afda1b5e13 = L.circleMarker(
+                [22.304306, 114.16147499999992],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.504399999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_87ab4211e2b6473eb9a6f67a8f6ee23c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1efaea108e844a2b9449afda09ea8281 = $(`<div id="html_1efaea108e844a2b9449afda09ea8281" style="width: 100.0%; height: 100.0%;">City: Kowloon station <br>Rent: 51940.0<br>Selling Price: 3986.8$</div>`)[0];
+            popup_87ab4211e2b6473eb9a6f67a8f6ee23c.setContent(html_1efaea108e844a2b9449afda09ea8281);
+        
+
+        circle_marker_487596a5731445b08c7ee6afda1b5e13.bindPopup(popup_87ab4211e2b6473eb9a6f67a8f6ee23c)
+        ;
+
+        
+    
+    
+            var circle_marker_01f3de1cc9aa48e1ab4b317e527ab869 = L.circleMarker(
+                [22.3668502, 114.1302591],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.51, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_7fd832bb6c1f40718499da715944137b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_463d59709127444eb1d44f9295bee8db = $(`<div id="html_463d59709127444eb1d44f9295bee8db" style="width: 100.0%; height: 100.0%;">City: Kwai chung/tsing yi <br>Rent: 13500.0<br>Selling Price: 750.0$</div>`)[0];
+            popup_7fd832bb6c1f40718499da715944137b.setContent(html_463d59709127444eb1d44f9295bee8db);
+        
+
+        circle_marker_01f3de1cc9aa48e1ab4b317e527ab869.bindPopup(popup_7fd832bb6c1f40718499da715944137b)
+        ;
+
+        
+    
+    
+            var circle_marker_4a1d9435cdf64e7ba67a084b4958ea17 = L.circleMarker(
+                [22.3103686, 114.22270349999998],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.329999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_c6bf7d7b03324d2a81f1ebce2be1380d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a54b42f61d4440f382f52c96ff5807b1 = $(`<div id="html_a54b42f61d4440f382f52c96ff5807b1" style="width: 100.0%; height: 100.0%;">City: Kwun tong <br>Rent: 20500.0<br>Selling Price: 864.2857142857143$</div>`)[0];
+            popup_c6bf7d7b03324d2a81f1ebce2be1380d.setContent(html_a54b42f61d4440f382f52c96ff5807b1);
+        
+
+        circle_marker_4a1d9435cdf64e7ba67a084b4958ea17.bindPopup(popup_c6bf7d7b03324d2a81f1ebce2be1380d)
+        ;
+
+        
+    
+    
+            var circle_marker_b4a74453bf834b18bb7e2ec55cc9b257 = L.circleMarker(
+                [22.337781700000015, 114.13592719999998],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.612799999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_459e582cd6254d2d925021776c392d8d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a9a917c4a53c4214a9c497d406999730 = $(`<div id="html_a9a917c4a53c4214a9c497d406999730" style="width: 100.0%; height: 100.0%;">City: Lai chi kok <br>Rent: 29280.0<br>Selling Price: 1040.6857142857143$</div>`)[0];
+            popup_459e582cd6254d2d925021776c392d8d.setContent(html_a9a917c4a53c4214a9c497d406999730);
+        
+
+        circle_marker_b4a74453bf834b18bb7e2ec55cc9b257.bindPopup(popup_459e582cd6254d2d925021776c392d8d)
+        ;
+
+        
+    
+    
+            var circle_marker_f9b42f7bdce64ce88df83bd97d2a2abc = L.circleMarker(
+                [22.3366356, 114.14021950000004],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.486142857142856, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_d4c2645fed734af1aa773fababcbb97e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8d314a3c95e8458bb82706335e36df06 = $(`<div id="html_8d314a3c95e8458bb82706335e36df06" style="width: 100.0%; height: 100.0%;">City: Mei foo <br>Rent: 28792.85714285714<br>Selling Price: 1405.857142857143$</div>`)[0];
+            popup_d4c2645fed734af1aa773fababcbb97e.setContent(html_8d314a3c95e8458bb82706335e36df06);
+        
+
+        circle_marker_f9b42f7bdce64ce88df83bd97d2a2abc.bindPopup(popup_d4c2645fed734af1aa773fababcbb97e)
+        ;
+
+        
+    
+    
+            var circle_marker_20b7a95bdaf64f70883df195b81913ee = L.circleMarker(
+                [22.320364799999997, 114.16977299999998],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.641111111111111, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_17b67138d6114440b78dd89c427ddcad = L.popup({"maxWidth": "100%"});
+
+        
+            var html_06616bc9155042e090ddc27db27986c7 = $(`<div id="html_06616bc9155042e090ddc27db27986c7" style="width: 100.0%; height: 100.0%;">City: Mongkok <br>Rent: 29388.88888888889<br>Selling Price: 1295.111111111111$</div>`)[0];
+            popup_17b67138d6114440b78dd89c427ddcad.setContent(html_06616bc9155042e090ddc27db27986c7);
+        
+
+        circle_marker_20b7a95bdaf64f70883df195b81913ee.bindPopup(popup_17b67138d6114440b78dd89c427ddcad)
+        ;
+
+        
+    
+    
+            var circle_marker_fbfdb2bf37e94105ba0778217483b9c3 = L.circleMarker(
+                [37.1222422, -94.47484299999998],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.432941176470588, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_080bc7bc61bf4797ab5d3e536e23d8e6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e564850663484c189b3df87ecacb5127 = $(`<div id="html_e564850663484c189b3df87ecacb5127" style="width: 100.0%; height: 100.0%;">City: North point & north point midlevel <br>Rent: 28588.235294117647<br>Selling Price: 1471.0588235294117$</div>`)[0];
+            popup_080bc7bc61bf4797ab5d3e536e23d8e6.setContent(html_e564850663484c189b3df87ecacb5127);
+        
+
+        circle_marker_fbfdb2bf37e94105ba0778217483b9c3.bindPopup(popup_080bc7bc61bf4797ab5d3e536e23d8e6)
+        ;
+
+        
+    
+    
+            var circle_marker_4ee4a60b95274b27b48995d363eaf533 = L.circleMarker(
+                [34.05022899999997, -118.29114040000002],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.706357142857142, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_86923b452e8c4d91a92c6d61958d4aaf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1fa09fe3da72473c838b7e72fd2974b4 = $(`<div id="html_1fa09fe3da72473c838b7e72fd2974b4" style="width: 100.0%; height: 100.0%;">City: Olympic station <br>Rent: 37332.142857142855<br>Selling Price: 1889.2857142857142$</div>`)[0];
+            popup_86923b452e8c4d91a92c6d61958d4aaf.setContent(html_1fa09fe3da72473c838b7e72fd2974b4);
+        
+
+        circle_marker_4ee4a60b95274b27b48995d363eaf533.bindPopup(popup_86923b452e8c4d91a92c6d61958d4aaf)
+        ;
+
+        
+    
+    
+            var circle_marker_23ad9e5a63d3407a8bbd0ec2664ef4d4 = L.circleMarker(
+                [22.267920100000005, 114.12907190000003],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.795999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_7dd079c9795f4ec7ac5535db36a69e05 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_550ddf00f5bc423690add3f633ab8298 = $(`<div id="html_550ddf00f5bc423690add3f633ab8298" style="width: 100.0%; height: 100.0%;">City: Pokfulam/residence <br>Rent: 45369.230769230766<br>Selling Price: 10746.0$</div>`)[0];
+            popup_7dd079c9795f4ec7ac5535db36a69e05.setContent(html_550ddf00f5bc423690add3f633ab8298);
+        
+
+        circle_marker_23ad9e5a63d3407a8bbd0ec2664ef4d4.bindPopup(popup_7dd079c9795f4ec7ac5535db36a69e05)
+        ;
+
+        
+    
+    
+            var circle_marker_0eabda2b7c204db397db922101ceb383 = L.circleMarker(
+                [30.257213200000017, -81.70670799999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.56751515151515, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_75b0d06a17df413a8ec7f101fe447f02 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_420e7bd8f4b749e7b583b2ff9b2c4a64 = $(`<div id="html_420e7bd8f4b749e7b583b2ff9b2c4a64" style="width: 100.0%; height: 100.0%;">City: Prince edward rd <br>Rent: 63721.21212121212<br>Selling Price: 2727.878787878788$</div>`)[0];
+            popup_75b0d06a17df413a8ec7f101fe447f02.setContent(html_420e7bd8f4b749e7b583b2ff9b2c4a64);
+        
+
+        circle_marker_0eabda2b7c204db397db922101ceb383.bindPopup(popup_75b0d06a17df413a8ec7f101fe447f02)
+        ;
+
+        
+    
+    
+            var circle_marker_feccdddc8b0344219d380bbdc9130cf2 = L.circleMarker(
+                [22.2827206, 114.21230089999997],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.231249999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_f72fa69912da4244a96a1e709125bf4b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2e853e753c084d358e807adda1b7e130 = $(`<div id="html_2e853e753c084d358e807adda1b7e130" style="width: 100.0%; height: 100.0%;">City: Quarry bay <br>Rent: 27812.5<br>Selling Price: 961.75$</div>`)[0];
+            popup_f72fa69912da4244a96a1e709125bf4b.setContent(html_2e853e753c084d358e807adda1b7e130);
+        
+
+        circle_marker_feccdddc8b0344219d380bbdc9130cf2.bindPopup(popup_f72fa69912da4244a96a1e709125bf4b)
+        ;
+
+        
+    
+    
+            var circle_marker_44b0d3fef36f4a048cecea48818110b7 = L.circleMarker(
+                [22.245882999999996, 114.17797900000004],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21.926666666666662, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_62e314cd50a84095ab608cf3fee9552a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_aa40428257594450aedff662a9328cdb = $(`<div id="html_aa40428257594450aedff662a9328cdb" style="width: 100.0%; height: 100.0%;">City: Repulse bay & shouson hill <br>Rent: 84333.33333333333<br>Selling Price: 13148.333333333334$</div>`)[0];
+            popup_62e314cd50a84095ab608cf3fee9552a.setContent(html_aa40428257594450aedff662a9328cdb);
+        
+
+        circle_marker_44b0d3fef36f4a048cecea48818110b7.bindPopup(popup_62e314cd50a84095ab608cf3fee9552a)
+        ;
+
+        
+    
+    
+            var circle_marker_363d824395bb4e28a246e81a810882e4 = L.circleMarker(
+                [22.383689, 114.27078669999996],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.598842105263156, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_01b64fa2ff5641ee82f29f8657ca3b3e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0e2a60df37e9410fa56f053d451108be = $(`<div id="html_0e2a60df37e9410fa56f053d451108be" style="width: 100.0%; height: 100.0%;">City: Sai kung <br>Rent: 79226.31578947368<br>Selling Price: 2941.1052631578946$</div>`)[0];
+            popup_01b64fa2ff5641ee82f29f8657ca3b3e.setContent(html_0e2a60df37e9410fa56f053d451108be);
+        
+
+        circle_marker_363d824395bb4e28a246e81a810882e4.bindPopup(popup_01b64fa2ff5641ee82f29f8657ca3b3e)
+        ;
+
+        
+    
+    
+            var circle_marker_4fdd56f2fc404fcebf9b2acbe4fbdcef = L.circleMarker(
+                [22.282473799999995, 114.2227035],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.965454545454545, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_c7be86129c8544cc818adf35a055308f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_899da1dda00046d5b37ca0006e147869 = $(`<div id="html_899da1dda00046d5b37ca0006e147869" style="width: 100.0%; height: 100.0%;">City: Sai wan ho <br>Rent: 30636.363636363636<br>Selling Price: 1631.4545454545455$</div>`)[0];
+            popup_c7be86129c8544cc818adf35a055308f.setContent(html_899da1dda00046d5b37ca0006e147869);
+        
+
+        circle_marker_4fdd56f2fc404fcebf9b2acbe4fbdcef.bindPopup(popup_c7be86129c8544cc818adf35a055308f)
+        ;
+
+        
+    
+    
+            var circle_marker_6c3b094805e246f083baaee6e79e10dd = L.circleMarker(
+                [22.328589899999997, 114.1602846],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.424, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_4101e5aedbf344d7af6d12823c431899 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2fe7059cce6645d8ba41313b7e643b1f = $(`<div id="html_2fe7059cce6645d8ba41313b7e643b1f" style="width: 100.0%; height: 100.0%;">City: Sham shui po <br>Rent: 32400.0<br>Selling Price: 989.6$</div>`)[0];
+            popup_4101e5aedbf344d7af6d12823c431899.setContent(html_2fe7059cce6645d8ba41313b7e643b1f);
+        
+
+        circle_marker_6c3b094805e246f083baaee6e79e10dd.bindPopup(popup_4101e5aedbf344d7af6d12823c431899)
+        ;
+
+        
+    
+    
+            var circle_marker_f9a7b868e9af401fb6682752c16066ee = L.circleMarker(
+                [22.3771304, 114.1974398],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.489999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_4c3257c33619415c837415f9703f03d3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4a3faff2042e4b9a81e8881b026a1696 = $(`<div id="html_4a3faff2042e4b9a81e8881b026a1696" style="width: 100.0%; height: 100.0%;">City: Shatin <br>Rent: 36500.0<br>Selling Price: 2393.3333333333335$</div>`)[0];
+            popup_4c3257c33619415c837415f9703f03d3.setContent(html_4a3faff2042e4b9a81e8881b026a1696);
+        
+
+        circle_marker_f9a7b868e9af401fb6682752c16066ee.bindPopup(popup_4c3257c33619415c837415f9703f03d3)
+        ;
+
+        
+    
+    
+            var circle_marker_fbfb8a4f5af847e7a0c0246a5db4b844 = L.circleMarker(
+                [22.278745999999998, 114.2286476],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.005, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_41ae6215d5fc4f209b6c5a1d4b63e7be = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a5801279182a4563b25645af6d201bef = $(`<div id="html_a5801279182a4563b25645af6d201bef" style="width: 100.0%; height: 100.0%;">City: Shau kei wan/chai wan <br>Rent: 19250.0<br>Selling Price: 1390.0$</div>`)[0];
+            popup_41ae6215d5fc4f209b6c5a1d4b63e7be.setContent(html_a5801279182a4563b25645af6d201bef);
+        
+
+        circle_marker_fbfb8a4f5af847e7a0c0246a5db4b844.bindPopup(popup_41ae6215d5fc4f209b6c5a1d4b63e7be)
+        ;
+
+        
+    
+    
+            var circle_marker_2693ebac5e7641b8bf632b21a174ed31 = L.circleMarker(
+                [37.09024, -95.71289099999996],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.1842105263157885, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_96bcb8a07be64cb48518cb5ca5b0057b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1ef6eaa89d134de18b2c123120f8c9bb = $(`<div id="html_1ef6eaa89d134de18b2c123120f8c9bb" style="width: 100.0%; height: 100.0%;">City: Stanley/tai tam/shek o <br>Rent: 27631.57894736842<br>Selling Price: 4530.526315789473$</div>`)[0];
+            popup_96bcb8a07be64cb48518cb5ca5b0057b.setContent(html_1ef6eaa89d134de18b2c123120f8c9bb);
+        
+
+        circle_marker_2693ebac5e7641b8bf632b21a174ed31.bindPopup(popup_96bcb8a07be64cb48518cb5ca5b0057b)
+        ;
+
+        
+    
+    
+            var circle_marker_1475d2cb6b644393aab5eb764d6f0ba6 = L.circleMarker(
+                [22.319847400000008, 114.16208570000002],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.3839999999999995, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_eb75eac923f64498ae2eca9fe7943f0d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_33bf7f7e1b4c49be9c460d1c91e77156 = $(`<div id="html_33bf7f7e1b4c49be9c460d1c91e77156" style="width: 100.0%; height: 100.0%;">City: Tai kok tsui <br>Rent: 28400.0<br>Selling Price: 709.2352941176471$</div>`)[0];
+            popup_eb75eac923f64498ae2eca9fe7943f0d.setContent(html_33bf7f7e1b4c49be9c460d1c91e77156);
+        
+
+        circle_marker_1475d2cb6b644393aab5eb764d6f0ba6.bindPopup(popup_eb75eac923f64498ae2eca9fe7943f0d)
+        ;
+
+        
+    
+    
+            var circle_marker_517ec6d02d364aacaada263aacb9eeaf = L.circleMarker(
+                [22.286547100000003, 114.21898830000003],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.735999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_4f9ac15a095e43b0bc8b21e77ecf880c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_529f7ab6885f48bebae6cb92320b512c = $(`<div id="html_529f7ab6885f48bebae6cb92320b512c" style="width: 100.0%; height: 100.0%;">City: Taikoo shing <br>Rent: 33600.0<br>Selling Price: 1865.4444444444443$</div>`)[0];
+            popup_4f9ac15a095e43b0bc8b21e77ecf880c.setContent(html_529f7ab6885f48bebae6cb92320b512c);
+        
+
+        circle_marker_517ec6d02d364aacaada263aacb9eeaf.bindPopup(popup_4f9ac15a095e43b0bc8b21e77ecf880c)
+        ;
+
+        
+    
+    
+            var circle_marker_3bece717e3424978a22c1aa8b9457a28 = L.circleMarker(
+                [22.317337300000002, 114.18796909999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.4319999999999995, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_9928a8f299004bee80352e0d49bfda18 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a246d51dd2d4f5fae52f1b5a8cc30c9 = $(`<div id="html_7a246d51dd2d4f5fae52f1b5a8cc30c9" style="width: 100.0%; height: 100.0%;">City: To kwa wan <br>Rent: 13200.0<br>Selling Price: 752.0$</div>`)[0];
+            popup_9928a8f299004bee80352e0d49bfda18.setContent(html_7a246d51dd2d4f5fae52f1b5a8cc30c9);
+        
+
+        circle_marker_3bece717e3424978a22c1aa8b9457a28.bindPopup(popup_9928a8f299004bee80352e0d49bfda18)
+        ;
+
+        
+    
+    
+            var circle_marker_ddad66221da541feaf092c574379d8bf = L.circleMarker(
+                [22.31193570000003, 114.2568776],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.774626506024096, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_56a00904eeba42b093cb7a6f9e8bc4c5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9fa9f402d13241f8b71f4e1feeae988b = $(`<div id="html_9fa9f402d13241f8b71f4e1feeae988b" style="width: 100.0%; height: 100.0%;">City: Tseung kwan o <br>Rent: 29902.409638554218<br>Selling Price: 948.7349397590361$</div>`)[0];
+            popup_56a00904eeba42b093cb7a6f9e8bc4c5.setContent(html_9fa9f402d13241f8b71f4e1feeae988b);
+        
+
+        circle_marker_ddad66221da541feaf092c574379d8bf.bindPopup(popup_56a00904eeba42b093cb7a6f9e8bc4c5)
+        ;
+
+        
+    
+    
+            var circle_marker_d38dfab8aa084b63984178b9095c4e9e = L.circleMarker(
+                [22.298812300000005, 114.17217459999995],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.205625, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_6ef21005d99e4148bc879b8b7a934398 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8ffaa5c4ab5145818c6ddcf26b33c9b9 = $(`<div id="html_8ffaa5c4ab5145818c6ddcf26b33c9b9" style="width: 100.0%; height: 100.0%;">City: Tsim sha tsui <br>Rent: 35406.25<br>Selling Price: 2638.3125$</div>`)[0];
+            popup_6ef21005d99e4148bc879b8b7a934398.setContent(html_8ffaa5c4ab5145818c6ddcf26b33c9b9);
+        
+
+        circle_marker_d38dfab8aa084b63984178b9095c4e9e.bindPopup(popup_6ef21005d99e4148bc879b8b7a934398)
+        ;
+
+        
+    
+    
+            var circle_marker_8d3212b4547c43bb933fe25bf09c9290 = L.circleMarker(
+                [22.3699122, 114.11443059999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.9159999999999995, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_0f54659834f5483d80fc3a5a3c2882a9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_347a6379d93b44b28867926a4f7700c7 = $(`<div id="html_347a6379d93b44b28867926a4f7700c7" style="width: 100.0%; height: 100.0%;">City: Tsuen wan <br>Rent: 26600.0<br>Selling Price: 1040.0$</div>`)[0];
+            popup_0f54659834f5483d80fc3a5a3c2882a9.setContent(html_347a6379d93b44b28867926a4f7700c7);
+        
+
+        circle_marker_8d3212b4547c43bb933fe25bf09c9290.bindPopup(popup_0f54659834f5483d80fc3a5a3c2882a9)
+        ;
+
+        
+    
+    
+            var circle_marker_d416bc0ba5c843ecac57349d49bd608c = L.circleMarker(
+                [35.72419639999999, -97.44084139999998],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.70542857142857, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_d1913f1f69f14b6cbdb602f0bea8f94e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0614ee7d42824aedb264ae64d663a529 = $(`<div id="html_0614ee7d42824aedb264ae64d663a529" style="width: 100.0%; height: 100.0%;">City: Waterloo road <br>Rent: 37328.57142857143<br>Selling Price: 1271.4285714285713$</div>`)[0];
+            popup_d1913f1f69f14b6cbdb602f0bea8f94e.setContent(html_0614ee7d42824aedb264ae64d663a529);
+        
+
+        circle_marker_d416bc0ba5c843ecac57349d49bd608c.bindPopup(popup_d1913f1f69f14b6cbdb602f0bea8f94e)
+        ;
+
+        
+    
+    
+            var circle_marker_787d687235644ff68737f66031d2b72d = L.circleMarker(
+                [22.281622299999988, 114.14786499999995],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.63945205479452, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_c88bc6abadfc441c9a120d6e319ee006 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9edfc48a116c469fad82f1dc4ea66a7b = $(`<div id="html_9edfc48a116c469fad82f1dc4ea66a7b" style="width: 100.0%; height: 100.0%;">City: Western mid-levels <br>Rent: 44767.12328767123<br>Selling Price: 3141.6301369863013$</div>`)[0];
+            popup_c88bc6abadfc441c9a120d6e319ee006.setContent(html_9edfc48a116c469fad82f1dc4ea66a7b);
+        
+
+        circle_marker_787d687235644ff68737f66031d2b72d.bindPopup(popup_c88bc6abadfc441c9a120d6e319ee006)
+        ;
+
+        
+    
+    
+            var circle_marker_d6b6866c39554e62a66c109d8fd38762 = L.circleMarker(
+                [37.093748900000016, -95.71276219999994],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.264555555555555, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_fd8de5d7441540589d16b713a9e972b2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6ba9015fa7444357975436b81b328d18 = $(`<div id="html_6ba9015fa7444357975436b81b328d18" style="width: 100.0%; height: 100.0%;">City: Western/sheung wan central <br>Rent: 24094.444444444445<br>Selling Price: 1559.5555555555557$</div>`)[0];
+            popup_fd8de5d7441540589d16b713a9e972b2.setContent(html_6ba9015fa7444357975436b81b328d18);
+        
+
+        circle_marker_d6b6866c39554e62a66c109d8fd38762.bindPopup(popup_fd8de5d7441540589d16b713a9e972b2)
+        ;
+
+        
+    
+    
+            var circle_marker_f410bb92505b441abcf1111bfdd63ac6 = L.circleMarker(
+                [37.7775324, -122.46379219999996],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.489999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_fe63a4b5ee8b46daaf263b787b5e3a04 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f751b1d0d4e6458f86bb08c3bbed2814 = $(`<div id="html_f751b1d0d4e6458f86bb08c3bbed2814" style="width: 100.0%; height: 100.0%;">City: Wong tai sin <br>Rent: 36500.0<br>Selling Price: 1172.1176470588234$</div>`)[0];
+            popup_fe63a4b5ee8b46daaf263b787b5e3a04.setContent(html_f751b1d0d4e6458f86bb08c3bbed2814);
+        
+
+        circle_marker_f410bb92505b441abcf1111bfdd63ac6.bindPopup(popup_fe63a4b5ee8b46daaf263b787b5e3a04)
+        ;
+
+        
+    
+    
+            var circle_marker_13c0b5d55a0b4d96a7cba3e445ff39ad = L.circleMarker(
+                [22.306853699999998, 114.1714423],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.51, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_584cde676cc344899f48d6ba76f298e3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_01b2f8df45184e3faba7b1a20d96820b = $(`<div id="html_01b2f8df45184e3faba7b1a20d96820b" style="width: 100.0%; height: 100.0%;">City: Yau ma tei <br>Rent: 13500.0<br>Selling Price: 750.0$</div>`)[0];
+            popup_584cde676cc344899f48d6ba76f298e3.setContent(html_01b2f8df45184e3faba7b1a20d96820b);
+        
+
+        circle_marker_13c0b5d55a0b4d96a7cba3e445ff39ad.bindPopup(popup_584cde676cc344899f48d6ba76f298e3)
+        ;
+
+        
+    
+    
+            var circle_marker_a5249d1789434904a72bdf4d910d17e5 = L.circleMarker(
+                [22.331246200000006, 114.17440390000002],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.914516129032258, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_5d7cb486e80645dfbd67650263b4f56f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d50e362465a94fe5a9e7e70691215f44 = $(`<div id="html_d50e362465a94fe5a9e7e70691215f44" style="width: 100.0%; height: 100.0%;">City: Yau yat chuen/shek kip mei <br>Rent: 61209.67741935484<br>Selling Price: 3202.516129032258$</div>`)[0];
+            popup_5d7cb486e80645dfbd67650263b4f56f.setContent(html_d50e362465a94fe5a9e7e70691215f44);
+        
+
+        circle_marker_a5249d1789434904a72bdf4d910d17e5.bindPopup(popup_5d7cb486e80645dfbd67650263b4f56f)
+        ;
+
+        
+    
+    
+            var circle_marker_b9fef60b02824ce79473116806ed11bb = L.circleMarker(
+                [22.4445376, 114.02220759999999],
+                {"bubblingMouseEvents": true, "color": "b", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.283333333333333, "stroke": true, "weight": 3}
+            ).addTo(map_60b8bf2792ee480d906dc709e73d3218);
+        
+    
+        var popup_0ff90e7d54c14083914d137b9f20bdc7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7e7a75902d0c4929a782d0079f1e06f4 = $(`<div id="html_7e7a75902d0c4929a782d0079f1e06f4" style="width: 100.0%; height: 100.0%;">City: Yuen long <br>Rent: 24166.666666666668<br>Selling Price: 796.6666666666666$</div>`)[0];
+            popup_0ff90e7d54c14083914d137b9f20bdc7.setContent(html_7e7a75902d0c4929a782d0079f1e06f4);
+        
+
+        circle_marker_b9fef60b02824ce79473116806ed11bb.bindPopup(popup_0ff90e7d54c14083914d137b9f20bdc7)
+        ;
+
+        
+    
+</script>
